@@ -1,0 +1,24 @@
+/*jiné barvy odkazu na uvod.html */
+#page div.no-link-underline a {
+  border-bottom: 0px dashed #499b00;
+}
+
+#page div.no-link-underline a:hover {
+  border-bottom: 3px dashed #ff5100;
+}
+
+.pozdrav {
+  margin-bottom: -40px;
+}
+
+#mili-priznivci {
+  order: 1px solid ed;
+  margin-bottom: 10px;
+}
+
+.different-text-style {
+  font-weight: 0;
+  order: 1px solid blue;
+  olor: rgb(49, 49, 49);
+  font-style: italic;
+}

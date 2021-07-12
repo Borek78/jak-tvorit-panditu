@@ -1,0 +1,124 @@
+.underline {
+  border-bottom: 1px solid black;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.highlighted-text-blue {
+  color: rgfded;
+  color: #0000bbb0;
+
+  font-weight: bold;
+}
+
+.highlighted-text-green {
+  color: green;
+  font-weight: bold;
+}
+
+/*h5 styles */
+h5 {
+  font-size: 16px;
+  color: #b7542d;
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+/*hover link on the blog page*/
+#page div.no-link-underline h3 a:hover {
+  border-bottom: 3px dashed orange;
+}
+
+/*wrap some link if necessary*/
+div.do-not-break-out {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+/*links on the blog page*/
+#page div.no-link-underline h3 a {
+  margin-bottom: 30px;
+
+  /* Fallback: Set a background color. */
+  color: #b7542d;
+
+  /* Create the gradient. */
+  background-image: linear-gradient(
+    45deg,
+    orange,
+    #b7542d,
+    #b7542d,
+    #b7542d,
+    #b7542d
+  );
+
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+/*remove the yellow pipali for this element and change link styles*/
+#page #blog h3 {
+  background-image: none;
+  padding-left: 0px;
+  font-family: "Raleway", sans-serif;
+  text-transform: none;
+  font-size: 20px;
+}
+
+/*used only once for A and B - maybe I will delete it */
+h4 {
+  color: #b7542d;
+  font-weight: bold;
+  border-bottom: none;
+  text-align: left;
+  font-size: 17;
+  display: block;
+}
+
+/*h2 - used for title of every page*/
+h2 {
+  color: #b7542d;
+  font-size: 21px;
+  display: block;
+  height: 32px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 2;
+  margin-bottom: 0px;
+}
+
+/*this makes every quated text look different*/
+.citace {
+  background-color: #feffd2;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 35px;
+  margin-top: 35px;
+  border: 1px dotted #b7542d85;
+}
