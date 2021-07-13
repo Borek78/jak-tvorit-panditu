@@ -24,7 +24,7 @@ Licence není použita na celý text českých titulků. Licence je použita pou
 - k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie.
   <br>
 
-- nemusí mít souhlas autora českých titulků. Jeho souhlas je garantován tím, že autor titulků zveřejnil svou práci za podmínek licence CC Uveďtě původ 4.0 Mezinárodní.
+- nemusí mít souhlas autora českých titulků. Jeho souhlas je garantován tím, že autor titulků zveřejnil svou práci za podmínek licence CC Uveďte původ 4.0 Mezinárodní.
 </div>
 
 Všechny tři soubory s titulky jsem nahrál ve formátu .srt na YouTube. O přítomnosti Posledního titulku na YouTube se můžete přesvědčit tak, že zapnete „měkké“ titulky. Poslední titulek začíná u jednotlivých videí v těchto časech: [Čtyři způsoby, jak se pustit, (55:31)](https://www.youtube.com/watch?v=pkH7Qick84E&t=3331s); [Učíme se být v klidu sami se sebou, (58:12)](https://www.youtube.com/watch?v=VCR0GOzAKoE#t=58m20s); [Inteligence není moudrost (07:08)](https://www.youtube.com/watch?v=W52r-greBg0#t=7m8s).
@@ -63,7 +63,7 @@ Licence není použita na celý text českých titulků. Licence je použita pou
 
 - k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie.
   <br>
-- nemusí mít souhlas autora českých titulků. Jeho souhlas je garantován tím, že autor titulků zveřejnil svou práci za podmínek licence CC Uveďtě původ 4.0 Mezinárodní.
+- nemusí mít souhlas autora českých titulků. Jeho souhlas je garantován tím, že autor titulků zveřejnil svou práci za podmínek licence CC Uveďte původ 4.0 Mezinárodní.
   <br>
 
 Tato licence je použita na všechny titulky, které jsou v této složce.

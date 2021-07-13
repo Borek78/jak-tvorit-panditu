@@ -1,4 +1,4 @@
-<div class="citace">
+<div class="citace" markdown="1">
 V souvislosti s licencemi Creative Commons se lze setkat ještě
 se dvěma nástroji. Konkrétně se jedná o „licenci“ CC0 (CC Zero) a tzv.
 Public Domain Mark. <br><br>
@@ -11,7 +11,7 @@ stanovuje, že se jedná o maximální možnou právem dovolenou licenci
 („Public License Fallback“) – tedy licenci Creative Commons „Uveďte
 autora“ 4.0. V rámci bezproblémové aplikace nedoporučujeme tento
 nástroj užívat a místo něj raději používat nejliberálnější univerzální
-licenci Creative Commons „Uveďte autora“ 4.0. <br><br>
+licenci [Creative Commons „Uveďte autora“ 4.0.](https://creativecommons.org/licenses/by/4.0/deed.cs) <br><br>
 
 Zdroj:<br>
 Veřejné licence v České republice, verze 2.0<br>

@@ -2,7 +2,7 @@
 ### POZNÁMKA PRO UŽIVATELE
 </div>
 
-Každé dílo, na které je aplikována licence CC, je opatřeno poznámkou (informací), ze které je zřetelné, za jakých podmínek může potencionální uživatel (nabyvatel licence) dílo použít. Například v [patičce na stránkách wikipedie](https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana#footer-info-copyright) je tato velmi stručná poznámka (odkazuje ale i na stránku, na které je velmi podrobně vysvětleno, jak wikipedie funguje):
+Každé dílo, na které je použita licence CC, je opatřeno poznámkou (informací), ze které je zřetelné, za jakých podmínek může potencionální uživatel (nabyvatel licence) dílo použít. Například v [patičce na stránkách wikipedie](https://cs.wikipedia.org/wiki/Hlavn%C3%AD_strana#footer-info-copyright) je tato velmi stručná poznámka (odkazuje ale i na stránku, na které je velmi podrobně vysvětleno, jak wikipedie funguje):
 
 <div class="citace" markdown="1">
 Text je dostupný pod licencí [Creative Commons Uveďte autora – Zachovejte licenci](https://creativecommons.org/licenses/by-sa/4.0/deed.cs) případně za dalších podmínek. Podrobnosti naleznete na stránce [Podmínky užití.](https://foundation.wikimedia.org/wiki/Terms_of_Use/cs)

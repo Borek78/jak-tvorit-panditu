@@ -2,7 +2,7 @@
 ### ODPOVĚĎ
 </div>
 
-Nejsem si jistý, jestli CC licenci můžu aplikovat jen na práci, kterou jsem na titulcích odvedl. Z následujících dvou pasáží se mi ale zdá, že to možné je [viz. modře zvýrazněné části]. Jen dostatečně musím potencionální uživatele (nabyvatele licence) upozornit na to, na které části se licence vztahuje a za jakých podmínek můžou moji práci použít. [viz. nezvýrazněné části].<br><br>
+Nejsem si jistý, jestli CC licenci můžu použít jen na práci, kterou jsem na titulcích odvedl. Z následujících dvou pasáží se mi ale zdá, že to možné je [viz. modře zvýrazněné části]. Jen dostatečně musím potencionální uživatele (nabyvatele licence) upozornit na to, na které části se licence vztahuje a za jakých podmínek můžou moji práci použít. [viz. nezvýrazněné části].<br><br>
 
 Vždy uvádím nejdříve odkaz na stránku a potom ze stránky cituji.<br><br>
 
@@ -29,6 +29,6 @@ Yes, but it is important to prominently mark any third party material you incorp
 <span class="highlighted-text-blue">When a creator or rightsholder applies a Creative Commons license to a work, the license automatically applies to any copyrights the licensor has in the entire work.</span> Ideally, licensors will have all the rights necessary to license a work, since they otherwise potentially expose users to liability. Alternatively, licensors that do not have all the necessary rights can inform users with notice statements and/or marking that explains the limitations on the license, warning, for instance, that a particular element of a work is not freely available or that additional rights clearance may be necessary. Some licensors may also wish to exempt certain portions of a work from the application of the CC license. For instance, a creator may wish to apply a CC license to one chapter of a book. Creative Commons licenses are flexible in their application, and licensors may use them as they find appropriate. To avoid confusion or misunderstanding on the part of users, however, it is important to mark a work clearly to identify portions not subject to the CC license.
 </div>
 
-V následujích částech tohoto textu budu předpokládat, že můžu aplikovat CC licenci jen na práci, kterou jsem vložil do tvorby titulků.<br><br>
+V následujích částech tohoto textu budu předpokládat, že můžu CC licenci použít jen na práci, kterou jsem vložil do tvorby titulků.<br><br>
 
-Pokud tedy můžu aplikovat CC licenci jen práci, kterou jsem vložil do tvorby titulků, jak to můžu udělat? Jakým způsobem můžu upozornit potencionální uživatele, že za podmínek licence CC není zveřejněn celý text českých titulků ale pouze práce, kterou jsem vložil do jejich tvorby?<br><br>
+Pokud tedy můžu CC licenci použít jen práci, kterou jsem vložil do tvorby titulků, jak to můžu udělat? Jakým způsobem můžu upozornit potencionální uživatele, že za podmínek licence CC není zveřejněn celý text českých titulků ale pouze práce, kterou jsem vložil do jejich tvorby?<br><br>
