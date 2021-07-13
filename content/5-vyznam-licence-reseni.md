@@ -19,7 +19,7 @@ Odkaz na zkrácený text licence najdete na adrese:<br>
 </div>
 <br>
 
-Licence nebyla aplikována na celý text titulků. Licence byla aplikována pouze na práci, kterou vložil autor českých titulků do jejich tvorby. To znamená, že pokud někdo bude chtít tyto titulky použít, tak:<br>
+Licence není použita na celý text českých titulků. Licence je použita pouze na práci, kterou autor titulků vložil do jejich tvorby. To znamená, že pokud někdo bude chtít tyto titulky použít, tak:<br>
 
 - k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie.
   <br>
@@ -50,8 +50,7 @@ CC Uveďte původ 4.0. Mezinárodní</h5>
 
 V této složce jsou uloženy české titulky. Všechny byly vytvořeny k videím, která jsou ve vlastnictví Buddhistické společnosti Západní Austrálie.<br><br>
 
-Autorem těchto titulků je Dalibor Pavlík. Jeho práce na jejich tvorbě je licencována za podmínek licence
-CC Uveďtě původ 4.0 Mezinárodní.<br><br>
+Autorem těchto titulků je Dalibor Pavlík. Jeho práce na jejich tvorbě je licencována za podmínek licence CC Uveďtě původ 4.0 Mezinárodní.<br><br>
 
 Odkaz na zkrácený text licence najdete na adrese:
 
@@ -60,14 +59,14 @@ Odkaz na zkrácený text licence najdete na adrese:
 </div>
 
 <br>
-Licence se nevztahuje na celý text titulků, vztahuje se pouze k práci, která byla vložena do jejich tvorby. To znamená, že pokud někdo bude chtít tyto titulky použít, tak:<br>
+Licence není použita na celý text českých titulků. Licence je použita pouze na práci, kterou autor titulků vložil do jejich tvorby. To znamená, že pokud někdo bude chtít tyto titulky použít, tak:<br>
 
 - k tomu musí mít souhlas Buddhistické společnosti Západní Austrálie.
   <br>
-- nemusí mít souhlas autora českých titulků. Jeho souhlas je garantován zveřejněním jeho práce za podmínek licence CC Uveďtě původ 4.0 Mezinárodní.
-  <br><br>
+- nemusí mít souhlas autora českých titulků. Jeho souhlas je garantován tím, že autor titulků zveřejnil svou práci za podmínek licence CC Uveďtě původ 4.0 Mezinárodní.
+  <br>
 
-Tato licence se vztahuje ke všem souborům, které jsou v této složce.
+Tato licence je použita na všechny titulky, které jsou v této složce.
 
 </div>
 
