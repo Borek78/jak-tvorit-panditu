@@ -9,7 +9,7 @@
   text-align: center;
   border: 1px solid orange;
   font-size: 12px;
-  display: none;
+  display: block;
 }
 
 #web-under-construction {
@@ -22,7 +22,7 @@
   border-radius: 5px;
   text-align: center;
   border: 3px solid orange;
-  display: none;
+  display: block;
 }
 
 /*menu in the header*/
