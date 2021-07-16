@@ -12,6 +12,6 @@ layout: default
 <!--### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>-->
 ### [Email to: creativecommons.cz](email-cc.html) <br>
 ### [Povolení k užívání videí, nahrávek a titulků](povoleni-ke-tvorbe.html) <br>
-
+### [Jak tvořit titulky pro čtení](titulky-pro-cteni.html) <br>
 </div>
 </div>
