@@ -28,13 +28,19 @@ Po přečtení této instrukce jsem začal tvořit titulky trochu jinak. Tiitulk
 <br><br><br>
 
 <div class="underline">Čtecí rychlost</div>
-Pokud by si divák zvykl na to, že má dostatek času na to, aby si titulky přečetl, nemusel by vůbec stihnout přečíst titulek, jehož zobrazení by trvalo neobvykle krátkou dobu. Proto autoři webu titulkovani.cz zmínili na svém webu optimální čtecí rychlost 12 znaků za sekundu a maximální 16. V návodu BBC je ale optimální čtecí rychlost stanovená na 160-180 slov za minutu. Přestože BBC používá jiné jednotky pro čtecí rychlost, je zřejmé, že BBC klade velký důraz na malé rozdíly ve čtecí rychlosti mezi jednotlivými titulky. <br><br>
+Čtecí rychlost, kterou BBC pro titulky doporučuje, je 160-180 slov za minutu. Průměrný počet znaků v jednom slově je v angličtině 4.7. <br><br>
 
-Tyto dvě instrukce měly vliv na to, jakým způsobem jsem tvořil titulky k videu Učíme se být v klidu sami se sebou: <br><br>
+160 x 4.7 = 752 &nbsp; &nbsp; <span> </span> znaků za minutu<br>
+180 x 4.7 = 846 &nbsp; &nbsp; znaků za minutu<br><br>
 
-- pokud to bylo nutné, neváhal jsem a zvýšil jsem počet znaků na jeden řádek až na 48<br><br>
+752/60 = 12,53 &nbsp; &nbsp; znaků za sekundu<br>
+846/60 = 14,1 &nbsp; &nbsp; &nbsp; znaků za sekundu<br><br>
 
-- snažil jsem se udržovat čtecí rychlost mezi 12 – 14 znaky za sekundu; k tomu mi pomáhala i instrukce, která byla dříve dostupná onlione v dokumentu Jednoty tlumočníků a překladatelů, který se jmenoval Zásady tvorby titulků. Tento dokument momentálně není k dispozici online, ale pokud se dobře pamatuji, tak jedna z instrukcí v něm zněla takto: titulek může skončit až sekundu poté, co skončila řeč.
+Přepočteno na počet znaků za sekundu: BBC doporučuje čtecí rychlost 12,5 až 14 znaků za sekundu. Autoři webu titulkovani.cz doporučují optimální rychlost 12 znaků za sekundu, maximální 14. To jsou velmi podobné hodnoty jako doporučuje BBC. <br><br>
+
+BBC klade trochu větší důraz na menší výkyvy ve čtecí rychlosti. Málo proměnlivá čtecí rychlost má svoje opodstatnění. Pokud je divák zvyklý nízkou rychlost, nemusí stihnout přečíst titulek, který se na obrazovce objeví na neobvykle krátkou dobu. <br><br>
+
+Jedna z metod, která mi pomáhala držet se nízké čtecí rychlosti, je prodlužování titulku až na jednu sekundu poté, co přednášející domluvil. <br><br>
 
 ### SUBTITLE EDIT A TEXTOVÝ EDITOR
 
