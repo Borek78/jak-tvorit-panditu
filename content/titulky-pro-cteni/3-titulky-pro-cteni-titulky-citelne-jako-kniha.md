@@ -1,6 +1,8 @@
 ### TITULKY ČITELNÉ JAKO KNIHA
 
-Podle různých studií věnuje průměrný divák 50% své pozornosti čtení titluků v případě, že je rychlost titulků 12 znaků za sekundu. Při rychlosti 18 znaků za sekundu je to už 80%. Proto jsem se snažil dělat korektury tak, aby výsledný text titulků byl snadno čitelný a srozumitelný i bez filmové předlohy, ke kterému titulky vznikaly. Snažil jsem se nejen o to, aby byl dobře srozumitelný každý jednotlivý titulek, ale i to, aby na sebe jednotlivé titulky významově dobře navazovaly. Výsledkem je pak text, který by se měl číst podobně dobře jako kniha nebo článek v novinách.<br><br>
+Podle různých studií věnuje průměrný divák 50% své pozornosti čtení titluků v případě, že je rychlost titulků 12 znaků za sekundu. Při rychlosti 18 znaků za sekundu je to už 80%. Proto jsem se snažil dělat korektury tak, aby výsledný text titulků byl snadno čitelný a srozumitelný i bez filmové předlohy, ke kterému titulky vznikaly. <br><br>
+
+Snažil jsem se nejen o to, aby byl dobře srozumitelný každý jednotlivý titulek, ale i to, aby na sebe jednotlivé titulky významově dobře navazovaly. Výsledkem je pak text, který by se měl číst podobně dobře jako kniha nebo článek v novinách.<br><br>
 
 Aby se výsledný text dobře četl, musel jsem udělat mnoho „obětí“. To znamená, že jsem často téměr úplně ignoroval původní text a přeložil jsem pouze myšlenku, která v původní textu byla.<br><br>
 
