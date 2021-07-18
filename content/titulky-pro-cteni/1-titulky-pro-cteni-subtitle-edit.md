@@ -12,7 +12,7 @@ Tento článek shrnuje některé moje postřehy a zkušenosti z období, kdy jse
 
 Lidská mysl rychleji přijímá informace prostřednictvím slyšení než skrze čtení. Doslovný přepis či pouhý překlad původního audio obsahu by čtenář/divák často nemusel vůbec stihnout přečíst. Proto musí tvůrce titulků obsah předlohy často zkrátit tak, aby čtenář titulky stačil přečíst. Proto se o tvorbě titulků často mluví jako o umění zkratky.<br><br>
 
-Pro tvorbu titulků existuje několik pravidel, kterých by se měl autor titulků držet. Velmi často ale není možné držet se všech těchto pravidel a titulkář musí hledat ty pravidla, která je v dané situaci nejlepší porušit. Proto se o tvorbě titulků mluví také jako o umění vyvažování. <br><br>
+Pro tvorbu titulků existuje několik pravidel, kterých by se měl autor titulků držet. Velmi často ale není možné držet se všech těchto pravidel a titulkář musí hledat ty pravidla, která je v dané situaci nejlepší porušit. Proto se o tvorbě titulků mluví také jako o umění vyvažování.<br><br>
 
 Pravidla pro tvorbu titulků popisují dobře tyto dva návody, které jsou v českém jazyce.<br><br>
 
@@ -29,7 +29,7 @@ Z těch zahraničních mě pak nejvíce zaujal návod britské BBC.<br><br>
 
 ### SUBTITLE EDIT
 
-Tvorbu titulků usnadňují programy pro tvorbu titulků. Bez nich by byla tvorba titulků daleko pracnější. Některé z těchto programů jsou k dispozici i zdarma. Několik z nich jsem vyzkoušel a nejvíce se mi osvědčil program, který se jmenuje Subtitle Edit. <br><br>
+Tvorbu titulků usnadňují programy pro tvorbu titulků. Bez nich by byla tvorba titulků daleko pracnější. Některé programy pro tvorbu titulků jsou k dispozici i zdarma. Několik z nich jsem vyzkoušel a nejvíce se mi osvědčil program, který se jmenuje Subtitle Edit. <br><br>
 
 Odkaz na oficiální stránku programu:<br><br>
 [https://nikse.dk/SubtitleEdit](https://nikse.dk/SubtitleEdit)<br><br>
@@ -40,7 +40,7 @@ Odkaz, na kterém si Subtitle Edit můžete stáhnout:<br><br>
 [https://github.com/SubtitleEdit/subtitleedit/releases/download/3.6.1/SubtitleEdit-3.6.1-Setup.zip](https://github.com/SubtitleEdit/subtitleedit/releases/download/3.6.1/SubtitleEdit-3.6.1-Setup.zip)<br><br>
 </div>
 
-Na Subtitle Edit se mi líbí, že mě upozorní, pokud má titulek vlastnosti, které by mít neměl. Každý titulek, který má některou z nežádoucích vlastností, zčervená. Některé výchozí limity, po jejichž překročení dojde ke zřervenání, jsou nastaveny takto. <br><br>
+Na Subtitle Edit se mi líbí, že mě upozorní, pokud má titulek vlastnosti, které by mít neměl. Titulek zčervená, pokud má některou z nežádoucích vlastností. Některé výchozí limity, po jejichž překročení dojde ke zřervenání, jsou nastaveny takto. <br><br>
 
 Maximální délka trvání titulku je 8s.<br>
 Minimální délka trvání délky titiulky je 1s.<br>

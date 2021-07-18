@@ -138,4 +138,17 @@ a.blue:hover {
   #page {
     text-align: left;
   }
+
+  #obrazovka {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px !important;
+    margin-bottom: 90px !important;
+
+    -webkit-transform: rotate(270deg); /* Safari and Chrome */
+    -moz-transform: rotate(270deg); /* Firefox */
+    -ms-transform: rotate(270deg); /* IE 9 */
+    -o-transform: rotate(270deg); /* Opera */
+    transform: rotate(270deg);
+  }
 }
