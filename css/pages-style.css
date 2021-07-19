@@ -1,3 +1,62 @@
+.format {
+  display: inline-block;
+  background-color: rgb(235, 235, 235);
+  border: 1px solid grey;
+  height: 22px;
+  width: 140px;
+  padding-left: 3px;
+}
+
+/* 68% of the screen */
+#pomer-stran {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  text-align: center;
+  margin-top: 20px;
+  background-color: burlywood;
+  border-radius: 2px;
+}
+
+#obrazovka {
+  margin-left: auto;
+  margin-right: auto;
+  width: 240px;
+  height: 135px;
+  border: 2px solid #b7542d;
+  margin-bottom: 40px;
+  margin-top: 25px;
+  border-radius: 6px;
+}
+
+#titulky {
+  width: 68%;
+  height: 20px;
+  background-color: grey;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  text-align: center;
+  color: white;
+  padding-bottom: 3px;
+  border-radius: 2px;
+}
+
+/*h1 - title of each page */
+h1 {
+  color: #b7542d;
+  font-size: 21px;
+  display: block;
+  height: 32px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 2;
+  margin-bottom: 40px;
+}
+
+/*page cc-email*/
 .underline {
   border-bottom: 1px solid black;
   padding-left: 3px;

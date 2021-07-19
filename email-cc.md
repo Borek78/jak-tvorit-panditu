@@ -9,10 +9,10 @@ layout: default
 
 <!--<h2 style="margin-bottom:30px">Email to: creativecommons.cz</h2>-->
 
-{% include_relative content/1-vyznam-licence-povoleni.md %}
-{% include_relative content/2-vyznam-licence-citace.md %}
-{% include_relative content/3-vyznam-licence-odpoved.md %}
-{% include_relative content/4-vyznam-licence-oznaceni.md %}
-{% include_relative content/5-vyznam-licence-reseni.md %}
+{% include_relative content/cc-email/1-cc-email-povoleni.md %}
+{% include_relative content/cc-email/2-cc-email-citace.md %}
+{% include_relative content/cc-email/3-cc-email-odpoved.md %}
+{% include_relative content/cc-email/4-cc-email-oznaceni.md %}
+{% include_relative content/cc-email/5-cc-email-reseni.md %}
 
 <script src="./js/script-cc-email.js"></script>
