@@ -5,6 +5,6 @@
 layout: default
 ---
 
-{% include_relative content/titulky-pro-cteni/1-titulky-pro-cteni-subtitle-edit.md %}
-{% include_relative content/titulky-pro-cteni/2-titulky-pro-cteni-37-znaku.md %}
-{% include_relative content/titulky-pro-cteni/3-titulky-pro-cteni-titulky-citelne-jako-kniha.md %}
+{% include_relative _includes/titulky-pro-cteni/1-titulky-pro-cteni-subtitle-edit.md %}
+{% include_relative _includes/titulky-pro-cteni/2-titulky-pro-cteni-37-znaku.md %}
+{% include_relative _includes/titulky-pro-cteni/3-titulky-pro-cteni-titulky-citelne-jako-kniha.md %}
