@@ -10,7 +10,7 @@ Tento článek shrnuje některé moje postřehy a zkušenosti z období, kdy jse
 
 ### ZKRACOVÁNÍ A VYVAŽOVÁNÍ
 
-Lidská mysl rychleji přijímá informace prostřednictvím slyšení než skrze čtení. Doslovný přepis či pouhý překlad původního audio obsahu by čtenář/divák často nemusel vůbec stihnout přečíst. Proto musí tvůrce titulků obsah předlohy často zkrátit tak, aby čtenář titulky stačil přečíst. Proto se o tvorbě titulků často mluví jako o umění zkratky.<br><br>
+Lidská mysl rychleji přijímá informace prostřednictvím slyšení než skrze čtení. Doslovný přepis či pouhý překlad původního audio obsahu by divák často nemusel vůbec stihnout přečíst. Proto musí tvůrce titulků obsah předlohy často zkrátit tak, aby čtenář titulky stačil přečíst. Proto se o tvorbě titulků často mluví jako o umění zkratky.<br><br>
 
 Pro tvorbu titulků existuje několik pravidel, kterých by se měl autor titulků držet. Velmi často ale není možné držet se všech těchto pravidel a titulkář musí hledat ty pravidla, která je v dané situaci nejlepší porušit. Proto se o tvorbě titulků mluví také jako o umění vyvažování.<br><br>
 

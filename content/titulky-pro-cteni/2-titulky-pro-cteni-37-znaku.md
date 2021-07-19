@@ -22,7 +22,7 @@ V návodu je zmínka o [maximálním počtu 37 znaků na řádek.](https://bbc.g
 
 {% include_relative _includes/68-percent.html %}
 
-Po přečtení této instrukce jsem začal tvořit titulky trochu jinak. Tiitulky k přednášce [Čtyři způsoby, jak se pustit](https://www.youtube.com/watch?v=pkH7Qick84E) mají jen málokdy vyšší počet znaků na řádek než je 42. K videu [Učíme se, jak být v klidu sami se sebou](https://www.youtube.com/watch?v=VCR0GOzAKoE&t=3s) jsem častěji tvořil delší titulky: počet znaků na řádek je častěji 46, 47 či 48.
+Po přečtení této instrukce jsem začal tvořit titulky trochu jinak. Tiitulky k přednášce [Čtyři způsoby, jak se pustit](https://www.youtube.com/watch?v=pkH7Qick84E) mají jen málokdy vyšší počet znaků na řádek než je 42. K videu [Učíme se, jak být v klidu sami se sebou](https://www.youtube.com/watch?v=VCR0GOzAKoE&t=3s) jsem tvořil i delší titulky: počet znaků na řádek je někdy i 46, 47 či 48.
 <br><br><br>
 
 <div class="underline">Čtecí rychlost</div>
@@ -38,10 +38,10 @@ Přepočteno na počet znaků za sekundu: BBC doporučuje čtecí rychlost 12,5 
 
 BBC klade trochu větší důraz na menší výkyvy ve čtecí rychlosti. Málo proměnlivá čtecí rychlost má svoje opodstatnění. Pokud je divák zvyklý na nízkou rychlost, nemusí stihnout přečíst titulek, který se na obrazovce objeví na neobvykle krátkou dobu. <br><br>
 
-Naštěstí je čtecí rychlost jedna vlastností titulku, kterou Subtitle Edit zobrazuje a je velmi snadné zjistit, že titulek se zobrazuje na příliš krátkou či dlouhou dobu. Jedna z metod, která mi pomáhala držet se nízké čtecí rychlosti, je prodlužování titulku až na jednu sekundu poté, co přednášející domluvil. <br><br>
+Naštěstí je čtecí rychlost jedna z vlastností titulku, kterou Subtitle Edit zobrazuje a je velmi snadné zjistit, že titulek se zobrazuje na příliš krátkou či dlouhou dobu. Jedna z metod, která mi pomáhala držet se nízké čtecí rychlosti, je prodlužování titulku až na jednu sekundu poté, co přednášející domluvil. <br><br>
 
 ### SUBTITLE EDIT A TEXTOVÝ EDITOR
 
 Titulky jsem vytvářel v programu Subtitle Edit a po jejich dokončení jsem je uložil do souboru, který měl formát .srt (SubRip). Tento .srt soubor jsem si potom otveřel v textovém editoru. Já používám Open Office, určitě je ale možné použít jakýkoli jiný textový editor, např. Word.<br><br>
 
-V textovém editoru jsem pak dělal korektury. Je to daleko snazší než pracovat s textem přímo v Subtitle Edit. Text titulků si v textovém editoru můžu zvětšit a jediné, na co se můžu soustředit, je text samotný. Rozhraní v Subtitle Edit je velmi členité a při práci s textem na mě působilo rušivě. Navíc je font v programu Subitle Edit někdy špatně čitelný. Je například velmi těžké rozlišit „ i “ a „ í “ - čárka nad písmenem je v Subtitle Edit téměř neviditelná.
+V textovém editoru jsem pak dělal korektury. Je to daleko snazší než pracovat s textem přímo v Subtitle Edit. Text titulků si v textovém editoru můžu zvětšit a jediné, na co se můžu soustředit, je text samotný. Rozhraní v Subtitle Edit je velmi členité a při práci s textem na mě působilo rušivě. Navíc je font v programu Subitle Edit někdy špatně čitelný: například je velmi těžké rozlišit „ i “ a „ í “. Čárka nad písmenem „ i “ je v Subtitle Edit téměř neviditelná.
