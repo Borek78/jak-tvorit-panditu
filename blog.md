@@ -10,8 +10,12 @@ layout: default
 <div id="blog" markdown="1" >
 <div class="no-link-underline" markdown="1" >
 <!--### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>-->
-### [Email to: creativecommons.cz](email-cc.html) <br>
-### [Povolení k užívání videí, nahrávek a titulků](povoleni-ke-tvorbe.html) <br>
+
 ### [Jak tvořit titulky](titulky-pro-cteni.html) <br>
+
+### [Email to: creativecommons.cz](email-cc.html) <br>
+
+### [Povolení k užívání videí, nahrávek a titulků](povoleni-ke-tvorbe.html) <br>
+
 </div>
 </div>
