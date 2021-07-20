@@ -1,3 +1,14 @@
+/*page noise reduction*/
+.underline-noise-reduction {
+  border-bottom: 1px solid black;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-bottom: 10px;
+  display: inline-block;
+  margin-top: 40px;
+}
+
+/*page how to create subtitles*/
 .format {
   display: inline-block;
   background-color: rgb(235, 235, 235);
@@ -7,7 +18,6 @@
   padding-left: 3px;
 }
 
-/* 68% of the screen */
 #pomer-stran {
   margin-left: auto;
   margin-right: auto;
