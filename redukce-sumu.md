@@ -16,7 +16,7 @@ Některá videa obsahují velké množštví šumu. Jeho redukce někdy výrazn�
 [Learn to be at peace with
 yourself](https://www.youtube.com/watch?v=eu0RtEG6V4A&t=3020s)<br><br>
 
-Odstranit šum z videa lze určitě více způsoby. Toto je postup, který se mi osvědčil.<br><br>
+Odstranit šum z videa lze určitě více způsoby. Toto je postup, který se mi osvědčil.<br>
 
 <div class="underline-noise-reduction"> První krok</div>
 
@@ -28,7 +28,7 @@ Domovská stránka programu<br>
 
 Odkaz pro stažení programu.<br>
 
-[https://github.com/mltframework/shotcut/releases/download/v21.03.21/shotcut-win64-210321.exe](https://github.com/mltframework/shotcut/releases/download/v21.03.21/shotcut-win64-210321.exe)<br><br>
+[https://github.com/mltframework/shotcut/releases/download/v21.03.21/shotcut-win64-210321.exe](https://github.com/mltframework/shotcut/releases/download/v21.03.21/shotcut-win64-210321.exe)<br>
 
 <div class="underline-noise-reduction"> Druhý krok</div>
 
