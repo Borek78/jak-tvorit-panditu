@@ -5,9 +5,9 @@
 layout: default
 ---
 
-<h2 style="margin-bottom:70px">Povolení k užívání videí, nahrávek a titulků</h2>
+# Povolení k užívání videí, nahrávek a titulků
 
-K tvorbě YouTube kanálu PANDITA CZ mám několik povolení.<br><br>
+<div style="margin-top:0px"> K tvorbě YouTube kanálu PANDITA CZ mám několik povolení.<br><br> </div>
 
 Od Bhante Sujívy a od italského meditačního centra [Centro Meditazione di Pian Dei Ciliegi](https://www.piandeiciliegi.it/en/) mám povolení používat videa Bhante Sujívy. Součástí tohoto povolení je i používat titulky, které k těmto videím vytváří Hanka Haladová.<br><br>
 
