@@ -28,13 +28,21 @@ Domovská stránka programu<br>
 
 Odkaz pro stažení programu.<br>
 
+<<<<<<< HEAD
 [https://github.com/mltframework/shotcut/releases/download/v21.03.21/shotcut-win64-210321.exe](https://github.com/mltframework/shotcut/releases/download/v21.03.21/shotcut-win64-210321.exe)<br>
+=======
+<div class="do-not-break-out" markdown="1">
+[https://github.com/mltframework/shotcut/releases/download/v21.03.21/shotcut-win64-210321.exe](https://github.com/mltframework/shotcut/releases/download/v21.03.21/shotcut-win64-210321.exe)<br>
+</div>
+>>>>>>> master
 
 <div class="underline-noise-reduction"> Druhý krok</div>
 
 V Shotcutu oddělím zvuk od videa.<br>
 
+<div class="do-not-break-out" markdown="1">
 [https://www.youtube.com/watch?v=pomDBOfosl0](https://www.youtube.com/watch?v=pomDBOfosl0)
+</div>
 
 <div class="underline-noise-reduction"> Třetí krok</div>
 
@@ -46,17 +54,21 @@ Domovská stránka Audacity.<br>
 
 Odkaz pro stažení programu Audacity.<br>
 
+<div class="do-not-break-out" markdown="1">
 [https://www.audacityteam.org/download/windows/](https://www.audacityteam.org/download/windows/)<br><br>
+</div>
 
 Audacity se začne stahovat až po 3-4 sekundách po kliknutí. Je třeba chvíli počkat.
 
 <div class="underline-noise-reduction"> Čtvrtý krok</div>
 V audacity provedu redukci šumu. Výsledkem je zvuková stopa, která obsahuje menší množství šumu.<br>
 
+<div class="do-not-break-out" markdown="1">
 [https://www.youtube.com/watch?v=VZNMkTjlcvc](https://www.youtube.com/watch?v=VZNMkTjlcvc)
+</div >
 
 <div class="underline-noise-reduction"> Pátý krok</div>
 V Shotcutu spojím video a zvukovou stopu, kterou jsem vytvořil v předchozím kroku. <br>
+<div class="do-not-break-out" markdown="1">
 [https://www.youtube.com/watch?v=hCR-_kJhwxE](https://www.youtube.com/watch?v=hCR-_kJhwxE)
-
 </div>
