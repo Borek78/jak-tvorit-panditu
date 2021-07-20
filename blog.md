@@ -13,7 +13,9 @@ layout: default
 
 ### [Jak tvořit titulky](titulky-pro-cteni.html) <br>
 
-### [Email to: creativecommons.cz](email-cc.html) <br>
+### [Redukce audio šumu u některých videí](redukce-sumu.html)
+
+### [Aplikace CC licence na práci autora, nikoli na celé dílo](email-cc.html) <br>
 
 ### [Povolení k užívání videí, nahrávek a titulků](povoleni-ke-tvorbe.html) <br>
 
