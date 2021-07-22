@@ -1,3 +1,27 @@
+a#podminky-uziti {
+  border-bottom: 1px dotted;
+  padding-bottom: 2px;
+  color: white;
+  text-decoration: none;
+}
+
+a#podminky-uziti:hover {
+  border-bottom: 2px dashed;
+  padding-bottom: 2px;
+  color: white;
+}
+
+#footer {
+  color: white;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+}
+
 experiment {
   color: #b7542d;
   font-size: 21px;

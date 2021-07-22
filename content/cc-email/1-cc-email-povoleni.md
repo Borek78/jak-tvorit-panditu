@@ -1,4 +1,4 @@
-# Jak aplikovat CC licence pouze na práci autora
+# Aplikace CC licence pouze na práci autora
 
 <div style="">Dobrý den,</div><br>
 

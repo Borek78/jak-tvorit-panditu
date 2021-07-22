@@ -5,7 +5,7 @@
 layout: default
 ---
 
-## BLOG
+# BLOG
 
 <div id="blog" markdown="1" >
 <div class="no-link-underline" markdown="1" >
@@ -15,7 +15,7 @@ layout: default
 
 ### [Redukce audio šumu u některých videí](redukce-sumu.html)
 
-### [Aplikace CC licence na práci autora, nikoli na celé dílo](email-cc.html) <br>
+### [Aplikace CC licence pouze na práci autora](email-cc.html) <br>
 
 ### [Povolení k užívání videí, nahrávek a titulků](povoleni-ke-tvorbe.html) <br>
 
