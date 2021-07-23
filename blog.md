@@ -11,13 +11,15 @@ layout: default
 <div class="no-link-underline" markdown="1" >
 <!--### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>-->
 
-### [Jak tvořit titulky](titulky-pro-cteni.html) <br>
+### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>
 
 ### [Redukce audio šumu u některých videí](redukce-sumu.html)
 
 ### [Aplikace CC licence pouze na práci autora](email-cc.html) <br>
 
 ### [Povolení k užívání videí, nahrávek a titulků](povoleni-ke-tvorbe.html) <br>
+
+### [Podmínky užití](podminky-uziti.html) <br>
 
 </div>
 </div>
