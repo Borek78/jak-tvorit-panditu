@@ -129,11 +129,11 @@ body {
 }
 
 footer {
-  padding-top: 17px;
-  height: 30px;
   order: 1px solid blue;
   background-color: #b37800;
   margin-top: 0px;
   width: 100%;
   min-width: 100%;
+  padding-top: 17px;
+  padding-bottom: 17px;
 }

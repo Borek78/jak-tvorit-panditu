@@ -134,6 +134,12 @@ a.blue:hover {
   }
 }
 
+@media only screen and (max-width: 500px) {
+  #div-footer {
+    width: auto;
+  }
+}
+
 @media only screen and (max-width: 400px) {
   #page {
     text-align: left;
