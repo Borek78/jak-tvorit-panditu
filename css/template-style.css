@@ -129,7 +129,8 @@ body {
 }
 
 footer {
-  height: 40px;
+  padding-top: 17px;
+  height: 30px;
   order: 1px solid blue;
   background-color: #b37800;
   margin-top: 0px;

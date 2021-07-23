@@ -1,3 +1,41 @@
+a#podminky-uziti {
+  border-bottom: 1px dotted;
+  padding-bottom: 2px;
+  color: white;
+  text-decoration: none;
+}
+
+a#podminky-uziti:hover {
+  border-bottom: 2px dashed;
+  padding-bottom: 2px;
+  color: white;
+}
+
+#footer {
+  color: white;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+experiment {
+  color: #b7542d;
+  font-size: 21px;
+  height: 32px;
+  text-align: center;
+  border-radius: 5px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 2;
+  margin-bottom: 0px;
+  border: 1px solid blue;
+  word-wrap: break-word;
+}
+
 /*page noise reduction*/
 .underline-noise-reduction {
   border-bottom: 1px solid black;
@@ -56,14 +94,13 @@
 h1 {
   color: #b7542d;
   font-size: 21px;
-  display: block;
-  height: 32px;
   text-align: center;
   border-radius: 5px;
   font-weight: 600;
   text-transform: uppercase;
   line-height: 2;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
+  border: px solid blue;
 }
 
 /*page cc-email*/

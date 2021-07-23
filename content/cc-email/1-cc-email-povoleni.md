@@ -1,4 +1,4 @@
-<h2 style="margin-bottom:50px"> Email to: creativecommons.cz </h2>
+# Aplikace CC licence pouze na práci autora
 
 <div style="">Dobrý den,</div><br>
 
