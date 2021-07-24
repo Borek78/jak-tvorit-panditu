@@ -23,17 +23,24 @@ Kromě mě má povolení používat videa Buddhistické společnosti Západní A
 
 ### POVOLENÍ OD BSZA
 
-Toto je zkrácená verze povolení, které mám od Buddhistické společnosti Západní Austrálie. <br><br>
+Toto je zkrácená verze povolení, které mám od [Buddhistické společnosti Západní Austrálie.](https://bswa.org/) <br><br>
 
-Videa z YouTube kanálu Buddhist Society of Western Australia smím používat, pokud dodržím následující podmínky.<br><br>
+Videa z YouTube kanálu [Buddhist Society of Western Australia](https://www.youtube.com/user/BuddhistSocietyWA) smím používat, pokud dodržím následující podmínky.<br><br>
 
 <span>1.</span> Vždy uvedu jméno autora/přednášejícího<br><br>
 
-<span>2.</span> Videa nebudu užívat komerčně (umísťovat do ni reklamu a podobně) – můžu ale do popisků videí umísťovat odkazy na služby, které umožňují získávat od sponzorů finanční prostředky (např. na tvorbu českého znění videí)<br><br>
+<span>2.</span> Videa nebudu užívat komerčně (umísťovat do nich reklamu a podobně) – můžu ale do popisků videí umísťovat odkazy na služby (např. na [https://www.patreon.com](https://www.patreon.com/)), které umožňují získávat od sponzorů finanční prostředky (např. na tvorbu českého znění videí)<br><br>
 
 <span>3.</span> Budu sdílet české verze videí za stejných podmínek – to znamená, že pokud si nějaká skupina přátel bude chtít videa stáhnout a nějakým způsobem je bude chtít použít, tak je to dobrá věc. Pouze bude musete vždy uvést jméno autora a neužívat videa komerčně.
 <br><br>
 
-<span>4.</span> V popisku každého videa musím uvést tento odkaz.<br><br>
+<span>4.</span> V popisku každého videa musím uvést tento odkaz.
+<br><br>
+More teachings in English:
 
-<span>5.</span> Titulky do videí budu tisknout. To znamená, že titulky budou součástí videa a nebude je moci vypnout.<br><br>
+<div class="do-not-break-out" markdown="1">
+[https://bswa.org/teachings/](https://bswa.org/teachings/)
+</div>
+<br>
+
+<span>5.</span> Titulky do videí budu tisknout. To znamená, že titulky budou součástí videa a nebude je možné vypnout.<br><br>
