@@ -135,7 +135,7 @@ a.blue:hover {
 }
 
 @media only screen and (max-width: 500px) {
-  #div-footer {
+  #div-pata {
     width: auto;
   }
 }
