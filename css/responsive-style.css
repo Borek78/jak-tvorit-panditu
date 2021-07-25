@@ -116,10 +116,6 @@ a.blue:hover {
   #mobile-web-under-construction {
     display: block;
   }
-
-  #web-under-construction {
-    display: none;
-  }
 }
 
 @media only screen and (max-width: 520px) {

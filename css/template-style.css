@@ -14,7 +14,7 @@
 
 #web-under-construction {
   width: 200px;
-  height: 40px;
+
   margin-left: auto;
   margin-right: auto;
   background-color: white;
@@ -23,6 +23,8 @@
   text-align: center;
   border: 3px solid orange;
   display: block;
+
+  margin-bottom: 15px;
 }
 
 /*menu in the header*/
