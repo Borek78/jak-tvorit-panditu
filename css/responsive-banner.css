@@ -1,4 +1,17 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 440px) {
+  #napis {
+    font-size: 25px;
+
+    width: auto;
+    margin-left: 40px;
+    margin-right: 40px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+/*@media only screen and (max-width: 600px) {
   #napis {
     font-size: 27px;
     background-size: 27px 27px;
@@ -72,3 +85,4 @@
     height: 72px;
   }
 }
+*/

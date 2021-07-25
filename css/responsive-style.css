@@ -82,10 +82,6 @@ a.blue:hover {
 /*this what happens when screen width < 600*/
 
 @media only screen and (max-width: 600px) {
-  #napis {
-    width: 60vw;
-  }
-
   .show-icon-menu {
     display: block;
   }

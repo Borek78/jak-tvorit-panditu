@@ -87,13 +87,14 @@ a#uplne-levy {
 /*banner in the header*/
 #banner {
   padding-top: 50px;
+  padding-bottom: 50px;
   background-color: #fad24ec4;
-  height: 100px;
+
   outline-top: 2px dashed blue;
   margin-bottom: 0px;
   margin-top: 40px;
 }
-
+/*
 #napis {
   color: #463600;
   background-color: rgb(255, 255, 255);
@@ -114,6 +115,35 @@ a#uplne-levy {
   background-size: 30px 30px;
   background-repeat: no-repeat;
   background-position: 34px 7px;
+}
+*/
+#napis {
+  color: hsla(45, 100%, 10%, 0.959);
+  color: white;
+  color: hsla(45, 100%, 10%, 0.959);
+  color: #6d4800;
+
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+  font-size: 30px;
+  border-radius: 25px;
+  font-family: arial;
+  font-weight: bold;
+
+  line-height: 1.3;
+
+  text-align: center;
+  letter-spacing: 1px;
+
+  border: 5px solid #b66343;
+  background-color: rgb(253, 227, 184);
+  background-color: white;
+  border: 5px solid #b37800;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
 }
 
 #text-napisu {
