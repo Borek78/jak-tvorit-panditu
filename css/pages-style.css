@@ -1,3 +1,45 @@
+.mobile-flag {
+  background-size: 24px 16px;
+  width: 24px;
+  height: 16px !important ;
+  background-position: 30px 13px;
+  background-image: url(../assets/uk-flag.png);
+
+  background-repeat: no-repeat;
+}
+
+.flag:hover {
+  background-size: 24px 16px;
+  width: 24px;
+  height: 16px !important ;
+  border-bottom: none !important;
+  margin-left: 18px !important;
+  margin-top: 13px;
+  margin-right: 11px !important;
+  background-image: url(../assets/uk-flag.png);
+  transition: width 0.5s, height 0.5s, background-size 0.5s, margin-left 0.5s,
+    margin-top 0.5s, margin-right 0.5s, background-image 0.5s;
+}
+
+.flag {
+  background-image: url(../assets/uk-flag-less-bright.png);
+  background-size: 18px 12px;
+  background-repeat: no-repeat;
+
+  width: 21px;
+  height: 14px !important ;
+
+  margin-top: 15px;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  padding-top: 0px !important;
+
+  border: px solid blue;
+
+  border-radius: px;
+  margin-left: 22px !important;
+}
+
 a#podminky-uziti {
   border-bottom: 1px dotted;
   padding-bottom: 2px;
