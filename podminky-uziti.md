@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+Title: Podmínky užití webu Jak tvořit Panditu
 ---
 
 # Podmínky užití

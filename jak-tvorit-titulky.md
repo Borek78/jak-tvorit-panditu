@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+Title: Jak tvořit titulky - opravdu dobrý návod ke tvorbě titulů
 ---
 
 {% include_relative _includes/jak-tvorit-titulky/1-jak-tvorit-titulky-subtitle-edit.md %}
