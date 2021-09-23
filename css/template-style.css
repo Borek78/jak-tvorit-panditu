@@ -55,7 +55,7 @@ a#uplne-levy:hover {
 a#uplne-levy {
   float: left;
   border: 1px dashed #fad24ec4;
-  margin-top: 9px;
+  margin-top: 10px;
   border-radius: 25px;
   color: hsla(45, 100%, 10%, 0.959);
   font-weight: bold;
@@ -84,6 +84,7 @@ a#uplne-levy {
   overflow: hidden;
   transition-property: top;
   transition-duration: 0.5s;
+  order: 1px solid blue;
 }
 
 /*banner in the header*/
@@ -92,7 +93,6 @@ a#uplne-levy {
   padding-bottom: 50px;
   background-color: #fad24ec4;
 
-  outline-top: 2px dashed blue;
   margin-bottom: 0px;
   margin-top: 40px;
 }

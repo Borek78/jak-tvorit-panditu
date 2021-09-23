@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Povolení k tvorbě - videa, nahrávky a titulky
+title: Povolení k tvorbě YouTUbe kanálu PANDITA CZ - videa, nahrávky a titulky
 ---
 
 # Povolení k užívání videí, nahrávek a titulků

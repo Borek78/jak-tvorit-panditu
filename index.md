@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Jak tvořit Panditu - web věnovaný tvorbě youtube kanálu PANDITA CZ
 ---
 
 {% include_relative _includes/content-intro.html %}

@@ -19,6 +19,8 @@ layout: default
 
 ### [Povolení k užívání videí, nahrávek a titulků](povoleni-ke-tvorbe.html) <br>
 
+### [Hugo - generátor statických stránek](hugo-generator-statickych-stranek.html) <br>
+
 ### [Podmínky užití](podminky-uziti.html) <br>
 
 </div>

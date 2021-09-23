@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Aplikace CC license pouze na práci autora
 ---
 
 {% include_relative _includes/content-cc-email.html %}
