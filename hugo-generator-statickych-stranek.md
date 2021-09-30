@@ -150,4 +150,4 @@ Práce s Hugo
 
 Každý výše uvedený parametr odkazuje na stránku, která vysvětluje jeho optimální nastavení.<br><br>
 
-Čitelnost také ovlivňují delky odstavců. Ty by pro online/offline čtení měly být kratší než u knih. Odstavce by neměly být delší <a href="https://devrix.com/tutorial/ideal-length-of-your-online-content/">než 150 slov. </a>Já raději dělám odstavce ještě kratší. Pokud to význam textu jenom trochu umožňuje, formátuji texty<a href="https://devrix.com/tutorial/ideal-length-of-your-online-content/"> na méně než 40-55 slov.</a><br>
+Čitelnost také ovlivňují délky odstavců. Ty by pro online/offline čtení měly být kratší než u knih. Odstavce by neměly být delší <a href="https://devrix.com/tutorial/ideal-length-of-your-online-content/">než 150 slov. </a>Já raději dělám odstavce ještě kratší. Pokud to význam textu jenom trochu umožňuje, formátuji texty<a href="https://devrix.com/tutorial/ideal-length-of-your-online-content/"> na méně než 40-55 slov.</a><br>
