@@ -21,7 +21,9 @@ layout: default
 
 ### [Hugo - generátor statických stránek](hugo-generator-statickych-stranek.html) <br>
 
-### [Podmínky užití](podminky-uziti.html) <br>
+### [Podmínky užití webu Jak tvořit Panditu](podminky-uziti.html) <br>
+
+### [Využití obsahu YouTube kanálu PANDITA CZ](vyuziti-obsahu-youtube-kanalu-pandita-cz.html)
 
 </div>
 </div>

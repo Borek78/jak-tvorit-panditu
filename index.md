@@ -9,7 +9,7 @@ title: Jak tvořit Panditu - web věnovaný tvorbě youtube kanálu PANDITA CZ
 {% include_relative _includes/content-intro.html %}
 
 {% include_relative content/uvod/uvod-cast-1-pandita-cz.md %}
-{% include_relative content/uvod/uvod-cast-2-dulezita-otazka.md %}
+
 {% include_relative content/uvod/uvod-cast-3-autorska-prava.md %}
 {% include_relative content/uvod/uvod-cast-4-odkazy.md %}
 

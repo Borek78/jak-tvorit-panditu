@@ -114,7 +114,7 @@ Tvorba pracovního prostředí
 
 - <a href="https://www.youtube.com/watch?v=i1qMHbnbV7w">5. Instalace Hugo - definování proměnné prostředí</a><br>
 
-- <a href="https://www.youtube.com/watch?v=dpIyLsfeI5Y">6. Instalace Hugo - definování proměnné prostředí</a><br><br>
+- <a href="https://www.youtube.com/watch?v=dpIyLsfeI5Y">6. Instalace Hugo - definování proměnné prostředí - dodatek</a><br><br>
 
 <div style="margin-top:10px; margin-bottom: -10px"  >
 <span class="grey-heading" >
