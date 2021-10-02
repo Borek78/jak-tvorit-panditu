@@ -27,6 +27,6 @@ Obsah YouTube kanálu PANDITA CZ
 </span><br>
 Stejně jako v případě webu Pandita.cz bych si přál, aby si kdokoli mohl stáhnout obsah, který je na YouTube kanálu PANDITA CZ, a mohl ho nějakým způsobem dál distribuovat.<br><br>
 
-To znamená i to, že pokud se někdo rozhodne zkopírovat veškerý obsah YouTube kanálu PANDITA CZ a rozhodne se s jeho pomocí vytovřit stejný nebo podobný YouTube kanál, je to dobrá věc.<br><br>
+To znamená, že pokud se někdo rozhodne zkopírovat veškerý obsah YouTube kanálu PANDITA CZ a rozhodne se s jeho pomocí vytovřit stejný nebo podobný YouTube kanál, je to dobrá věc.<br><br>
 
 Podrobné informace o podmínkách, za kterých využití obsahu YouTube kanálu PANDITA CZ najdete na stránce [Využití obsahu YouTube kanálu PANDITA CZ.](vyuziti-obsahu-youtube-kanalu-pandita-cz.html)

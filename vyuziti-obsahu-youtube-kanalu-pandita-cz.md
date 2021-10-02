@@ -5,19 +5,19 @@ title: Využití obsahu YouTube kanálu Pandita CZ
 
 # Využití obsahu YouTube kanálu PANDITACZ
 
-Obsah YouTube kanálu lze určitě šířit a distribuovat i jinak než prostřednictvím YouTube kanálu Pandita CZ. V tuto chvíli vidím následující možnosti: <br>
+YouTube kanál PANDITA CZ se snažím tvořit tak, aby byl jeho obsah dostupný české veřejnosti tak, jak jen to je možné. Zároveň bych si přál, aby na práci jeho tvůrců mohl kdokoli navázat.<br><br>
 
-<ul>
- <li>nějaká další platforma pro sdílení videí: YouTube v tuto chvíli nemá konkurenci, ale v budoucnosti může být vše jinak</li>  
- <li style="margin-top:6px" >nástroje pro sdílení audio nahrávek: od videí lze oddělit zvuk, a tak je určitě možné samostatně distribuovat i samotné audio nahrávky</li>
- <li style="margin-top:6px">nějaký další YouTube kanál</li>
-</ul>
+Je možné, že se v budoucnosti – blízké či vzdálené – objeví nějaký další dobrovolník nebo skupina dobrovolníků, která by chtěla tvořit obsah o Buddhově učení v českém nebo slovenském jazyce.<br><br>
 
-Určitě bych si přál, aby některým z výše uvedených způsobů mohl distribuovat obsah kanálu PANDITA CZ i někdo další. Proto jsem se rozhodl, že budu celý YouTube kanál tvořit následujícím způsobem.<br><br>
+Určitě bych chtěl takové skupině umožnit, aby si obsah, který je k dispozici na YouTube kanálu PANDITA CZ, mohla stáhnout a umístit ho na svůj YouTube kanál.<br><br>
 
-<span class="underline" style="margin-top: 10px">
-Oprávnění k titulkům BSZA
-</span>
+Výhodou toho přístupu je především možnost mezigenerační spolupráce. Na práci současné generace dobrovolníků může navázat v budoucnosti další generace.<br><br>
+
+Obsah YouTube kanálu PANDITA CZ ale nemusí být použit pouze pro mezigenerační spolupráci. Celý obsah může být na YouTube k dispozici v několika verzích. Každou tuto verzi může spravovat jiná skupina dobrovolníků, která ho může ho doplňovat či mazat podle svého uvážení.<br><br>
+
+Aby vše výše uvedené bylo možné, rozhodl jsem se tvořit YouTube kanál PANDITA CZ následujícím způsobem.
+
+### Videa BSZA
 
 Vytvořil jsem titulky ke třem videím Ajahna Brahma. Tato videa jsou ve vlastnictví Buddhistické společnosti Západní Austrálie (BSZA).<br><br>
 
@@ -37,7 +37,7 @@ Tyto titulky smí veřejně věřejně použít a distribuovat pouze ten, kdo:
 <ul>
 <li>má povolení od Buddhistické společnosti Západní Austrálie používat videa z jejich YouTube kanálu</li>
 
-<li style="margin-top:6px">k tomu má povolení Buddhistické společnosti Západní Austrálie </li>
+<li style="margin-top:6px">kdo k tomu má povolení Buddhistické společnosti Západní Austrálie  </li>
 </ul>
 
 Dalibor Pavlík
@@ -52,8 +52,30 @@ Toto oprávnění budu přidávat ke všem titulkům, které vytvořím. Jeho po
 <li style="margin-top:6px"> přepis některých přednášek je někdy používán pro tvorbu knih. Pokud někdo získá povolení od BSZA tyto titulky použít, může z nich knihu pomocí těchto titulků vytvořit</li>
 </ul>
 
-<span class="underline" style="margin-top: 10px">
-Zálohování
-</span>
+V tuto chvíli máme povolení používat videa BSZA já a Radan Kuča. Více o těchto povoleních najdete na stránce [Povolení k užívani videí, nahrávek a titulků](povoleni-k-uzivani-videi-nahravek-a-titulku.html)
+
+### Videa CM PDC
+
+Na PANDITA CZ je více než třicet videí s přednáškami Bhante Sujívy. Tato videa jsou opatřena českými titulky. Pokud by je chtěl na svůj YouTube kanál umístit kdokoli další, určitě je to možné. Budete k tomu ale potřebovat povolení majitele těchto videí, kterým je italské meditační centrum [Centro Meditazione Pian Dei Ciliegi (CM PDC)]().<br><br>
+
+Před tím, než videa nahrajeme na YouTube kanál PANDITA CZ, tak z nich odstraňujeme audio šum. Proto pokud povolení dostanete, určitě je lepší videa stáhnout z YouTUbe kanálu PANDITA CZ, nikoli přímo z YouTube kanálu (CM PDC).
+
+### Teoh Visu
+
+Na PANDITA CZ jsou také nahrávky z meditačního kurzu s Visu Teoh.
+<br><br><br>
+
+### Zálohování
+
 Určitě by se mohlo někdy v budoucnu stát, že celý YouTube kanál PANDITA CZ smaže YouTube nebo ho nedopatřením smažu já.
-Pokud
+Proto je potřeba všechen obsah zálohovat.<br><br>
+
+Všechen obsah PANDITA CZ může kdokoli zálohovat pomocí nějaké online služby pro stahování videí z YouTube. To by ale bylo zbytečně pracné.<br><br>
+
+Proto jsem pro účely zálohování vytvořil google disk, který jsem pojmenoval PANDITA.CZ. Na tomto google disku je zálohován všechen obsah YouTube kanálu PANDITA CZ. <br><br>
+
+Velmi snadno si z z něj kdokoli může všechen obsah stáhnout a zálohovat na nějakém vlastním počítači nebo na nějakém externím datovém úložišti (flash disc nebo hard disk).<br><br>
+
+Aby bylo jisté, že všechen obsah dobře zálohovaný, požádal jsem několi přátel Buddhova učení, aby vždy na konci roku zálohovaly obsah, který v průběhu roku budu ukládat na google disk PANDITA.CZ. <br><br>
+
+To znamená, že obsah všech google disků v seznamu níže by mněl být totožný vždy alespoň na konci každého kalendářního roku.<br><br>
