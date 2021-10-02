@@ -67,6 +67,8 @@ Na PANDITA CZ jsou také nahrávky z meditačního kurzu s Visu Teoh.
 
 ### Zálohování
 
+Určitě by se mohlo někdy v budoucnu stát, že celý YouTube kanál PANDITA CZ smaže YouTube nebo ho nedopatřením smažu já. Stejně tak může dojít i ke smazání webu Pandita.cz. Proto tvořím i zálohu celého projektu.<br><br>
+
 Určitě by se mohlo někdy v budoucnu stát, že celý YouTube kanál PANDITA CZ smaže YouTube nebo ho nedopatřením smažu já.
 Proto je potřeba všechen obsah zálohovat.<br><br>
 
