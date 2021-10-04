@@ -1,6 +1,6 @@
 ---
 layout: default
-Title: Jak se zapojit
+Title: Jak pomoci s Panditou
 ---
 
-# Jak se zapojit
+# Jak pomoci s Panditou

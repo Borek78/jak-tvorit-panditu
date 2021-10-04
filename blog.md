@@ -26,5 +26,7 @@ layout: default
 
 ### [Typy licencí na YouTube](typy-licenci-na-youtube.html)
 
+### [Zálohování](zalohovani.html)
+
 </div>
 </div>

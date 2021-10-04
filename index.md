@@ -48,20 +48,18 @@ Podrobné informace o podmínkách, za kterých je využití obsahu YouTube kan�
 Zálohování
 </span>
 </div>
-Určitě by se mohlo někdy v budoucnu stát, že celý YouTube kanál PANDITA CZ smaže YouTube nebo ho nedopatřením smažu já. Stejně tak může dojít i ke smazání webu Pandita.cz. Proto tvořím i zálohu celého projektu.<br><br>
+Určitě by se mohlo někdy v budoucnu stát, že nedopatřením smažu celý YouTube kanál PANDITA CZ nebo web Pandita.cz. Také se může stát, že YouTube kanál PANDITA CZ smaže přímo Youtube. Proto tvořím i zálohu celého projektu.<br><br>
 
 Více informací o zálohování projektu Pandita najdete na [stránce Zálohování.](zalohovani.html)
 
 ### TVORBA
 
-Pokud byste chtěli projekt Pandita.cz spoluvytvářet navšivte stránku [Jak se zapojit.](jak-se-zapojit.html)
+Pokud byste chtěli podílet na tvorbě projektu Pandita, navštivte stránku [Jak pomoci s Panditou](jak-se-zapojit.html)
 
 <br><br>
 
 Dalibor Pavlík<br>
 email: cz.pandita@gmail.com<br>
 [facebook: Dalibor Pavlik – Borek](https://www.facebook.com/robilad.kilvap)<br>
-
-### Zálohování
 
 <script src="./js/script-index.js"></script>
