@@ -31,7 +31,9 @@ Proto jsem se rozhodl, že celý projekt budu tvořit následujím způsobem.<br
 Web Pandita.cz
 </span>
 
-Web Pandita.cz si může kdokoli stáhnout a může ho jakýmkoli způsobem distribuovat: může ho například umístit na nějakou vlastní doménu. Jedinou podmínkou je, že web nebude používán ke komerčním účelům. Podrobnosti jsou uvedeny přímo na webu Pandita.cz na stránce [Podmínky užití.](podminky-uziti.html)<br><br>
+Web Pandita.cz si může kdokoli stáhnout a může ho jakýmkoli způsobem distribuovat: může ho například umístit na nějakou vlastní doménu. Jedinou podmínkou je, že web nebude používán ke komerčním účelům. <br><br>
+
+Podrobnosti najdete na stránce [Podmínky užití](podminky-uziti.html), která je na webu [Pandita.cz]() <br><br>
 
 <span class="underline-uvod"  >
 Obsah YouTube kanálu PANDITA CZ
@@ -40,7 +42,7 @@ Stejně jako v případě webu Pandita.cz bych si přál, aby si kdokoli mohl st
 
 Jinými slovy, pokud se někdo rozhodne zkopírovat veškerý obsah YouTube kanálu PANDITA CZ a díky tomu vytvoří identický nebo podobný YouTube kanál, je to dobrá věc.<br><br>
 
-Podrobné informace o podmínkách, za kterých je využití obsahu YouTube kanálu PANDITA CZ možné najdete na stránce [Využití obsahu YouTube kanálu PANDITA CZ.](vyuziti-obsahu-youtube-kanalu-pandita-cz.html)
+Podrobné informace o podmínkách, za kterých je využití obsahu YouTube kanálu PANDITA CZ možné, najdete na stránce [Využití obsahu YouTube kanálu PANDITA CZ.](vyuziti-obsahu-youtube-kanalu-pandita-cz.html)
 <br><br>
 
 <div>
@@ -50,7 +52,13 @@ Zálohování
 </div>
 Určitě by se mohlo někdy v budoucnu stát, že celý YouTube kanál PANDITA CZ smaže YouTube nebo ho nedopatřením smažu já. Stejně tak může dojít i ke smazání webu Pandita.cz. Proto tvořím i zálohu celého projektu.<br><br>
 
-Více informací o zálohování projektu Pandita najdete na[stránce Zálohování.](zalohovani.html)
+Více informací o zálohování projektu Pandita najdete na [stránce Zálohování.](zalohovani.html)
+
+### Jak se zapojit
+
+Pokud byste chtěli projekt Pandita.cz spoluvytvářet navšivte stránku [Jak se zapojit.](jak-se-zapojit.html)
+
+<br><br>
 
 Dalibor Pavlík<br>
 email: cz.pandita@gmail.com<br>
