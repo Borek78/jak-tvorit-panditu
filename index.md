@@ -9,7 +9,7 @@ title: Jak tvořit Panditu - web věnovaný tvorbě youtube kanálu PANDITA CZ
 <br>
 <div id="mili-priznivci"> Milí příznivci Buddhova učení,</div>
 
-tuto stránku jsem začal tvořit pro všechny, kteří se společně se mnou podílejí na tvorbě projektu Pandita nebo by se na jeho tvorbě chtěli podílet. Je také pro všechny, kteří uvažují o tom, že by podobný projekt sami založili.
+tento blog jsem začal tvořit pro všechny, kteří se společně se mnou podílejí na tvorbě projektu Pandita nebo by se na jeho tvorbě chtěli podílet. Je také pro všechny, kteří uvažují o tom, že by podobný projekt sami založili.
 
 <div id="anchor-pandita" markdown="1" >
 
@@ -19,15 +19,15 @@ tuto stránku jsem začal tvořit pro všechny, kteří se společně se mnou po
 
 Projekt Pandita je věnovaný théravádovému buddhismu, který čerpá své duchovní kořeny v Tipitace, neboli Pálijském kánonu. Tento typ buddhismu je dominantní v zemích jižní a jihovýchodní Asie (Thajsko, Barma, Kambodža, Laos a Srí Lanka), a proto je také někdy nazýván jako „jižní buddhismus“.<br><br>
 
-Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube kanál [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew). Inspirací pro jeho založení je polský portál [Sasana.pl](https://pandita.cz/) a [YouTube kanál Sasana.pl](https://www.youtube.com/user/sasanaPL): některá videa na tomto YouTube kanálu mají více než jeden milion zobrazení a celý kanál má více než 100 tisíc odběratelů.
+Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube kanál [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew). Inspirací pro jeho založení je polský portál [Sasana.pl](https://pandita.cz/) a [YouTube kanál Sasana.pl](https://www.youtube.com/user/sasanaPL), který má více než 100 000 odběratelů a některá videa na tomto YouTube kanálu mají více než jeden milion zobrazení.
 
-### JAK TVOŘIT
+### DOSTUPNOST
 
 Celý projekt se budu snažit tvořit tak, aby byl jeho obsah dostupný české věřejnosti co možná nejvíce. Zároveň bych si přál, aby na práci všech dobrovolníků, kteří se budou na tvorbě projektu podílet, mohl navázat někdo další.<br><br>
 
 Proto jsem se rozhodl, že celý projekt budu tvořit následujím způsobem.<br><br>
 
-<span class="underline-uvod"  >
+<span class="underline-uvod" style="margin-top:10px"  >
 Web Pandita.cz
 </span>
 
@@ -38,11 +38,9 @@ Podrobnosti najdete na stránce [Podmínky užití](podminky-uziti.html), která
 <span class="underline-uvod"  >
 Obsah YouTube kanálu PANDITA CZ
 </span><br>
-Stejně jako v případě webu Pandita.cz bych si přál, aby si kdokoli mohl stáhnout obsah, který je na YouTube kanálu PANDITA CZ, a mohl ho nějakým způsobem dál distribuovat.<br><br>
+Za určitých podmínek (viz. níže), smí kdokoli obsah YouTube kanálu PANDITA CZ šířit a distribuovat. Jinými slovy, pokud se někdo rozhodne zkopírovat veškerý obsah YouTube kanálu PANDITA CZ a díky tomu vytvořit identický nebo podobný YouTube kanál, je to dobrá věc.<br><br>
 
-Jinými slovy, pokud se někdo rozhodne zkopírovat veškerý obsah YouTube kanálu PANDITA CZ a díky tomu vytvoří identický nebo podobný YouTube kanál, je to dobrá věc.<br><br>
-
-Podrobné informace o podmínkách, za kterých je využití obsahu YouTube kanálu PANDITA CZ možné, najdete na stránce [Využití obsahu YouTube kanálu PANDITA CZ.](vyuziti-obsahu-youtube-kanalu-pandita-cz.html)
+Podrobné informace o podmínkách, za kterých je využití obsahu YouTube kanálu PANDITA CZ možné, najdete na stránce [Oprávnění k použití obsahu YouTube kanálu PANDITA CZ.](opravneni-k-pouziti-obsahu-youtube-kanalu-pandita-cz.html)
 <br><br>
 
 <div>
@@ -54,7 +52,7 @@ Určitě by se mohlo někdy v budoucnu stát, že celý YouTube kanál PANDITA C
 
 Více informací o zálohování projektu Pandita najdete na [stránce Zálohování.](zalohovani.html)
 
-### Jak se zapojit
+### TVORBA
 
 Pokud byste chtěli projekt Pandita.cz spoluvytvářet navšivte stránku [Jak se zapojit.](jak-se-zapojit.html)
 

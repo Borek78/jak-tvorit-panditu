@@ -20,9 +20,11 @@ layout: default
 
 ### [Podmínky užití webu Jak tvořit Panditu](podminky-uziti.html) <br>
 
-### [Využití obsahu YouTube kanálu PANDITA CZ](vyuziti-obsahu-youtube-kanalu-pandita-cz.html)
+### [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ](opravneni-k-pouziti-obsahu-youtube-kanalu-pandita-cz.html)
 
-### [Jak tvořit Panditu](jak-tvorit-panditu.html)
+### [Jak se zapojit](jak-se-zapojit.html)
+
+### [Typy licencí na YouTube](typy-licenci-na-youtube.html)
 
 </div>
 </div>
