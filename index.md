@@ -19,7 +19,7 @@ tento blog jsem začal tvořit pro všechny, kteří se společně se mnou podí
 
 Projekt Pandita je věnovaný théravádovému buddhismu, který čerpá své duchovní kořeny v Tipitace, neboli Pálijském kánonu. Tento typ buddhismu je dominantní v zemích jižní a jihovýchodní Asie (Thajsko, Barma, Kambodža, Laos a Srí Lanka), a proto je také někdy nazýván jako „jižní buddhismus“.<br><br>
 
-Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube kanál [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew). Inspirací pro jeho založení je polský portál [Sasana.pl](https://pandita.cz/) a [YouTube kanál Sasana.pl](https://www.youtube.com/user/sasanaPL), který má více než 100 000 odběratelů a některá videa na tomto YouTube kanálu mají více než jeden milion zobrazení.
+Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube kanál [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew). Inspirací pro jeho založení je polský portál [Sasana.pl](http://sasana.pl/) a [YouTube kanál Sasana.pl](https://www.youtube.com/user/sasanaPL), který má více než 100 000 odběratelů a některá videa na tomto YouTube kanálu mají více než jeden milion zobrazení.
 
 ### DOSTUPNOST
 
@@ -40,7 +40,7 @@ Obsah YouTube kanálu PANDITA CZ
 </span><br>
 Za určitých podmínek (viz. níže), smí kdokoli obsah YouTube kanálu PANDITA CZ šířit a distribuovat. Jinými slovy, pokud se někdo rozhodne zkopírovat veškerý obsah YouTube kanálu PANDITA CZ a díky tomu vytvořit identický nebo podobný YouTube kanál, je to dobrá věc.<br><br>
 
-Podrobné informace o podmínkách, za kterých je využití obsahu YouTube kanálu PANDITA CZ možné, najdete na stránce [Oprávnění k použití obsahu YouTube kanálu PANDITA CZ.](opravneni-k-pouziti-obsahu-youtube-kanalu-pandita-cz.html)
+Podrobné informace o podmínkách, za kterých je využití obsahu YouTube kanálu PANDITA CZ možné, najdete na stránce [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ.](opravneni-k-uziti-obsahu-youtube-kanalu-pandita-cz.html)
 <br><br>
 
 <div>
@@ -55,17 +55,27 @@ Více informací o zálohování projektu Pandita najdete na [stránce Zálohov�
 <span class="underline-uvod"  >
 Blogy
 </span><br>
-Současně s projektem Pandita vytvářím i blogy [Jak tvořit Panditu](index.html) a [How to create Pandita.]() Texty obou těchto webů jsou zveřejněny za podmínek licence [CC-BY 4.0 Mezinárodní.]() K volnému užití je i šablona obou těchto webů. Kdokoli teď může oba weby nahrát na nějakou vlastní doménu a jejich texty upravovat, transformovat atd. <br><br>
+Současně s projektem Pandita vytvářím i blogy [Jak tvořit Panditu](index.html) a [How to create Pandita.](https://borek78.github.io/how-to-create-pandita/index.html) Texty obou těchto webů jsou zveřejněny za podmínek licence [CC-BY 4.0 Mezinárodní.](https://creativecommons.org/licenses/by/4.0/deed.cs) K volnému užití je i šablona obou těchto webů. Kdokoli teď může oba weby nahrát na nějakou vlastní doménu a jejich texty upravovat, transformovat atd. <br><br>
 
-Více o možnosti oba weby použít najdete na stránce [Podmínky užití webu Jak tvořit Panditu](podminky-uziti-webu-jak-tvorit-panditu.md) a na stránce [Terms of Use](terms-of-use.html)
+Podrobnosti o možnosti použít blog Jak tvořit Panditu najdete na stránce [Podmínky užití](podminky-uziti.html). Podrobnosti o možnosti použít blog How to create Pandita jsou na stránce [Terms of Use](https://borek78.github.io/how-to-create-pandita/terms-of-use.html)
 
 ### TVORBA
 
 Pokud byste chtěli podílet na tvorbě projektu Pandita, navštivte stránku [Jak pomoci s Panditou](jak-pomoci-s-panditou.html).
-<br><br>
+<br><br><br>
 
-Dalibor Pavlík<br>
+Napodobit úsilí přátel Dhammy za naší severní hranicí je pro mě sen. Věřím ale, že alespoň jeho část se může splnit.<br><br>
+
+S pozdravem,<br><br>
+
+<div style="margin-top:-15px">Dalibor<div><br>
+
+<span class="underline-uvod" style="margin-top:10px"  >
+Kontakt
+</span><br>
+Dalibor Pavlík - Borek<br>
 email: cz.pandita@gmail.com<br>
-[facebook: Dalibor Pavlik – Borek](https://www.facebook.com/robilad.kilvap)<br>
+<a href="https://www.facebook.com/robilad.kilvap">https://www.facebook.com/robilad.kilvap</a>
+<br>
 
 <script src="./js/script-index.js"></script>

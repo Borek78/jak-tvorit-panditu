@@ -3,7 +3,7 @@ layout: default
 title: Využití obsahu YouTube kanálu Pandita CZ
 ---
 
-# Využití obsahu YouTube kanálu PANDITACZ
+# Oprávnění k užití obsahu YouTube kanálu PANDITA CZ
 
 YouTube kanál PANDITA CZ se snažím tvořit tak, aby byl jeho obsah dostupný české veřejnosti tak, jak jen to je možné. Zároveň bych si přál, aby na práci jeho tvůrců mohl kdokoli navázat.<br><br>
 
