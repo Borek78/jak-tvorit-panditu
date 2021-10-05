@@ -1,3 +1,26 @@
+#text-in-page #google-disk-pandita-button:hover {
+  background-color: #b37800;
+  border: 2px dotted #b37800;
+
+  color: white;
+}
+
+#text-in-page #google-disk-pandita-button {
+  display: block;
+  border: 2px solid #926100;
+  order: 2px solid rgb(94, 128, 0);
+  width: 160px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 10px;
+  color: #b7542d;
+  color: #926100;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .underline-uvod {
   border-bottom: 2px solid rgb(29, 29, 29);
   padding-left: 3px;

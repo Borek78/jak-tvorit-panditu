@@ -18,11 +18,11 @@ layout: default
 
 ### [Hugo - generátor statických stránek](hugo-generator-statickych-stranek.html) <br>
 
-### [Podmínky užití webu Jak tvořit Panditu](podminky-uziti.html) <br>
+### [Podmínky užití webu Jak tvořit Panditu](podminky-uziti-webu-jak-tvorit-panditu.html) <br>
 
 ### [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ](opravneni-k-pouziti-obsahu-youtube-kanalu-pandita-cz.html)
 
-### [Jak se zapojit](jak-se-zapojit.html)
+### [Jak pomoci s Panditou](jak-pomoci-s-panditou.html)
 
 ### [Typy licencí na YouTube](typy-licenci-na-youtube.html)
 

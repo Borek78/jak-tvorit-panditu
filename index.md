@@ -50,12 +50,18 @@ Zálohování
 </div>
 Určitě by se mohlo někdy v budoucnu stát, že nedopatřením smažu celý YouTube kanál PANDITA CZ nebo web Pandita.cz. Také se může stát, že YouTube kanál PANDITA CZ smaže přímo Youtube. Proto tvořím i zálohu celého projektu.<br><br>
 
-Více informací o zálohování projektu Pandita najdete na [stránce Zálohování.](zalohovani.html)
+Více informací o zálohování projektu Pandita najdete na [stránce Zálohování.](zalohovani.html)<br><br>
+
+<span class="underline-uvod"  >
+Blogy
+</span><br>
+Současně s projektem Pandita vytvářím i blogy [Jak tvořit Panditu](index.html) a [How to create Pandita.]() Texty obou těchto webů jsou zveřejněny za podmínek licence [CC-BY 4.0 Mezinárodní.]() K volnému užití je i šablona obou těchto webů. Kdokoli teď může oba weby nahrát na nějakou vlastní doménu a jejich texty upravovat, transformovat atd. <br><br>
+
+Více o možnosti oba weby použít najdete na stránce [Podmínky užití webu Jak tvořit Panditu](podminky-uziti-webu-jak-tvorit-panditu.md) a na stránce [Terms of Use](terms-of-use.html)
 
 ### TVORBA
 
-Pokud byste chtěli podílet na tvorbě projektu Pandita, navštivte stránku [Jak pomoci s Panditou](jak-se-zapojit.html)
-
+Pokud byste chtěli podílet na tvorbě projektu Pandita, navštivte stránku [Jak pomoci s Panditou](jak-pomoci-s-panditou.html).
 <br><br>
 
 Dalibor Pavlík<br>
