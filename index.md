@@ -38,13 +38,13 @@ Podrobnosti najdete na stránce [Podmínky užití](podminky-uziti.html), která
 <span class="underline-uvod"  >
 Obsah YouTube kanálu PANDITA CZ
 </span><br>
-Za určitých podmínek (viz. níže), smí kdokoli obsah YouTube kanálu PANDITA CZ šířit a distribuovat. Jinými slovy, pokud se někdo rozhodne zkopírovat veškerý obsah YouTube kanálu PANDITA CZ a díky tomu vytvořit identický nebo podobný YouTube kanál, je to dobrá věc.<br><br>
+Za určitých podmínek (viz. níže), smí kdokoli obsah YouTube kanálu PANDITA CZ šířit a distribuovat. Jinými slovy, pokud se někdo rozhodne zkopírovat veškerý obsah YouTube kanálu PANDITA CZ a díky tomu vytvoří identický nebo podobný YouTube kanál, je to dobrá věc.<br><br>
 
 Podrobné informace o podmínkách, za kterých je využití obsahu YouTube kanálu PANDITA CZ možné, najdete na stránce [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ.](opravneni-k-uziti-obsahu-youtube-kanalu-pandita-cz.html)
 <br><br>
 
 <div>
-<span class="underline-uvod"  >
+<span class="underline-uvod">
 Zálohování
 </span>
 </div>
@@ -59,12 +59,12 @@ Současně s projektem Pandita vytvářím i blogy [Jak tvořit Panditu](index.h
 
 Podrobnosti o možnosti použít blog Jak tvořit Panditu najdete na stránce [Podmínky užití](podminky-uziti.html). Podrobnosti o možnosti použít blog How to create Pandita jsou na stránce [Terms of Use](https://borek78.github.io/how-to-create-pandita/terms-of-use.html)
 
-### TVORBA
+### TVORBA & ZÁVĚR
 
-Pokud byste chtěli podílet na tvorbě projektu Pandita, navštivte stránku [Jak pomoci s Panditou](jak-pomoci-s-panditou.html).
-<br><br><br>
+Pokud byste chtěli podílet na tvorbě projektu Pandita, navštivte stránku [Jak pomoci s Panditou](jak-pomoci-s-panditou.html). Také ná stránce [BLOG](blog.html) najdete další články o tom, jakým způsobem je možné celý projekt spoluvytvářet.
+<br><br>
 
-Napodobit úsilí přátel Dhammy za naší severní hranicí je pro mě sen. Věřím ale, že alespoň jeho část se může splnit.<br><br>
+Napodobit úsilí přátel Dhammy za naší severní hranicí je zatím jenom sen. Věřím ale, že alespoň jeho část se může splnit. A co se nepodaří současné generaci studentů Buddhova učení, může dokončit ta další.<br><br>
 
 S pozdravem,<br><br>
 

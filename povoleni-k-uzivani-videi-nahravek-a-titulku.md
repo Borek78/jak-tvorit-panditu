@@ -24,9 +24,9 @@ Kromě mě má povolení používat videa Buddhistické společnosti Západní A
 
 ### POVOLENÍ OD BSZA
 
-Toto je zkrácená verze povolení, které mám od [Buddhistické společnosti Západní Austrálie.](https://bswa.org/) <br><br>
+Toto je zkrácená verze povolení, které mám od [Buddhistické společnosti Západní Austrália.](https://bswa.org/) <br><br>
 
-Videa z YouTube kanálu [Buddhist Society of Western Australia](https://www.youtube.com/user/BuddhistSocietyWA) smím používat, pokud dodržím následující podmínky.<br><br>
+Videa z YouTube kanálu [Buddhistické společnosti Západní Austrálie](https://www.youtube.com/user/BuddhistSocietyWA) smím používat, pokud dodržím následující podmínky.<br><br>
 
 <span>1.</span> Vždy uvedu jméno autora/přednášejícího<br><br>
 

@@ -1,3 +1,9 @@
+#page #blog h2 {
+  text-align: left;
+  margin-bottom: -26px;
+  margin-top: 30px;
+}
+
 #text-in-page #google-disk-pandita-button:hover {
   background-color: #b37800;
   border: 2px dotted #b37800;

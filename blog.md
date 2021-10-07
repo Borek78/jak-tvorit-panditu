@@ -8,25 +8,29 @@ layout: default
 <div id="blog" markdown="1" >
 <div class="no-link-underline" markdown="1" >
 
-### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>
-
-### [Redukce audio šumu u některých videí](redukce-sumu.html)
-
-### [Aplikace CC licence pouze na práci autora](email-cc.html) <br>
-
-### [Povolení k užívání videí, nahrávek a titulků](povoleni-k-uzivani-videi-nahravek-a-titulku.html) <br>
+### [Aplikace CC licence pouze na práci autora](aplikace-cc-licence-pouze-na-praci-autora.html) <br>
 
 ### [Hugo - generátor statických stránek](hugo-generator-statickych-stranek.html) <br>
 
-### [Podmínky užití webu Jak tvořit Panditu](podminky-uziti-webu-jak-tvorit-panditu.html) <br>
+### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>
 
-### [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ](opravneni-k-pouziti-obsahu-youtube-kanalu-pandita-cz.html)
+### [Jak pomoci s Panditou](jak-pomoci-s-panditou.html)<br><br>
 
-### [Jak pomoci s Panditou](jak-pomoci-s-panditou.html)
+## O
 
-### [Typy licencí na YouTube](typy-licenci-na-youtube.html)
+### [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ](opravneni-k-uziti-obsahu-youtube-kanalu-pandita-cz.html)<br>
 
-### [Zálohování](zalohovani.html)
+### [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html) <br>
+
+### [Podmínky užití webu Jak tvořit Panditu](podminky-uziti-webu-jak-tvorit-panditu.html) <br><br>
+
+## R
+
+### [Redukce audio šumu u některých videí](redukce-sumu.html)<br>
+
+### [Typy licencí na YouTube](typy-licenci-na-youtube.html)<br>
+
+### [Zálohování](zalohovani.html)<br>
 
 </div>
 </div>

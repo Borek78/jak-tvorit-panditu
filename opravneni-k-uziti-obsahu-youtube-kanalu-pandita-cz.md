@@ -30,14 +30,14 @@ Obsah posledního titulku ke všem třem videím zní takto:
 <div class="citace">
 Tyto titulky jsem vytvořil v roce 2021 a uděluji následující oprávnění všem, kteří by je chtěli použít.<br><br>
 
-Kdokoli smí jakýmkoli způsobem tyto titulky upravit, pozměnit či jinak transformovat: je dovoleno pozměnit překlad, časování, formátování či jakýkoli jiný parametr titulků.<br><br>
+Kdokoli smí jakýmkoli způsobem tyto titulky upravit, pozměnit či jinak transformovat: je dovoleno pozměnit překlad, časování, formátování či jakýkoli jiný parametr titulků. Je také dovoleno, aby byly tyto titulky byly použity jako podklad pro české znění tohoto videa.<br><br>
 
 Tyto titulky smí veřejně věřejně použít a distribuovat pouze ten, kdo:
 
 <ul>
 <li>má povolení od Buddhistické společnosti Západní Austrálie používat videa z jejich YouTube kanálu</li>
 
-<li style="margin-top:6px">kdo k tomu má povolení Buddhistické společnosti Západní Austrálie  </li>
+<li style="margin-top:6px">kdo k tomu má nějaké jiné povolení Buddhistické společnosti Západní Austrálie  </li>
 </ul>
 
 Dalibor Pavlík
@@ -52,7 +52,11 @@ Toto oprávnění budu přidávat ke všem titulkům, které vytvořím. Jeho po
 <li style="margin-top:6px"> přepis některých přednášek je někdy používán pro tvorbu knih. Pokud někdo získá povolení od BSZA tyto titulky použít, může z nich knihu pomocí těchto titulků vytvořit</li>
 </ul>
 
-V tuto chvíli máme povolení používat videa BSZA já a Radan Kuča. Více o těchto povoleních najdete na stránce [Povolení k užívani videí, nahrávek a titulků](povoleni-k-uzivani-videi-nahravek-a-titulku.html)
+V tuto chvíli máme povolení používat videa BSZA já a Radan Kuča. Více o těchto povoleních najdete na stránce [Povolení k užívani videí, nahrávek a titulků](povoleni-k-uzivani-videi-nahravek-a-titulku.html)<br><br>
+
+Nejdříve jsem si myslel, že na moji práci na titulcích aplikuji licenci CC BY 4.0. Dokonce jsem kvůli tomu napsal i email i lidem, kteří oficiálně zastupuji korporaci Creative Commons v České republice. Text tohoto emailu je k dispozici v článku [Aplikace CC licence pouze na práco autora.](aplikace-cc-licence-pouze-na-praci-autora.html)<br><br>
+
+Nakonec jsem od tohoto záměru upustil, zdálo se mi to příliš složité. Místo toho jsem použil žlutě vyznačenou licenční poznámku (viz. výše na této stránce.)
 
 ### Videa CM PDC
 
@@ -65,6 +69,6 @@ Před tím, než videa nahrajeme na YouTube kanál PANDITA CZ, tak z nich odstra
 Na PANDITA CZ jsou také nahrávky z meditačního kurzu, který v roce 2021 vedl malajský učitel meditace Teoh Visu.
 <br><br>
 
-Teoh Visu i oba překladatelé souhlasili s tím, abychom použili pro tato vida licenci Creative Commons Attribution. To znamená, že je dovoleno si tato videa z PANDITA CZ stáhnout a jakkoli je použít či distribuovat. Pouze je nutné uvést autora a původ videa.<br><br>
+Teoh Visu i oba překladatelé - Jůlie Honyšová a Jirka Pavlík - souhlasili s tím, abychom použili pro tato vida licenci Creative Commons Attribution. To znamená, že je dovoleno si tato videa z PANDITA CZ stáhnout a jakkoli je použít či distribuovat. Pouze je nutné uvést autora a původ videa.<br><br>
 
-Více o informací o typech licencí na YouTube najdete v článku [Typy licencí na YouTube](typy-licenci-na-youtube.html).
+Více o informací o typech CC licencí na YouTube najdete v článku [Typy licencí na YouTube](typy-licenci-na-youtube.html).
