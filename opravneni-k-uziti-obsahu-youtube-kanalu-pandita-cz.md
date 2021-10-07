@@ -5,7 +5,7 @@ title: Využití obsahu YouTube kanálu Pandita CZ
 
 # Oprávnění k užití obsahu YouTube kanálu PANDITA CZ
 
-YouTube kanál PANDITA CZ se snažím tvořit tak, aby byl jeho obsah dostupný české veřejnosti tak, jak jen to je možné. Zároveň bych si přál, aby na práci jeho tvůrců mohl kdokoli navázat.<br><br>
+YouTube kanál PANDITA CZ se snažím tvořit tak, aby byl jeho obsah dostupný české veřejnosti co nejlépe Zároveň bych si přál, aby na práci jeho tvůrců mohl kdokoli navázat.<br><br>
 
 Je možné, že se v budoucnosti – blízké či vzdálené – objeví nějaký další dobrovolník nebo skupina dobrovolníků, která by chtěla tvořit obsah o Buddhově učení v českém nebo slovenském jazyce.<br><br>
 
@@ -44,6 +44,8 @@ Dalibor Pavlík
 
 </div>
 
+Tento titulek nenajdete v té verzi titulků, která je vytištěná (natvrdo) do titulků. Pokud si ale titulky na YouTube zapnete, tento titulek tam uvidíte. Stejně tak je tento titulek v souborech, které jsou na google disku Pandita. <br><br>
+
 Toto oprávnění budu přidávat ke všem titulkům, které vytvořím. Jeho použití má dvě výhody:
 
 <ul>
@@ -54,7 +56,7 @@ Toto oprávnění budu přidávat ke všem titulkům, které vytvořím. Jeho po
 
 V tuto chvíli máme povolení používat videa BSZA já a Radan Kuča. Více o těchto povoleních najdete na stránce [Povolení k užívani videí, nahrávek a titulků](povoleni-k-uzivani-videi-nahravek-a-titulku.html)<br><br>
 
-Nejdříve jsem si myslel, že na moji práci na titulcích aplikuji licenci CC BY 4.0. Dokonce jsem kvůli tomu napsal i email i lidem, kteří oficiálně zastupuji korporaci Creative Commons v České republice. Text tohoto emailu je k dispozici v článku [Aplikace CC licence pouze na práco autora.](aplikace-cc-licence-pouze-na-praci-autora.html)<br><br>
+Původně jsem si myslel, že na moji práci na titulcích aplikuji licenci [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/deed.cs). Dokonce jsem kvůli tomu napsal i email i lidem, kteří oficiálně zastupuji korporaci Creative Commons v České republice. Text tohoto emailu je k dispozici v článku [Aplikace CC licence pouze na práco autora.](aplikace-cc-licence-pouze-na-praci-autora.html)<br><br>
 
 Nakonec jsem od tohoto záměru upustil, zdálo se mi to příliš složité. Místo toho jsem použil žlutě vyznačenou licenční poznámku (viz. výše na této stránce.)
 

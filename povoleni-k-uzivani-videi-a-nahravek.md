@@ -6,7 +6,7 @@ layout: default
 title: Povolení k tvorbě YouTUbe kanálu PANDITA CZ - videa, nahrávky a titulky
 ---
 
-# Povolení k užívání videí, nahrávek a titulků
+# Povolení k užívání videí a nahrávek
 
 <div style="margin-top:0px"> K tvorbě YouTube kanálu PANDITA CZ mám několik povolení.<br><br> </div>
 
@@ -32,7 +32,9 @@ Videa z YouTube kanálu [Buddhistické společnosti Západní Austrálie](https:
 
 <span>2.</span> Videa nebudu užívat komerčně (umísťovat do nich reklamu a podobně) – můžu ale do popisků videí umísťovat odkazy na služby (např. na [https://www.patreon.com](https://www.patreon.com/)), které umožňují získávat od sponzorů finanční prostředky (např. na tvorbu českého znění videí)<br><br>
 
-<span>3.</span> Budu sdílet české verze videí za stejných podmínek – to znamená, že pokud si nějaká skupina přátel bude chtít videa stáhnout a nějakým způsobem je bude chtít použít, tak je to dobrá věc. Pouze bude musete vždy uvést jméno autora a neužívat videa komerčně.
+K 1.6.2021 přidal YouTube do smluvních podmínek právo všechny YouTube kanály monetizovat. To znamená, že YouTube může přidávat reklamu i do těch YouTube kanálů, které nejsou komerčně využívány jejich majitelem. Proto se občas objeví nějaká reklama i ve videích na PANDITA CZ.<br><br>
+
+<span>3.</span> Budu sdílet české verze videí za stejných podmínek – to znamená, že pokud si nějaká skupina přátel bude chtít videa stáhnout a použít je třeba v nějakém letním kině, tak je to dobrá věc. Pouze bude musete vždy uvést jméno autora a neužívat videa komerčně.
 <br><br>
 
 <span>4.</span> V popisku každého videa musím uvést tento odkaz.

@@ -1,5 +1,17 @@
 # Aplikace CC licence pouze na práci autora
 
+Původně jsem si myslel, že na moji práci na titulcích, které jsem vytvořil k videím Ajahna Brahma, aplikuji licenci CC BY 4.0.<br><br>
+
+Dokonce jsem kvůli tomu napsal email i lidem, kteří oficiálně zastupuji [korporaci Creative Commons](https://creativecommons.org/) v České republice. Jejich webová stránka je [https://www.creativecommons.cz/](https://www.creativecommons.cz/). Text tohoto emailu je obsahem tohoto článku a najdete ho níže.<br><br>
+
+Zdálo se mi to ale příliš složité a místo toho jsem použil neformální licenční poznámku, jejíž text je na stránce [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ.](opravneni-k-uziti-obsahu-youtube-kanalu-pandita-cz.html)<br><br>
+
+Tento email/článek jsem se nakonec rozhodl na blogu nechat. Obsahu mnoho zajímavých informací o CC licencích a autorských právech. Možná budou někoho zajímat.<br><br>
+
+............................................................................................
+
+<br><br>
+
 <div style="">Dobrý den,</div><br>
 
 jmenuji se Dalibor Pavlík. Chtěl bych se vás zeptat na něco, co se
