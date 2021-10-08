@@ -56,10 +56,6 @@ Toto oprávnění budu přidávat ke všem titulkům, které vytvořím. Jeho po
 
 V tuto chvíli máme povolení používat videa BSZA já a Radan Kuča. Více o těchto povoleních najdete na stránce [Povolení k užívani videí, nahrávek a titulků](povoleni-k-uzivani-videi-nahravek-a-titulku.html)<br><br>
 
-Původně jsem si myslel, že na moji práci na titulcích aplikuji licenci [CC BY 4.0.](https://creativecommons.org/licenses/by/4.0/deed.cs). Dokonce jsem kvůli tomu napsal i email i lidem, kteří oficiálně zastupuji korporaci Creative Commons v České republice. Text tohoto emailu je k dispozici v článku [Aplikace CC licence pouze na práco autora.](aplikace-cc-licence-pouze-na-praci-autora.html)<br><br>
-
-Nakonec jsem od tohoto záměru upustil, zdálo se mi to příliš složité. Místo toho jsem použil žlutě vyznačenou licenční poznámku (viz. výše na této stránce.)
-
 ### Videa CM PDC
 
 Na PANDITA CZ je více než třicet videí s přednáškami Bhante Sujívy. Tato videa jsou opatřena českými titulky. Pokud by je chtěl na svůj YouTube kanál umístit kdokoli další, určitě je to možné. Budete k tomu ale potřebovat povolení majitele těchto videí, kterým je italské meditační centrum [Centro Meditazione Pian Dei Ciliegi (CM PDC)]().<br><br>

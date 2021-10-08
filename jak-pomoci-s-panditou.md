@@ -25,17 +25,39 @@ Návod na formátování knih, neboli přeměnu pdf knih do podoby webové strá
 Překlad videí lze tvoři dvojím způsobem:
 
 <ul>
-<li>jako titulky, které jsou určeny pro čtení (např. v kině)</li>
-<li>jako podklad pro české znění vidia</li>
+<li>jako titulky, které jsou určeny primárně pro čtení (např. v kině)</li>
+<li>jako podklad pro české znění videa</li>
 </ul>
 
-Zatím mám zkušenost pouze s tvorbou titulků. Návod na tvorbu titulků najdete na stránce [Jak tvořit titulky.](jak-tvorit-titulky.html)<br><br>
+Zatím mám zkušenost pouze s tvorbou titulků pro čtení. Návod k jejich tvorbě je na stránce
+<a href="jak-tvorit-titulky.html">Jak tvořit titulky.</a> <br><br>
 
 <div class="underline">
 BSZA
 </div>
-Máme povolení použít jakékoli video z [YouTube kanálu Buddhistické společnosti Západní Austrálie (BSZA)](https://www.youtube.com/user/BuddhistSocietyWA) a vytvořit k němu titulky. Více o tomto povolení najdete na stránce [Povolení k užívání videí a nahravek](povoleni-k-uzivani-videi-a-nahravek.html)<br><br>
+Máme povolení použít jakékoli video z [YouTube kanálu Buddhistické společnosti Západní Austrálie (BSZA)](https://www.youtube.com/user/BuddhistSocietyWA) a vytvořit k němu titulky. Více o tomto povolení najdete na stránce [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html)<br><br>
 
-Návod pro tvorbu titulků je na stránce [Jak tvořit titulky](jak-tvorit-titulky.md)
+Z mojí vlastní zkušenosti a ze studia polského kanálu sasana.pl se mi zdá, že dlouhá videa jsou vhodnější pro tvorbu českého znění a že pro tvorbu titulků jsou vhodnějěí kratší videa.<br><br>
 
-Nicméně dlouhá videa Ajahna Brahma mají polském jazyce vysokou sledovanot a je lepší jejich překlads titulky nemají dobrou sledovanost, hodí se spíše pro tvorbu českého znění. Pro tvorbu titulků
+Kratší videa, která jsou k dispozici na YouTube kanálu BSZA, najdete na tomto odkazu:<br><br>
+
+<div class="do-not-break-out">
+<a href="https://www.youtube.com/results?search_query=buddhist+society+of+western+australia&sp=EgIYAQ%253D%253D">https://www.youtube.com/results?search_query=buddhist+society+of+western+australia&sp=EgIYAQ%253D%253D</a>
+</div><br>
+
+Některá z těchto videí již přeložil Radan Kuča a jsou k dispozici na YouTube kanálu [Ajahn Brahm Česky.]() K žádnému z následujících videí ale ještě titulky nevznikly. Pokud by někdo chtěl k některému vytvořit titulky, byla by to určitě dobrá věc.
+
+<ul>
+<li>2</li>
+<li>1</li>
+<li>3</li>
+<li>4</li>
+</ul>
+
+Návod ke tvorbě titulků je na stránce
+<a href="jak-tvorit-titulky.html">Jak tvořit titulky.</a><br><br>
+
+<div class="underline">
+CM PDC
+</div>
+Určitě je možné tvořit titulky i k videím na YouTube kanálu, který patří italskému meditačnímu centru [Centro Meditazione Pian Dei Ciliegi (CMPDC.).]() Zatím je domluvena možnost používat videa Bhante Sujívy, ale určitě by bylo možné používat videa i jiných autorů.<br><br>

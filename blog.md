@@ -8,8 +8,6 @@ layout: default
 <div id="blog" markdown="1" >
 <div class="no-link-underline" markdown="1" >
 
-### [Aplikace CC licence pouze na práci autora](aplikace-cc-licence-pouze-na-praci-autora.html) <br>
-
 ### [Hugo - generátor statických stránek](hugo-generator-statickych-stranek.html) <br>
 
 ### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>

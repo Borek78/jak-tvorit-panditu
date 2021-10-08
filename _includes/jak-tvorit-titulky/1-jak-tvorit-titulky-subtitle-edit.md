@@ -1,5 +1,16 @@
 # JAK TVOŘIT TITULKY
 
+Pro tvorbu titulků jsou k dispozici dva návody.
+
+<ul>
+<li>prvních z nich je ve formě několika video návodů. Najdete je na YouTube kanálu <a href=""> Návody k tvorbě Pandity</a></li>
+<li style="margin-top:8px">druhý je v písemné formě a najdete ho zde na této stránce pod tečkami</li>
+</ul>
+
+Oba návody by se měly dobře doplňovat.
+
+<div class="pas-na-strance-titulky"></div>
+
 Tento článek shrnuje některé moje postřehy a zkušenosti z období, kdy jsem vytvářel titulky k těmto videím:<br><br>
 
 [Čtyři způsoby, jak se pustit](https://www.youtube.com/watch?v=pkH7Qick84E)<br><br>

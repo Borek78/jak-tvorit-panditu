@@ -5,7 +5,7 @@ layout: default
 
 # Typy licencí na YouTube
 
-Pod každým videem na YouTube je popis videa. Pokud kliknete pod videem na SHOW MORE, zobrazí se vám celý popis videa. Na jeho konci pak najdete typ licence (oprávnění), pod kterou je video zveřejněno.<br><br>
+Pod každým videem na YouTube je popis videa. Pokud kliknete pod videem na nápis <span style="color: #464646; font-weight:bold;">SHOW MORE,</span> zobrazí se vám celý popis videa. Na jeho konci pak najdete typ licence (oprávnění), pod kterou je video zveřejněno.<br><br>
 
 Pro každé video na YouTube lze použít jednu z těchto licencí.
 

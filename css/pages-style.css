@@ -1,3 +1,18 @@
+.li-zvetsit-rozestupy {
+  margin-top: 10px;
+}
+
+.pas-na-strance-titulky {
+  height: 0px;
+  width: 100%;
+  ackground-color: #2c2c2c;
+  border-bottom: 3px dotted #c7c7c7;
+
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-radius: 5px;
+}
+
 #page #blog h2 {
   text-align: left;
   margin-bottom: -26px;
