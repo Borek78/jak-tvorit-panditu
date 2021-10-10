@@ -6,7 +6,7 @@ layout: default
 Title: Podmínky užití webu Jak tvořit Panditu
 ---
 
-# Podmínky užití
+# Podmínky užití webu Jak tvořit Pandiitu
 
 Jsem autorem všech textů na tomto webu kromě částí, které cituji z knih nebo z jiných webových stránek. Určitě si přál, aby kdokoli moje texty mohl použít a mohl tak na moji práci navázat. Proto jsou všechny moje texty na tomto webu dostupné za podmínek licence [CC Uveďte původ Mezinárodní 4.0.](https://creativecommons.org/licenses/by/4.0/deed.cs) <br><br>
 
@@ -20,18 +20,13 @@ Pokud není uvedeno jinak, autorem textů na tomto webu je Dalibor Pavlík a jeh
 
 CC licence se ale na software nepoužívají. Proto jsem pro můj software (šablonu) hledal jinou licenci, která by komukoli umožnila moji práci použít. Běžně se pro tyto účely používá [MIT licence.](https://cs.wikipedia.org/wiki/Licence_MIT)<br><br>
 
-Šablonu tohoto webu tedy můžete použít za podmínek MIT licence.
+Šablonu tohoto webu Jak tvořit Panditu tedy může kdokoli použít za podmínek MIT licence.
 Celý text této licence je v souboru mit-license.txt, který je v kořenovém adresáři tohoto webu.<br><br>
 
 <a href="mit-license.txt" download>Stáhnout soubor mit-license.txt</a><br><br>
 
 A co musí případný uživatel šablony udělat, aby mohl šablonu použít? Zcela postačí, když uživatel v kořenovém adresáři ponechá soubor mit-license.txt.
-<br><br>
-
-V případě jakýchkoli dotazů na licence mě určitě můžete kontaktovat.<br><br>
-
-Dalibor Pavlík<br>
-cz.pandita@gmail.com<br><br>
+<br>
 
 ### Instrukce k užití
 

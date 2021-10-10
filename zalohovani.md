@@ -26,8 +26,7 @@ Na GD Pandita jsou nyní k dispozici:
 <ul>
 <li>nahrávky z meditačního kurzu s Teoh Visu z roku 2021</li>
 <li>titulky k videím Ajahna Brahma</li>
-<li>statické stránky Pandita.cz</li>
-<li>projekty k těmto webům: <a href="">Pandita.cz</a>, <a href="">Jak tvořit Panditu</a> a <a href="">How to create Pandita</a></li>
+<li>projekty k těmto webům: <a href="https://pandita.cz/">Pandita.cz</a>, <a href="https://borek78.github.io/jak-tvorit-panditu/">Jak tvořit Panditu</a> a <a href="https://borek78.github.io/how-to-create-pandita/">How to create Pandita</a></li>
 </ul>
 
 Na GD Pandita jsou zálohovány i knihy a texty z něketerých webů, které jsou věnované jižnímu Buddhismu.
@@ -49,14 +48,14 @@ Ne všechno je potřeba zálohovat. Tyto soubory na google disku nejsou:
 Některé části projektu lze zálohovat i pomocí různých webových služeb. Výhodou tohoto zálohování je, že vytvořená záloha je vždy aktuální, protože na GD Pandita jsou zálohy ukládány vždy až s určitým časovým odstupem.
 
 <ul>
-<li>titulky lze zálohovat i pomocí některé online služby pro stahování titulků z YouTube. Například služby pomocí služby <a href="">Downloadsub.com</a></li>
+<li>titulky lze zálohovat i pomocí některé online služby pro stahování titulků z YouTube. Například služby pomocí služby <a href="https://downsub.com/">https://downsub.com/</a></li>
 
-<li class="li-zvetsit-rozestupy">Hugo projekt Pandita-hugo je možné zálohovat přímo z <a href="">repozitáře pandita-hugo</a> na Githubu</li>
+<li class="li-zvetsit-rozestupy">Hugo projekt Pandita-hugo je možné zálohovat přímo z <a href="https://github.com/Borek78/pandita-hugo">repozitáře pandita-hugo</a> na Githubu</li>
 
-<li class="li-zvetsit-rozestupy">Jekyll projekt Jak tvořit Panditu je možné zálohovat přímo z <a href="">repozitáře jak-tvorit-panditu</a> na Githubu</li>
+<li class="li-zvetsit-rozestupy">Jekyll projekt Jak tvořit Panditu je možné zálohovat přímo z <a href="https://github.com/Borek78/jak-tvorit-panditu">repozitáře jak-tvorit-panditu</a> na Githubu</li>
 
-<li class="li-zvetsit-rozestupy">Jekyll projekt How to create Pandita je možné zálohovat přímo z <a href="">repozitáře how-to-create-pandita</a> na Githubu</li>
+<li class="li-zvetsit-rozestupy">Jekyll projekt How to create Pandita je možné zálohovat přímo z <a href="https://github.com/Borek78/how-to-create-pandita">repozitáře how-to-create-pandita</a> na Githubu</li>
 
-<li class="li-zvetsit-rozestupy">statické stránky lze vždy vygenerovat pomocí projektů: Pandita-hugo projektu nebo obou Jekyll projektů. Je možné si je ale i stáhnout rovnou z internetu pomocí nějakého programu pro stahování webových stránek, například pomocí <a href="">programu Htttrack.</a></li>
+<li class="li-zvetsit-rozestupy">statické stránky lze vždy vygenerovat pomocí projektů: Pandita-hugo projektu nebo obou Jekyll projektů. Je možné si je ale i stáhnout rovnou z internetu pomocí nějakého programu pro stahování webových stránek, například pomocí <a href="https://www.httrack.com/">programu Htttrack.</a></li>
 
 </ul>
