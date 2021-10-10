@@ -5,7 +5,7 @@ Title: Jak pomoci s Panditou
 
 # Jak pomoci s Panditou
 
-Zatím nemám žádnou zkušenost s tvorbou audioknih a českého znění videí Ajahna Brahma. Proto se zatím zmíním jen možnost formátování pdf knih do podoby webových stránek a o tvorbě titulků k videím.
+Zatím nemám žádnou zkušenost s tvorbou audioknih a českého znění videí. Proto zatím zmíním jen možnost formátování pdf knih do podoby webových stránek a tvorbu titulků k videím.
 
 ### Formátování knih
 
@@ -39,13 +39,24 @@ Máme povolení použít jakékoli video z [YouTube kanálu Buddhistické spole�
 
 Z mojí vlastní zkušenosti a ze studia polského kanálu sasana.pl se mi zdá, že dlouhá videa jsou vhodnější pro tvorbu českého znění a že pro tvorbu titulků jsou vhodnějěí kratší videa.<br><br>
 
-Kratší videa, která jsou k dispozici na YouTube kanálu BSZA, najdete na tomto odkazu:<br><br>
+Kratší videa, která jsou k dispozici na YouTube kanálu BSZA, najdete na těchto odkazech:<br><br>
 
+<ul>
+<li>
 <div class="do-not-break-out">
-<a href="https://www.youtube.com/results?search_query=buddhist+society+of+western+australia&sp=EgIYAQ%253D%253D">https://www.youtube.com/results?search_query=buddhist+society+of+western+australia&sp=EgIYAQ%253D%253D</a>
-</div><br>
+<a href="https://www.youtube.com/results?search_query=buddhist+society+of+western+australia&sp=EgIYAQ%253D%253D">videa do čtyř minut</a>
+</div>
+</li>
 
-Některá z těchto videí již přeložil Radan Kuča a jsou k dispozici na YouTube kanálu [Ajahn Brahm Česky.](https://www.youtube.com/channel/UCUr-lRBB59mFLyKFhAAbXbg) K žádnému z následujících videí ale ještě titulky nevznikly. Pokud by někdo chtěl k některému vytvořit titulky, byla by to určitě dobrá věc.
+<li>
+<div class="do-not-break-out">
+<a href="https://www.youtube.com/results?search_query=buddhist+society+of+western+australia&sp=EgIYAw%253D%253D">videa od čtyř až do dvaceti minut</a>
+</div>
+</li>
+
+</ul>
+
+Některá z těchto videí již přeložil Radan Kuča a jsou k dispozici na YouTube kanálu [Ajahn Brahm Česky.](https://www.youtube.com/channel/UCUr-lRBB59mFLyKFhAAbXbg) K žádnému z následujících videí ale ještě titulky nevznikly. Pokud by někdo chtěl k některému z nich vytvořit titulky, byla by to určitě dobrá věc.
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=9XPaWCit4Io">Why bow before a Buddha statue?</a></li>

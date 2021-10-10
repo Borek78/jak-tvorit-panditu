@@ -21,9 +21,9 @@ Aby vše výše uvedené bylo možné, rozhodl jsem se tvořit YouTube kanál PA
 
 Vytvořil jsem titulky ke třem videím Ajahna Brahma. Tato videa jsou ve vlastnictví Buddhistické společnosti Západní Austrálie (BSZA).<br><br>
 
-<a href="">Čtyři způsoby, jak se pustit</a><br>
-<a href="">Učíme se být v klidu sami se sebou</a><br>
-<a href="">Inteligence není moudrost</a><br><br>
+<a href="https://www.youtube.com/watch?v=pkH7Qick84E&t=6s">Čtyři způsoby, jak se pustit</a><br>
+<a href="https://www.youtube.com/watch?v=VCR0GOzAKoE&t=7s">Učíme se být v klidu sami se sebou</a><br>
+<a href="https://www.youtube.com/watch?v=W52r-greBg0">Inteligence není moudrost</a><br><br>
 
 Obsah posledního titulku ke všem třem videím zní takto:
 
@@ -64,7 +64,7 @@ Před tím, než videa nahrajeme na YouTube kanál PANDITA CZ, tak z nich odstra
 
 ### Teoh Visu
 
-Na PANDITA CZ jsou také nahrávky z meditačního kurzu, který v roce 2021 vedl malajský učitel meditace Teoh Visu.
+Na PANDITA CZ jsou také nahrávky z meditačního kurzu, který v roce 2020 vedl malajský učitel meditace Teoh Visu.
 <br><br>
 
 Teoh Visu i oba překladatelé – Jůlie Honyšová a Jirka Pavlík – souhlasili s tím, abychom použili pro tato vida licenci Creative Commons. To znamená, že je dovoleno si tato videa z PANDITA CZ stáhnout a jakkoli je použít či distribuovat. Pouze je nutné uvést autora a původ videa.<br><br>

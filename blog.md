@@ -20,7 +20,7 @@ layout: default
 
 ### [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html) <br>
 
-### [Podmínky užití webu Jak tvořit Panditu](podminky-uziti-webu-jak-tvorit-panditu.html) <br><br>
+### [Podmínky užití blogu Jak tvořit Panditu](podminky-uziti-blogu-jak-tvorit-panditu.html) <br><br>
 
 ## R
 

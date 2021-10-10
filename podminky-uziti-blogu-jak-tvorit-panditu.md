@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-Title: Podmínky užití webu Jak tvořit Panditu
+Title: Podmínky užití blogu Jak tvořit Panditu
 ---
 
-# Podmínky užití webu Jak tvořit Pandiitu
+# Podmínky užití blogu Jak tvořit Pandiitu
 
 Jsem autorem všech textů na tomto webu kromě částí, které cituji z knih nebo z jiných webových stránek. Určitě si přál, aby kdokoli moje texty mohl použít a mohl tak na moji práci navázat. Proto jsou všechny moje texty na tomto webu dostupné za podmínek licence [CC Uveďte původ Mezinárodní 4.0.](https://creativecommons.org/licenses/by/4.0/deed.cs) <br><br>
 
@@ -33,7 +33,7 @@ A co musí případný uživatel šablony udělat, aby mohl šablonu použít? Z
 Za podmínek výše zmíněných licencí může kdokoli používat texty na tomto webu i šablonu. To znamená, že kdokoli může celý tento web umístit i na nějakou vlastní doménu a může si ho upravit podle vlastních potřeb.<br><br>
 
 Odkaz pro stažení webu ve formě statických stránek.<br><br>
-<a href="../assets/jtp-static-pages-23-07-2021.zip" download>../assets/jtp-static-pages-23-07-2021.zip</a><br><br>
+<a href="../assets/jak-tvorit-panditu-10-10-2021.zip" download>../assets/jak-tvorit-panditu-10-10-2021.zip</a><br><br>
 
 Pokud byste si chtěli zkusit šablonu či obsah webu upravit, je lepší použít nějaký program, který je určen pro práci s kódem. Nejpouživanější je asi VS Code.<br><br>
 
@@ -56,10 +56,10 @@ Pokud byste chtěli s webem pracovat více, určitě by bylo jednodušší praco
 [https://github.com/Borek78/jak-tvorit-panditu](https://github.com/Borek78/jak-tvorit-panditu)
 </div><br>
 
-(pro stažení celého projektu kliněte na zelené tlačítko Code a poté na název souboru s příponou .zip.)<br><br>
+(pro stažení celého projektu kliněte na zelené tlačítko <span class="green-button">Code</span> a poté na název souboru s příponou .zip.)<br><br>
 
-Návodů na instalci Jekyll je k dispozci mnoho. Pro Windows 10 jsem používal tento.<br><br>
+K práci s Jekyll jsem používal tento návod.<br><br>
 
 <div class="do-not-break-out" markdown="1">
-[https://www.youtube.com/watch?v=LfP7Y9Ja6Qc](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc)
+[https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 </div>

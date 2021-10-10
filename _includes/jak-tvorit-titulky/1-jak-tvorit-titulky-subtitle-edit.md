@@ -3,7 +3,7 @@
 Pro tvorbu titulků jsou k dispozici dva návody.
 
 <ul>
-<li>prvních z nich je ve formě několika video návodů. Najdete je na YouTube kanálu <a href=""> Návody k tvorbě Pandity</a></li>
+<li>prvních z nich je ve formě několika videí. Najdete je na <a href="https://www.youtube.com/channel/UCU_VZZafIIIMXEBMlteAZvQ">YouTube kanálu Jak tvořit Panditu</a></li>
 <li style="margin-top:8px">druhý je v písemné formě a najdete ho zde na této stránce pod tečkami</li>
 </ul>
 

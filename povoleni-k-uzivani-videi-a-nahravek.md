@@ -10,7 +10,7 @@ title: Povolení k tvorbě YouTUbe kanálu PANDITA CZ - videa, nahrávky a titul
 
 <div style="margin-top:0px"> K tvorbě YouTube kanálu PANDITA CZ mám několik povolení.<br><br> </div>
 
-Od Bhante Sujívy a od italského meditačního centra [Centro Meditazione di Pian Dei Ciliegi](https://www.piandeiciliegi.it/en/) mám povolení používat videa Bhante Sujívy. Součástí tohoto povolení je i používat titulky, které k těmto videím vytváří Hanka Haladová.<br><br>
+Od Bhante Sujívy a od italského meditačního centra [Centro Meditazione di Pian Dei Ciliegi](https://www.piandeiciliegi.it/en/) mám povolení používat videa Bhante Sujívy. Součástí tohoto povolení je používat titulky, které k těmto videím vytváří Hanka Haladová.<br><br>
 
 V srpnu 2020 se konal týdenní meditační kurz meditace mettá a vipassaná s [malajským učitelem meditace Visu Teoh.](https://visuteoh.net/) Organizátoři vše pečlivě zaznamenali a od Visu Teoh mám povolení nahrávky z tohoto kurzu používat.<br><br>
 
@@ -24,7 +24,7 @@ Kromě mě má povolení používat videa Buddhistické společnosti Západní A
 
 ### POVOLENÍ OD BSZA
 
-Toto je zkrácená verze povolení, které mám od [Buddhistické společnosti Západní Austrália.](https://bswa.org/) <br><br>
+Toto je zkrácená verze povolení, které mám od [Buddhistické společnosti Západní Austrálie.](https://bswa.org/) <br><br>
 
 Videa z YouTube kanálu [Buddhistické společnosti Západní Austrálie](https://www.youtube.com/user/BuddhistSocietyWA) smím používat, pokud dodržím následující podmínky.<br><br>
 
@@ -32,9 +32,10 @@ Videa z YouTube kanálu [Buddhistické společnosti Západní Austrálie](https:
 
 <span>2.</span> Videa nebudu užívat komerčně (umísťovat do nich reklamu a podobně) – můžu ale do popisků videí umísťovat odkazy na služby (např. na [https://www.patreon.com](https://www.patreon.com/)), které umožňují získávat od sponzorů finanční prostředky (např. na tvorbu českého znění videí)<br><br>
 
-K 1.6.2021 přidal YouTube do smluvních podmínek právo všechny YouTube kanály monetizovat. To znamená, že YouTube může přidávat reklamu i do těch YouTube kanálů, které nejsou komerčně využívány jejich majitelem. Proto se občas objeví nějaká reklama i ve videích na PANDITA CZ.<br><br>
+K 1.6.2021 přidal YouTube do smluvních podmínek
+Právo YouTube na zpeněžení: YouTube má právo zpeněžit veškerý obsah na platformě a u videí z kanálů, které nejsou členy Partnerského programu YouTube, se mohou zobrazovat reklamy. Proto se občas objeví nějaká reklama i ve videích na PANDITA CZ.<br><br>
 
-<span>3.</span> Budu sdílet české verze videí za stejných podmínek – to znamená, že pokud si nějaká skupina přátel bude chtít videa stáhnout a použít je třeba v nějakém letním kině, tak je to dobrá věc. Pouze bude musete vždy uvést jméno autora a neužívat videa komerčně.
+<span>3.</span> Budu sdílet materiály za stejných podmínek: nebudu bránit ostatním ve sdílení vytvořených materiálů. Takže když si někdo stáhne video nebo audio soubor a bude ho sdílet se svým přítelem, je to dobrá věc.
 <br><br>
 
 <span>4.</span> V popisku každého videa musím uvést tento odkaz.
