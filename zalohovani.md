@@ -27,10 +27,8 @@ Na GD Pandita jsou nyní k dispozici:
 <li>nahrávky z meditačního kurzu s Teoh Visu z roku 2021</li>
 <li>titulky k videím Ajahna Brahma</li>
 <li>statické stránky Pandita.cz</li>
-<li>hugo projekty k těmto webům: <a href="">Pandita.cz</a>, <a href="">Jak tvořit Panditu</a> a <a href="">How to create Pandita</a></li>
+<li>projekty k těmto webům: <a href="">Pandita.cz</a>, <a href="">Jak tvořit Panditu</a> a <a href="">How to create Pandita</a></li>
 </ul>
-
-<a href=""></a>
 
 Na GD Pandita jsou zálohovány i knihy a texty z něketerých webů, které jsou věnované jižnímu Buddhismu.
 

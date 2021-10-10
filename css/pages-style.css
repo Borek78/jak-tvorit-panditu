@@ -1,3 +1,8 @@
+.cc-na-youtube {
+  color: rgba(0, 0, 255, 0.609);
+  font-weight: bold;
+}
+
 .li-zvetsit-rozestupy {
   margin-top: 10px;
 }
@@ -5,7 +10,7 @@
 .pas-na-strance-titulky {
   height: 0px;
   width: 100%;
-  ackground-color: #2c2c2c;
+  ackground-color: #464646;
   border-bottom: 3px dotted #c7c7c7;
 
   margin-top: 40px;

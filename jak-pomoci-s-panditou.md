@@ -45,13 +45,13 @@ Kratší videa, která jsou k dispozici na YouTube kanálu BSZA, najdete na tomt
 <a href="https://www.youtube.com/results?search_query=buddhist+society+of+western+australia&sp=EgIYAQ%253D%253D">https://www.youtube.com/results?search_query=buddhist+society+of+western+australia&sp=EgIYAQ%253D%253D</a>
 </div><br>
 
-Některá z těchto videí již přeložil Radan Kuča a jsou k dispozici na YouTube kanálu [Ajahn Brahm Česky.]() K žádnému z následujících videí ale ještě titulky nevznikly. Pokud by někdo chtěl k některému vytvořit titulky, byla by to určitě dobrá věc.
+Některá z těchto videí již přeložil Radan Kuča a jsou k dispozici na YouTube kanálu [Ajahn Brahm Česky.](https://www.youtube.com/channel/UCUr-lRBB59mFLyKFhAAbXbg) K žádnému z následujících videí ale ještě titulky nevznikly. Pokud by někdo chtěl k některému vytvořit titulky, byla by to určitě dobrá věc.
 
 <ul>
-<li>2</li>
-<li>1</li>
-<li>3</li>
-<li>4</li>
+<li><a href="https://www.youtube.com/watch?v=9XPaWCit4Io">Why bow before a Buddha statue?</a></li>
+<li><a href="https://www.youtube.com/watch?v=O_3n96SmIyI">What is Nibbana?</a></li>
+<li><a href="https://www.youtube.com/watch?v=_4BFX_qhhyk">How To See Past Lives & Why Its Important</a></li>
+<li><a href="https://www.youtube.com/watch?v=HqBbhUEd97c">Story About Monk With Psychic Powers?</a></li>
 </ul>
 
 Návod ke tvorbě titulků je na stránce
@@ -60,4 +60,4 @@ Návod ke tvorbě titulků je na stránce
 <div class="underline">
 CM PDC
 </div>
-Určitě je možné tvořit titulky i k videím na YouTube kanálu, který patří italskému meditačnímu centru [Centro Meditazione Pian Dei Ciliegi (CMPDC.).]() Zatím je domluvena možnost používat videa Bhante Sujívy, ale určitě by bylo možné používat videa i jiných autorů.<br><br>
+Určitě je možné tvořit titulky i k videím na YouTube kanálu, který patří italskému meditačnímu centru [Centro Meditazione Pian Dei Ciliegi (CMPDC.).](https://www.youtube.com/c/CentromeditazionePiandeiCiliegi) Zatím je domluvena možnost používat videa Bhante Sujívy, ale určitě by bylo možné používat i videa jiných autorů.<br><br>

@@ -16,6 +16,12 @@ Pro každé video na YouTube lze použít jednu z těchto licencí.
 
 Přítomnost ST licence ostatní uživatele YouTube informuje o tom, že není dovoleno video stáhnout a použít kdekoli jinde. Naopak CC-A licence informuje o tom, že video je dovoleno stáhnout a použít. Pouze je nutné uvést autora a původ videa. <br><br>
 
-Existuje několik typů CC-A licencí a některé z nich přidávájí další podmínky, za kterých je video možné použít. Pokud ale typ licence není specifikován v popisku videa, je použita [licence CC-BY 3.0.]()<br><br>
+Na webu [support.google.com](https://support.google.com/youtube/answer/2797468?hl=en) Google (YouTube) informuje o tom, že standardně používá licenci [CC BY 3.0.](https://creativecommons.org/licenses/by/3.0/legalcode). Pokud je tedy v popisku videa napsáno<br><br>
 
-CC-A licenci používá pro některá svá videa i anglický klášter Amaravati. Je použita například pro toto video.<br><br>
+<span class="cc-na-youtube">Creative Commons Attribution License (reuse allowed)<span><br><br>
+
+bylo video zveřejněno pod licencí [CC BY 3.0.](https://creativecommons.org/licenses/by/3.0/legalcode)<br><br>
+
+Existují ale i další typy CC licencí. Některé z nich přidávájí další podmínky, za kterých je video možné použít. I tyto licence lze na YouTube použít.<br><br>
+
+Specifikovat CC licenci lez například v popisku videa. Informuje o tom přímo korporace Creative Commons na [stránce FAQ](how-do-i-apply-a-creative-commons-license-to-my-material), a to v otázce How do I apply a creative commons license to my material.

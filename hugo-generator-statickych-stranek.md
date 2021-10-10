@@ -151,3 +151,23 @@ Práce s Hugo
 Každý výše uvedený parametr odkazuje na stránku, která vysvětluje jeho optimální nastavení.<br><br>
 
 Čitelnost také ovlivňují délky odstavců. Ty by pro online/offline čtení měly být kratší než u knih. Odstavce by neměly být delší <a href="https://devrix.com/tutorial/ideal-length-of-your-online-content/">než 150 slov. </a>Já raději dělám odstavce ještě kratší. Pokud to význam textu jenom trochu umožňuje, formátuji texty<a href="https://devrix.com/tutorial/ideal-length-of-your-online-content/"> na méně než 40-55 slov.</a><br>
+
+<div style="display:none">
+### Šablona
+
+Tato část je pro všechny, kteří by web Panidta.cz chtěli někdy v budoucnosti spravovat.<br><br>
+
+Obsah projektu Pandita.cz lze zobrazit pomocí jakékoli šablony, která je vytvořená pro generátory statických stránek Hugo. Pro web Pandita.cz jsem ale vytvořil speciální šablonu. Vytvořil jsem ji pomocí jazyků HTML, CSS, Javascript a několika funkcí jazyka GO.<br><br>
+
+Zdánlivou nevýhodou použití generátorů statických stránek je tedy větší technická náročnost, protože správa webu Pandita.cz vyžaduje znalost z programování.<br><br>
+
+Myslím si ale, že vždy se najde v naší buddhistické komunitě někdo, kdo bude schopný celý projekt spravovat.
+Je pro to několik důvodů:<br><br>
+
+<ul>
+<li>naučit se alespoň základy CSS a HTML je relativně snadné. Uvádí se, že k tomu stačí 14 dní.</li>
+<li>javascript není nutné znát ke správě webu: doplňování obsahu, mazání obsahu, nahrání nové verze webu na server atd.  </li>
+<li>možná</li>
+
+</ul>
+</div>
