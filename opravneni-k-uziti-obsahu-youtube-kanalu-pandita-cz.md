@@ -13,7 +13,7 @@ Určitě bych chtěl takové skupině umožnit, aby si obsah, který je k dispoz
 
 Výhodou toho přístupu je především možnost mezigenerační spolupráce. Na práci současné generace dobrovolníků může navázat v budoucnosti další generace.<br><br>
 
-Obsah YouTube kanálu PANDITA CZ ale nemusí být použit pouze pro mezigenerační spolupráci. Celý obsah může být na YouTube k dispozici v několika verzích. Každou tuto verzi může spravovat jiná skupina dobrovolníků, která ho může ho doplňovat či mazat podle svého uvážení.<br><br>
+Obsah YouTube kanálu PANDITA CZ ale nemusí být použit pouze pro mezigenerační spolupráci. I v současnosti by mohl někdo další obsah YouTube kanálu PANDITA CZ sdílet, a to buď na jiném YouTube kanálu nebo jiných platformách pro sdílení audio a video souborů. <br><br>
 
 Aby vše výše uvedené bylo možné, rozhodl jsem se tvořit YouTube kanál PANDITA CZ následujícím způsobem.
 
@@ -30,9 +30,9 @@ Obsah posledního titulku ke všem třem videím zní takto:
 <div class="citace">
 Tyto titulky jsem vytvořil v roce 2021 a uděluji následující oprávnění všem, kteří by je chtěli použít.<br><br>
 
-Kdokoli smí jakýmkoli způsobem tyto titulky upravit, pozměnit či jinak transformovat: je dovoleno pozměnit překlad, časování, formátování či jakýkoli jiný parametr titulků. Je také dovoleno, aby byly tyto titulky byly použity jako podklad pro české znění tohoto videa.<br><br>
+Kdokoli smí jakýmkoli způsobem tyto titulky upravit, pozměnit či jinak transformovat: je dovoleno pozměnit překlad, časování, formátování či jakýkoli jiný parametr titulků. Je také dovoleno, aby tyto titulky byly použity jako podklad pro české znění tohoto videa.<br><br>
 
-Tyto titulky smí veřejně věřejně použít a distribuovat pouze ten, kdo:
+Tyto titulky smí věřejně použít a distribuovat pouze ten, kdo:
 
 <ul>
 <li>má povolení od Buddhistické společnosti Západní Austrálie používat videa z jejich YouTube kanálu</li>
@@ -44,17 +44,17 @@ Dalibor Pavlík
 
 </div>
 
-Tento poslední titulek nenajdete v té verzi titulků, která je vytištěná (natvrdo) do titulků. Pokud si ale titulky na YouTube zapnete, tento titulek najdete. Stejně tak je tento titulek v souborech, které jsou na google disku Pandita. <br><br>
+Tento poslední titulek nenajdete v té verzi titulků, která je vytištěná (natvrdo) do titulků. Pokud si ale titulky na YouTube zapnete, tento titulek najdete. Stejně tak je tento titulek v souborech s titulky, které jsou na <a href="https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">google disku Pandita.</a> <br><br>
 
 Toto oprávnění budu přidávat ke všem titulkům, které vytvořím. Jeho použití má dvě výhody:
 
 <ul>
 <li> pokud v budoucnosti získá povolení používat videa BSZA někdo další, získá automaticky i povolení použít tyto titulky. Všechna tři videa – i s českými titulky – tak bude moci použít i někdo další, a to na nějakém jiném YouTube kanálu či kdekoli jinde</li>
 
-<li style="margin-top:6px"> přepis některých přednášek je někdy používán pro tvorbu knih. Pokud někdo získá povolení od BSZA tyto titulky použít, může z nich knihu pomocí těchto titulků vytvořit</li>
+<li style="margin-top:6px"> přepis některých přednášek je někdy používán pro tvorbu knih. Pokud někdo získá povolení od BSZA tyto titulky použít, může z nich knihu pomocí těchto titulků vytvořit.</li>
 </ul>
 
-Kromě mě má povolení používat videa BSZA i Radan Kuča. Více o těchto povoleních najdete na stránce [Povolení k užíváni videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html)<br><br>
+Kromě mě má povolení používat videa BSZA i Radan Kuča. Více o těchto povoleních najdete na stránce [Povolení k užíváni videí a nahrávek.](povoleni-k-uzivani-videi-a-nahravek.html)<br>
 
 ### Videa CM PDC
 

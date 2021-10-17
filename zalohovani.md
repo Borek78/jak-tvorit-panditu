@@ -15,7 +15,7 @@ Na tomto odkazu najdete <a href="https://drive.google.com/drive/u/1/folders/11gL
 
 Velmi snadno si z něj kdokoli může všechen obsah projektu Pandita stáhnout a zálohovat na nějakém vlastním počítači nebo na nějakém externím datovém úložišti (USB flash disk nebo Pevný disk).<br><br>
 
-Aby bylo jisté, že je všechen obsah dobře zálohovaný, požádal jsem několi přátel Buddhova učení, aby vždy na konci roku zálohovali obsah, který v průběhu roku budeme na google disk Pandita ukládat. To znamená, že obsah všech google disků v seznamu níže by měl být totožný vždy alespoň na konci každého kalendářního roku.<br><br>
+Aby bylo jisté, že je všechen obsah dobře zálohovaný, požádal jsem několik přátel Buddhova učení, aby vždy na konci roku zálohovali obsah, který v průběhu roku budeme na google disk Pandita ukládat. To znamená, že obsah všech google disků v seznamu níže by měl být totožný vždy alespoň na konci každého kalendářního roku.<br><br>
 
 Seznam všech záložních disků:<br><br>
 
@@ -48,14 +48,14 @@ Ne všechno je potřeba zálohovat. Tyto soubory na google disku nejsou:
 Některé části projektu lze zálohovat i pomocí různých webových služeb. Výhodou tohoto zálohování je, že vytvořená záloha je vždy aktuální, protože na GD Pandita jsou zálohy ukládány vždy až s určitým časovým odstupem.
 
 <ul>
-<li>titulky lze zálohovat i pomocí některé online služby pro stahování titulků z YouTube. Například služby pomocí služby <a href="https://downsub.com/">https://downsub.com/</a></li>
+<li style="text-align:left">titulky lze zálohovat i pomocí některé online služby pro stahování titulků z YouTube. Například pomocí služby <a href="https://downsub.com/">https://downsub.com/</a></li>
 
-<li class="li-zvetsit-rozestupy">Hugo projekt Pandita-hugo je možné zálohovat přímo z <a href="https://github.com/Borek78/pandita-hugo">repozitáře pandita-hugo</a> na Githubu</li>
+<li class="li-zvetsit-rozestupy" style="text-align:left">Hugo projekt <i>Pandita-hugo</i> je možné zálohovat přímo z <a href="https://github.com/Borek78/pandita-hugo">repozitáře pandita-hugo</a> na Githubu</li>
 
-<li class="li-zvetsit-rozestupy">Jekyll projekt Jak tvořit Panditu je možné zálohovat přímo z <a href="https://github.com/Borek78/jak-tvorit-panditu">repozitáře jak-tvorit-panditu</a> na Githubu</li>
+<li class="li-zvetsit-rozestupy" style="text-align:left">Jekyll projekt <i>Jak tvořit Panditu</i> je možné zálohovat přímo z <a href="https://github.com/Borek78/jak-tvorit-panditu">repozitáře jak-tvorit-panditu</a> na Githubu</li>
 
-<li class="li-zvetsit-rozestupy">Jekyll projekt How to create Pandita je možné zálohovat přímo z <a href="https://github.com/Borek78/how-to-create-pandita">repozitáře how-to-create-pandita</a> na Githubu</li>
+<li class="li-zvetsit-rozestupy" style="text-align:left">Jekyll projekt <i>How to create Pandita</i> je možné zálohovat přímo z <a href="https://github.com/Borek78/how-to-create-pandita">repozitáře how-to-create-pandita</a> na Githubu</li>
 
-<li class="li-zvetsit-rozestupy">statické stránky lze vždy vygenerovat pomocí projektů: Pandita-hugo projektu nebo obou Jekyll projektů. Je možné si je ale i stáhnout rovnou z internetu pomocí nějakého programu pro stahování webových stránek, například pomocí <a href="https://www.httrack.com/">programu Htttrack.</a></li>
+<li class="li-zvetsit-rozestupy" style="text-align:left">statické stránky lze vždy vygenerovat pomocí projektů: Pandita-hugo projektu nebo obou Jekyll projektů. Je možné si je ale i stáhnout rovnou z internetu pomocí nějakého programu pro stahování webových stránek, například pomocí <a href="https://www.httrack.com/">programu Htttrack.</a></li>
 
 </ul>

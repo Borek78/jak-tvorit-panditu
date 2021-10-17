@@ -33,7 +33,7 @@ Web Pandita.cz
 
 Web Pandita.cz si může kdokoli stáhnout a může ho jakýmkoli způsobem distribuovat: může ho například umístit na nějakou vlastní doménu. Jedinou podmínkou je, že web nebude používán ke komerčním účelům. <br><br>
 
-Podrobnosti najdete na stránce [Podmínky užití](podminky-uziti.html), která je na webu [Pandita.cz]() <br><br>
+Podrobnosti najdete na stránce [Podmínky užití](), která je na webu [Pandita.cz](https://pandita.cz/) <br><br>
 
 <span class="underline-uvod"  >
 Obsah YouTube kanálu PANDITA CZ
@@ -55,16 +55,18 @@ Více informací o zálohování projektu Pandita najdete na [stránce Zálohov�
 <span class="underline-uvod"  >
 Blogy
 </span><br>
-Současně s projektem Pandita vytvářím i blogy [Jak tvořit Panditu](index.html) a [How to create Pandita.](https://borek78.github.io/how-to-create-pandita/index.html) Texty obou těchto webů jsou zveřejněny za podmínek licence [CC-BY 4.0 Mezinárodní.](https://creativecommons.org/licenses/by/4.0/deed.cs) K volnému užití je i šablona obou těchto webů. Kdokoli teď může oba weby nahrát na nějakou vlastní doménu a jejich texty upravovat, transformovat atd. <br><br>
+Současně s projektem Pandita vytvářím i blogy [Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu/) a [How to create Pandita.](https://borek78.github.io/how-to-create-pandita/index.html) Texty obou těchto webů jsou zveřejněny za podmínek licence [CC-BY 4.0 Mezinárodní.](https://creativecommons.org/licenses/by/4.0/deed.cs) K volnému užití je i šablona obou těchto webů. Kdokoli teď může oba weby nahrát na nějakou vlastní doménu a jejich texty upravovat, transformovat atd. <br><br>
 
-Podrobnosti o možnosti použít blog Jak tvořit Panditu najdete na stránce [Podmínky užití](podminky-uziti.html). Podrobnosti o možnosti použít blog How to create Pandita jsou na stránce [Terms of Use](https://borek78.github.io/how-to-create-pandita/terms-of-use.html)
+Podrobnosti o možnosti použít blog <i>Jak tvořit Panditu</i> najdete na stránce [Podmínky užití blogu Jak tvořit Panditu](podminky-uziti-blogu-jak-tvorit-panditu.html). Podrobnosti o možnosti použít blog <i>How to create Pandita</i> jsou na stránce [Terms of Use](https://borek78.github.io/how-to-create-pandita/terms-of-use.html)
 
 ### TVORBA & ZÁVĚR
 
-Pokud byste chtěli podílet na tvorbě projektu Pandita, navštivte stránku [Jak pomoci s Panditou](jak-pomoci-s-panditou.html). Také ná stránce [BLOG](blog.html) najdete další články o tom, jakým způsobem je možné celý projekt spoluvytvářet.
+Pokud byste se chtěli podílet na tvorbě projektu Pandita, navštivte stránku [Jak pomoci s Panditou](jak-pomoci-s-panditou.html). Také ná stránce [BLOG](blog.html) najdete další články o tom, jakým způsobem je možné celý projekt spoluvytvářet.
 <br><br>
 
 Napodobit úsilí přátel Dhammy za naší severní hranicí je zatím jenom sen. Věřím ale, že alespoň jeho část se může splnit. A co se nepodaří současné generaci studentů Buddhova učení, může dokončit ta další.<br><br>
+
+Určitě uvítám připomínky, tipy a dobré rady.<br><br>
 
 S pozdravem,<br><br>
 
