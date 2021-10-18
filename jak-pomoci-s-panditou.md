@@ -9,7 +9,9 @@ Zatím nemám žádnou zkušenost s tvorbou audioknih a českého znění videí
 
 ### Formátování knih
 
-Do podoby webové stránky je určitě možné zformátovat všechny knihy a texty, které dříve vyšli v rámci projektu Dharma zdarma. Všechny tyto knihy jsou k dispozici na [google disku Pandita.](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj)<br><br>
+Pomocí VS CODE a generátoru statických stránek HUGO lze snadno zformátovat jakýkoli text do podoby webové stránky. Více informací najdete na stránce <a href="hugo-generator-statickych-stranek">Hugo - generátor statických stránek.</a><br><br>
+
+Určitě je možné do podoby webové stránky zpracovat všechny knihy a texty, které dříve vyšly v rámci projektu Dharma zdarma. Všechny tyto knihy jsou k dispozici na [google disku Pandita.](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj)<br><br>
 
 Následující dvě knihy ale patřily k nejoblíbenějším. Pokud nevíte, kterou byste si pro svoji práci vybrali, určitě je vhodné začít s nimi:
 
@@ -17,8 +19,6 @@ Následující dvě knihy ale patřily k nejoblíbenějším. Pokud nevíte, kte
 <li>Meditace mettá, Teoh Visu</li>
 <li>O příčinnách štěstí, T.Y. Lee</li>
 </ul>
-
-Návod na formátování knih, neboli přeměnu pdf knih do podoby webové stránky, najdete na stránce <a href="hugo-generator-statickych-stranek">Hugo - generátor statických stránek.</a><br>
 
 ### Tvorba titulků
 
@@ -35,11 +35,11 @@ Zatím mám zkušenost pouze s tvorbou titulků pro čtení. Návod k jejich tvo
 <div class="underline">
 BSZA
 </div>
-Máme povolení použít jakékoli video z [YouTube kanálu Buddhistické společnosti Západní Austrálie (BSZA)](https://www.youtube.com/user/BuddhistSocietyWA) a vytvořit k němu titulky. Více o tomto povolení najdete na stránce [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html)<br><br>
+Máme povolení použít jakékoli video z [YouTube kanálu Buddhistické společnosti Západní Austrálie (BSZA)](https://www.youtube.com/user/BuddhistSocietyWA) a vytvořit k němu titulky. Více o tomto povolení najdete na stránce [Povolení k užívání videí a nahrávek.](povoleni-k-uzivani-videi-a-nahravek.html)<br><br>
 
 Z mojí vlastní zkušenosti a ze studia polského kanálu sasana.pl se mi zdá, že dlouhá videa jsou vhodnější pro tvorbu českého znění a že pro tvorbu titulků jsou vhodnějěí kratší videa.<br><br>
 
-Kratší videa, která jsou k dispozici na YouTube kanálu BSZA, najdete na těchto odkazech:<br><br>
+Kratší videa, která jsou k dispozici na YouTube kanálu BSZA, najdete na těchto odkazech:<br>
 
 <ul>
 <li>
@@ -56,7 +56,7 @@ Kratší videa, která jsou k dispozici na YouTube kanálu BSZA, najdete na těc
 
 </ul>
 
-Některá z těchto videí již přeložil Radan Kuča a jsou k dispozici na YouTube kanálu [Ajahn Brahm Česky.](https://www.youtube.com/channel/UCUr-lRBB59mFLyKFhAAbXbg) K žádnému z následujících videí ale ještě titulky nevznikly. Pokud by někdo chtěl k některému z nich vytvořit titulky, byla by to určitě dobrá věc.
+Některá z těchto videí již přeložil Radan Kuča a jsou k dispozici na YouTube kanálu [Ajahn Brahm česky.](https://www.youtube.com/channel/UCUr-lRBB59mFLyKFhAAbXbg) K žádnému z následujících videí ale ještě titulky nevznikly. Pokud by někdo chtěl k některému z nich titulky vytvořit, byla by to určitě dobrá věc.
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=9XPaWCit4Io">Why bow before a Buddha statue?</a></li>
@@ -65,10 +65,9 @@ Některá z těchto videí již přeložil Radan Kuča a jsou k dispozici na You
 <li><a href="https://www.youtube.com/watch?v=HqBbhUEd97c">Story About Monk With Psychic Powers?</a></li>
 </ul>
 
-Návod ke tvorbě titulků je na stránce
-<a href="jak-tvorit-titulky.html">Jak tvořit titulky.</a><br><br>
+Určitě je ale možné si pro svoji práci vybrat i jiná videa.<br><br>
 
 <div class="underline">
 CM PDC
 </div>
-Určitě je možné tvořit titulky i k videím na YouTube kanálu, který patří italskému meditačnímu centru [Centro Meditazione Pian Dei Ciliegi (CMPDC.).](https://www.youtube.com/c/CentromeditazionePiandeiCiliegi) Zatím je domluvena možnost používat videa Bhante Sujívy, ale určitě by bylo možné používat i videa jiných autorů.<br><br>
+Určitě je možné tvořit titulky i k videím, která jsou na YouTube kanálu italského meditačního centra [Centro Meditazione Pian Dei Ciliegi (CMPDC.).](https://www.youtube.com/c/CentromeditazionePiandeiCiliegi) Zatím je domluvena možnost používat videa Bhante Sujívy, ale určitě by bylo možné používat i videa jiných autorů.<br><br>

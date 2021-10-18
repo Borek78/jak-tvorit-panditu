@@ -6,12 +6,11 @@ title: Hugo - generátor statických stránek
 # Hugo - generátor statických stránek
 
 Když v prohlížeči, třeba na této stránce,
-kliknete myší pravým tlačítkem, uvidíte obrázek,
-který bude vypadat asi takto: <br><br>
+kliknete myší pravým tlačítkem, pravděpodobně uvidíte tento obrázek: <br><br>
 
 <img src="/assets/zobrazit-zdrojovy-kod-stranky.png" class="zobrazit-zdrojovy-kod"><br><br>
 
-Klikněte na "Zobrazit zdrojový kód" a uvidíte zdrojový kód stránky, kterou si prohlížíte. Bude začínat asi takto.
+Klikněte na "Zobrazit zdrojový kód" a uvidíte zdrojový kód stránky, kterou si prohlížíte. Bude začínat asi tímto způsobem:
 
 ```
 
@@ -78,7 +77,7 @@ K práci s textem budete potřebovat:
 
 VSC je k dispozici zdarma a je možné si ho stáhout <a href="https://code.visualstudio.com/">na jeho domovské stránce.</a></li><br>
 
-<li> <span class="dotted">Projekt Hugo-pandita</span> je jedna velká složka, ve které jsou umístěny jednotlivé kousky webu Pandita.cz: hlavička, patička, soubory s obsahem jednotlivých stránek, obrázky a soubory určující vzhled celého webu (CSS soubory).<br><br>
+<li> <span class="dotted">Projekt Pandita-hugo</span> je jedna velká složka, ve které jsou umístěny jednotlivé kousky webu Pandita.cz: hlavička, patička, soubory s obsahem jednotlivých stránek, obrázky a soubory určující vzhled celého webu (CSS soubory).<br><br>
 
 Celý projekt je ke stažení <a href="https://github.com/Borek78/pandita-hugo">na mém Githubu.</a> Pro stažení projektu klikněte na zelené tlačítko <span class="green-button">Code</span> a pak na položku "Download ZIP".<br><br></li>
 
