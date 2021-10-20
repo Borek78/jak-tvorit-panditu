@@ -24,4 +24,4 @@ bylo video zveřejněno pod licencí [CC BY 3.0.](https://creativecommons.org/li
 
 Existují ale i další typy CC licencí. Některé z nich přidávájí další podmínky, za kterých je video možné použít. I tyto licence lze na YouTube použít.<br><br>
 
-Specifikovat CC licenci lez například v popisku videa. Informuje o tom přímo korporace Creative Commons na [stránce FAQ](how-do-i-apply-a-creative-commons-license-to-my-material), a to v otázce How do I apply a creative commons license to my material.
+Specifikovat CC licenci lze například v popisku videa. Informuje o tom přímo korporace Creative Commons na [stránce FAQ](how-do-i-apply-a-creative-commons-license-to-my-material), a to v otázce How do I apply a creative commons license to my material.
