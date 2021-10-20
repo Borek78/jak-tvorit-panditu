@@ -13,7 +13,7 @@ Proto jsem pro účely zálohování vytvořil google disk (GD), který jsem poj
 
 Na tomto odkazu najdete <a href="https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">google disk Pandita (GD Pandita).</a><br><br>
 
-Velmi snadno si z něj kdokoli může všechen obsah projektu Pandita stáhnout a zálohovat na nějakém vlastním počítači nebo na nějakém externím datovém úložišti (USB flash disk nebo Pevný disk).<br><br>
+Velmi snadno si z něj kdokoli může všechen obsah projektu Pandita stáhnout a zálohovat na nějakém vlastním počítači nebo na nějakém externím datovém úložišti (USB flash disk nebo pevný disk).<br><br>
 
 Aby bylo jisté, že je všechen obsah dobře zálohovaný, požádal jsem několik přátel Buddhova učení, aby vždy na konci roku zálohovali obsah, který v průběhu roku budeme na google disk Pandita ukládat. To znamená, že obsah všech google disků v seznamu níže by měl být totožný vždy alespoň na konci každého kalendářního roku.<br><br>
 

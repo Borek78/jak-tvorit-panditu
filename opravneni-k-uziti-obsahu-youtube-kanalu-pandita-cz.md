@@ -5,13 +5,13 @@ title: Využití obsahu YouTube kanálu Pandita CZ
 
 # Oprávnění k užití obsahu YouTube kanálu PANDITA CZ
 
-YouTube kanál PANDITA CZ se snažím tvořit tak, aby byl jeho obsah české veřejnosti co nejdostupnější. Zároveň bych si přál, aby na práci jeho tvůrců mohl kdokoli navázat.<br><br>
+YouTube kanál PANDITA CZ se snažím tvořit tak, aby byl jeho obsah české a slovenské veřejnosti co nejdostupnější. Zároveň bych si přál, aby na práci jeho tvůrců mohl kdokoli navázat.<br><br>
 
-Je možné, že se v budoucnosti – blízké či vzdálené – objeví nějaký další dobrovolník nebo skupina dobrovolníků, která by chtěla tvořit obsah o Buddhově učení v českém nebo slovenském jazyce.<br><br>
+Je možné, že se v budoucnosti – blízké či vzdálené – objeví nějaký další dobrovolník nebo skupina dobrovolníků, která by také chtěla tvořit obsah o Buddhově učení v českém a slovenském jazyce.<br><br>
 
 Určitě bych chtěl takové skupině umožnit, aby si obsah, který je k dispozici na YouTube kanálu PANDITA CZ, mohla stáhnout a umístit ho na svůj YouTube kanál.<br><br>
 
-Výhodou toho přístupu je především možnost mezigenerační spolupráce. Na práci současné generace dobrovolníků může navázat v budoucnosti další generace.<br><br>
+Výhodou tohoto přístupu je především možnost mezigenerační spolupráce. Na práci současné generace dobrovolníků může navázat v budoucnosti další generace.<br><br>
 
 Obsah YouTube kanálu PANDITA CZ ale nemusí být použit pouze pro mezigenerační spolupráci. I v současnosti by mohl někdo další obsah YouTube kanálu PANDITA CZ sdílet, a to buď na jiném YouTube kanálu nebo jiných platformách pro sdílení audio a video souborů. <br><br>
 
@@ -44,7 +44,7 @@ Dalibor Pavlík
 
 </div>
 
-Tento poslední titulek nenajdete v té verzi titulků, která je vytištěná (natvrdo) do titulků. Pokud si ale titulky na YouTube zapnete, tento titulek najdete. Stejně tak je tento titulek v souborech s titulky, které jsou na <a href="https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">google disku Pandita.</a> <br><br>
+Tento poslední titulek nenajdete na YouTube v té verzi titulků, která je vytištěná (natvrdo) do titulků. Pokud si ale titulky na YouTube zapnete, tento titulek najdete. Stejně tak je tento titulek v souborech s titulky, které jsou na <a href="https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj">google disku Pandita.</a> <br><br>
 
 Toto oprávnění budu přidávat ke všem titulkům, které vytvořím. Jeho použití má dvě výhody:
 
