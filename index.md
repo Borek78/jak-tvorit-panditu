@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Jak tvořit Panditu - web věnovaný tvorbě youtube kanálu PANDITA CZ
 ---
@@ -19,7 +16,7 @@ tento blog jsem začal tvořit pro všechny, kteří se společně se mnou podí
 
 Projekt Pandita je věnovaný théravádovému buddhismu, který čerpá své duchovní kořeny v Tipitace, neboli Pálijském kánonu. Tento typ buddhismu je dominantní v zemích jižní a jihovýchodní Asie (Thajsko, Barma, Kambodža, Laos a Srí Lanka), a proto je také někdy nazýván jako „jižní buddhismus“.<br><br>
 
-Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube kanál [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew). Inspirací pro jeho založení je polský portál [Sasana.pl](http://sasana.pl/) a [YouTube kanál Sasana.pl](https://www.youtube.com/user/sasanaPL), který má více než 100 000 odběratelů a některá videa na tomto YouTube kanálu mají více než jeden milion zobrazení.
+Součástí projektu Pandita je web [Pandita.cz](https://www.pandita.cz/) a YouTube kanál [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew). Inspirací pro jeho založení je polský portál [Sasana.pl](http://sasana.pl/) a [YouTube kanál Sasana.pl](https://www.youtube.com/user/sasanaPL), který má více než 100 000 odběratelů a některá videa na tomto YouTube kanálu mají více než jeden milion zobrazení.
 
 ### DOSTUPNOST
 
@@ -33,7 +30,7 @@ Web Pandita.cz
 
 Web Pandita.cz si může kdokoli stáhnout a může ho jakýmkoli způsobem distribuovat: může ho například umístit na nějakou vlastní doménu. Jedinou podmínkou je, že web nebude používán ke komerčním účelům. <br><br>
 
-Podrobnosti najdete na stránce [Podmínky užití](), která je na webu [Pandita.cz](https://pandita.cz/) <br><br>
+Podrobnosti najdete na stránce [Podmínky užití](https://www.pandita.cz/podminky-uziti.html), která je na webu [Pandita.cz](https://www.pandita.cz/) <br><br>
 
 <span class="underline-uvod"  >
 Obsah YouTube kanálu PANDITA CZ
