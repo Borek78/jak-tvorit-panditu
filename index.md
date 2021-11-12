@@ -22,7 +22,7 @@ Součástí projektu Pandita je web [Pandita.cz](https://www.pandita.cz/) a YouT
 
 Celý projekt se budu snažit tvořit tak, aby byl jeho obsah dostupný české věřejnosti co možná nejvíce. Zároveň bych si přál, aby na práci všech dobrovolníků, kteří se budou na tvorbě projektu podílet, mohl navázat někdo další.<br><br>
 
-Proto jsem se rozhodl, že celý projekt budu tvořit následujím způsobem.<br><br>
+Proto jsem se rozhodl, že celý projekt budu tvořit následujícím způsobem.<br><br>
 
 <span class="underline-uvod" style="margin-top:10px"  >
 Web Pandita.cz

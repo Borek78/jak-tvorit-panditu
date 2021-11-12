@@ -1,0 +1,1 @@
+Buddhovo učení má na Západě velmi dobré jméno. Překvapivě ale stálo málo česká i slovenská veřejnost ví o tom, co Buddha učil a říkal. Z velké části je to proto, že jeho slova jsou stále přístupná pouze těm, kteří mluví anglicky.<br><br>

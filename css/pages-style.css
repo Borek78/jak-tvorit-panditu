@@ -1,3 +1,23 @@
+.citace-2 {
+  border-top: 1px dotted black;
+  border-bottom: 1px dotted black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+h6 {
+  border-bottom: 1px solid black !important;
+  padding-bottom: 2px;
+  font-size: 16px !important;
+  text-align: left !important;
+  color: black !important;
+  display: inline-block;
+  font-weight: normal;
+  margin-bottom: 7px !important;
+}
+
 .cc-na-youtube {
   color: rgba(0, 0, 255, 0.609);
   font-weight: bold;

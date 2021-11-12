@@ -20,10 +20,9 @@ Aby bylo jisté, že je všechen obsah dobře zálohovaný, požádal jsem něko
 Seznam všech záložních disků:
 
 <ul style="margin-top:10px">
-<li>první tvůrce zálohy, email</li>
-<li>druhý tvůrce zálohy, email</li>
-<li>třetí tvůrce zálohy, email</li>
-<li>čtvrtý tvůrce zálohy, email</li>
+<li>Veronika Nevolová, verne@volny.cz</li>
+<li>František Lomský, mindfulcoaching.cz@gmail.com</li>
+<li>Michal Kellner, michalkellner@email.cz</li>
 </ul>
 
 ### Obsah GD Pandita

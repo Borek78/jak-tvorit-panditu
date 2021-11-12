@@ -5,7 +5,31 @@ Title: Jak pomoci s Panditou
 
 # Jak pomoci s Panditou
 
-Zatím nemám žádnou zkušenost s tvorbou audioknih a českého znění videí. Proto zatím zmíním jen možnost formátování pdf knih do podoby webových stránek a tvorbu titulků k videím.
+Na této stránce určitě není kompletní seznam toho, co se dá dělat pro sdílení Buddhovy Dhammy s českou veřejností. Je zde pouze několik mých nápadů a myšlenek, určitě se neosvědčí všechny. <br> <br>
+
+Nejlepší je, když každý dělá to, co ho baví a co si sám vybere. Určitě můžete přispět k tvorbě projektu Pandita některým z níže uvedených způsobů.
+
+### Překlady Buddhových rozprav
+
+Australský mnich [Ajahn Sujato](https://www.pandita.cz/autori/ajahn-sujato.html) přeložil z páli do anglického jazyka většinu Buddhových rozprav a zároveň se vzdal všech svých autorských práv tak, že svoje překlady publikoval za podmínek licence
+[CC 1.0 Univerzální.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs). Informace o licenci k překladům Ajahna Sujata jsou k dispozici na stránkách australského projektu [Suttacentral.net.](https://suttacentral.net) <br><br>
+
+Překlady Ajahna Sujata jsou volným dílem. To mimo jiné znamená, že kdokoli nyní může:
+
+<ul style="margin-top:5px">
+<li>vytvořit český překlad a tento svůj překlad může umístit na svoje stránky nebo ho jinak veřejně sdílet </li>
+<li>vytvořit český překlad a tento překlad může šířit komečním způsobem: je dovoleno tento překlad vytisknout a vytištěné knihy je doveleno prodávat</li>
+<li>vytvořit český překlad a z tohoto překladu může vytvořit audioknihu, kterou může dál šířit, například skrze YouTube</li>
+</ul>
+
+Překlady Ajahna Sujata jsou k dispozici na [google disku Pandita](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) ve složce SUTTACENTRAL.NET. Pokud by někdo měl zájem Buddhovy rozpravy z anlického jazyka překládat, můžu vám na na google disku Pandita vytvořit složku, do které budete moci svoje překlady ukládat.<br><br>
+
+Pokud byste chtěli, aby kdokoli další mohl vaše překlady používat, je důležité k překladu připojit nějakou licenční poznámku. Více informací o licenčních poznámkách najdete v těchto dvou článcích:
+
+<ul>
+<li>Jak používám CC licence</li>
+<li>buddhismus a autorská práva</li>
+</ul>
 
 ### Formátování knih
 

@@ -12,7 +12,11 @@ layout: default
 
 ### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>
 
-### [Jak pomoci s Panditou](jak-pomoci-s-panditou.html)<br><br>
+### [Jak pomoci s Panditou](jak-pomoci-s-panditou.html)<br>
+
+### [Licenční poznámky](licencni-poznamky.html) <br>
+
+### [Jak používám CC licence](jak-pouzivam-cc-licence.html) <br><br>
 
 ## O
 
@@ -25,6 +29,8 @@ layout: default
 ## R
 
 ### [Redukce audio šumu u některých videí](redukce-sumu.html)<br>
+
+### [Výhody licence CC-BY 4.0](vyhody-licence-cc-by.html)<br>
 
 ### [Typy licencí na YouTube](typy-licenci-na-youtube.html)<br>
 
