@@ -3,9 +3,9 @@ title: Jak používat cc licence
 layout: default
 ---
 
-# Jak používám CC licence
+# Jak používám licenci CC BY 4.0
 
-Do českého jazyka jsem přeložil z anglického jazyka několik Buddhových rozprav. Všechny jsou uloženy na [google disku Pandita]() ve složce DALIBOR PAVLÍK. <br>
+Z anglického jazyka jsem přeložil několik Buddhových rozprav. Všechny jsou uloženy na google disku Pandita ve složce DALIBOR PAVLÍK. <br>
 <br>
 
 [Autorský zákon (zákon č. 121/2000 Sb.)](https://www.zakonyprolidi.cz/cs/2000-121) chrání práci, kterou jsem odvedl na překladu těchto Buddhových rozprav. To ale není přesně to, co bych chtěl. České buddhistické komunitě – té současné i té v budoucnosti – bych chtěl
@@ -48,7 +48,7 @@ str.55<br>
 
 </div>
 
-Proto budu pro moji činnost, pokud to jen bude možné, používat licenci CC „Uveďte autora“ 4.0. Název této licence je překládán i jako [CC „Uveďtě původ“ 4.0.](https://creativecommons.org/licenses/by/4.0/deed.cs)
+Proto budu pro moji činnost, pokud to jen bude možné, používat licenci CC „Uveďte autora“ 4.0. Název této licence je překládán i jako [CC „Uveďte původ“ 4.0.](https://creativecommons.org/licenses/by/4.0/deed.cs)
 
 ### Licenční poznámka
 
@@ -65,7 +65,7 @@ licence k pálijskému originálu: volné dílo<br>
 Anglický překlad: Ajahn Sujato, Suttacentral.net<br>
 Licence k anglickému překladu: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.cs">CC 1.0 Univezální</a><br>
 
-Český překlad: Dalibor Pavlík, Pandita.cz<br>
+Český překlad: <dbo>Dalibor Pavlík</dbo>, Pandita.cz<br>
 Licence k českému překladu: <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC „Uveďte původ" (CC BY 4.0 Mezinárodní)</a><br><br>
 
 Buddhovy rozpravy přeložil z páli do anglického jazyka Ajahn Sujato. Pálijský originál je volné dílo a anglický překlad je licencován za podmínek licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.cs">CC 1.0 Univezální</a> a je tedy také volným dílem. Z anglického překladu vytvořil český překlad Dalibor Pavlík a jeho český překlad je licencován za podmínek licence <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC „Uveďte původ“ (CC BY 4.0 Mezinárodní).</a> <br><br><br>
@@ -121,34 +121,42 @@ Pro označení úprav a změn původního textu neexistují žádná striktní p
 <div class="citace">
 Tento text vytvořil Jiří Novák tak, že z Pandita.cz převzal český překlad Buddhovy rozpravy 4.73 z Anguttara nikáji, a tento původní text pozměnil tak, že výraz „A navíc“ nahradil výrazem „A dále“.<br><br>
 
-Původní text byl převzat z Pandita.cz. Toto je licenční poznámka k původnímu textu.<br><br>
+Toto je licenční poznámka k původnímu textu.
 
+<div class="citace-2" style="margin-top:">
 Překlad do anličtiny: Ajahn Sujato, Suttacentral.net<br>
 Licence k anglickému překladu: CC 1.0 Univerzální<br>
 https://creativecommons.org/publicdomain/zero/1.0/deed.cs<br><br>
 Český překlad: Dalibor Pavlík, Pandita.cz
 Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)
 https://creativecommons.org/licenses/by/4.0/deed.cs<br>
+</div>
+
+Změny, které provedl Jiří Novák, jsou zveřejněný pod licení <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>. To znamená, že celý text této nové verze Buddhových rozprav je zveřejněn pod licencí <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>.
 
 </div>
 
-Pokud by Jiří Novák změnil třeba až 10% procent původního textu, bylo by jistě velmi pracné popsat výše uvedeným způsobem všechny změny. V takovém případě je možné použít tuto poznámku.
+Pokud by Jiří Novák změnil třeba až 20% procent původního textu, bylo by jistě velmi pracné popsat výše uvedeným způsobem všechny změny. V takovém případě je možné použít tuto poznámku.
 
 <div class="citace">
-Tento text vytvořil Jiří Novák tak, že převzal z Pandita.cz český překlad Buddhovy rozpravy 4.73 z Anguttara nikáji, a tento překlad asi z 10% pozměnil a upravil.<br><br>
+Tento text vytvořil Jiří Novák tak, že převzal z Pandita.cz český překlad Buddhovy rozpravy 4.73 z Anguttara nikáji, a tento překlad asi z 20% pozměnil a upravil.<br><br>
 
 Toto je licenční poznámka k původnímu textu.<br>
 
+<div class="citace-2" style="margin-top:">
 Překlad do anličtiny: Ajahn Sujato, Suttacentral.net<br>
 Licence k anglickému překladu: CC 1.0 Univerzální<br>
-https://creativecommons.org/publicdomain/zero/1.0/deed.cs<br>
-Český překlad: Dalibor Pavlík, Pandita.cz<br>
-Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)<br>
-https://creativecommons.org/licenses/by/4.0/deed.cs<br>.
+https://creativecommons.org/publicdomain/zero/1.0/deed.cs<br><br>
+Český překlad: Dalibor Pavlík, Pandita.cz
+Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)
+https://creativecommons.org/licenses/by/4.0/deed.cs<br>
+</div>
+
+Změny, které provedl Jiří Novák jsou zveřejněny pod licencí <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>. To znamená, že celý text této nové verze Buddhových rozprav je zveřejněn pod licencí <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>.
 
 </div>
 
-Pokud si nejste zcela jistí, jak CC licence používat, určitě nás můžete kontaktovat a při jejich užití vám můžeme asistovat.<br><br>
+Pokud si nejste zcela jistí, jak CC licence používat, určitě nás můžete kontaktovat. Při jejich užití vám můžeme asistovat.<br><br>
 
 KONEC CITOVANÉHO TEXTU
 

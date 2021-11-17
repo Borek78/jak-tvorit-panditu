@@ -28,7 +28,7 @@ Pokud byste chtěli, aby kdokoli další mohl vaše překlady používat, je dů
 
 <ul>
 <li>Jak používám CC licence</li>
-<li>buddhismus a autorská práva</li>
+<li>Buddhismus a autorská práva</li>
 </ul>
 
 ### Formátování knih

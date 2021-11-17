@@ -8,29 +8,29 @@ layout: default
 <div id="blog" markdown="1" >
 <div class="no-link-underline" markdown="1" >
 
-### [Hugo - generátor statických stránek](hugo-generator-statickych-stranek.html) <br>
+### [Autorská práva a licenční poznámky](autorska-prava-a-licencni-poznamky.html) <br>
 
-### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>
+### [Hugo - generátor statických stránek](hugo-generator-statickych-stranek.html) <br>
 
 ### [Jak pomoci s Panditou](jak-pomoci-s-panditou.html)<br>
 
-### [Licenční poznámky](licencni-poznamky.html) <br>
+### [Jak používám licenci CC BY 4.0](jak-pouzivam-licenci-cc-by-4-0.html) <br>
 
-### [Jak používám CC licence](jak-pouzivam-cc-licence.html) <br><br>
+### [Jak tvořit titulky](jak-tvorit-titulky.html) <br>
+
+<br>
 
 ## O
 
 ### [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ](opravneni-k-uziti-obsahu-youtube-kanalu-pandita-cz.html)<br>
 
-### [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html) <br>
+### [Podmínky užití blogu Jak tvořit Panditu](podminky-uziti-blogu-jak-tvorit-panditu.html) <br>
 
-### [Podmínky užití blogu Jak tvořit Panditu](podminky-uziti-blogu-jak-tvorit-panditu.html) <br><br>
+### [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html) <br><br>
 
 ## R
 
 ### [Redukce audio šumu u některých videí](redukce-sumu.html)<br>
-
-### [Výhody licence CC-BY 4.0](vyhody-licence-cc-by.html)<br>
 
 ### [Typy licencí na YouTube](typy-licenci-na-youtube.html)<br>
 
