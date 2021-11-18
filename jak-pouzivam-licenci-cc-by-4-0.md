@@ -165,10 +165,16 @@ KONEC CITOVANÉHO TEXTU
 ###### Užitečné odkazy k CC licencím:
 
 <div class="do-not-break-out">
-<a href="https://wiki.creativecommons.org/wiki/best_practices_for_attribution">https://wiki.creativecommons.org/wiki/best_practices_for_attribution</a>
-<a href="https://creativecommons.org/use-remix/attribution/">https://creativecommons.org/use-remix/attribution/</a>
-<a href="https://en.wikipedia.org/wiki/Creative_Commons_license">https://en.wikipedia.org/wiki/Creative_Commons_license</a>
+<a href="https://wiki.creativecommons.org/wiki/best_practices_for_attribution">https://wiki.creativecommons.org/wiki/best_practices_for_attribution</a> <br><br>
 
-<a href="https://wiki.creativecommons.org/wiki/License_Versions">https://wiki.creativecommons.org/wiki/License_Versions</a>
+<a href="https://creativecommons.org/use-remix/attribution/">https://creativecommons.org/use-remix/attribution/</a><br><br>
+
+<a href="https://en.wikipedia.org/wiki/Creative_Commons_license">https://en.wikipedia.org/wiki/Creative_Commons_license</a><br><br>
+
+<a href="https://wiki.creativecommons.org/wiki/License_Versions">https://wiki.creativecommons.org/wiki/License_Versions</a><br><br>
+
+<a href="https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license">https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license</a><br><br>
+
+<a href="https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license">https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license</a><br><br>
 
 </div>
