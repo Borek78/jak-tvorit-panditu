@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Licenční poznámky
+title: Autorská práva a licenční poznámky - Pandita.cz
 ---
 
 # Autorská práva a licenční poznámky
 
-Toto je asi nejdůležitější článek na celém blogu.<br><br>
+Tento článek je na celém blogu asi nejdůležitější. <br><br>
 
 Každé autorské dílo (kniha, překlad, malba, píseň atd.) je v České republice chráněno [Autorským zákonem (zákon č. 121/2000 Sb.)](https://www.zakonyprolidi.cz/cs/2000-121). Jakmile dílo vznikne, je automaticky chráněno autorským zákonem.<br><br>
 

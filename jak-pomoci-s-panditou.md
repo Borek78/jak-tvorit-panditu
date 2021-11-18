@@ -5,20 +5,18 @@ Title: Jak pomoci s Panditou
 
 # Jak pomoci s Panditou
 
-Na této stránce určitě není kompletní seznam toho, co se dá dělat pro sdílení Buddhovy Dhammy s českou veřejností. Je zde pouze několik mých nápadů a myšlenek, určitě se neosvědčí všechny. <br> <br>
-
-Nejlepší je, když každý dělá to, co ho baví a co si sám vybere. Určitě můžete přispět k tvorbě projektu Pandita některým z níže uvedených způsobů.
+Na této stránce určitě není kompletní seznam toho, co se dá dělat pro sdílení Buddhovy Dhammy s českou veřejností. Je zde pouze několik mých nápadů a myšlenek, určitě se neosvědčí všechny.
 
 ### Překlady Buddhových rozprav
 
-Australský mnich [Ajahn Sujato](https://www.pandita.cz/autori/ajahn-sujato.html) přeložil z páli do anglického jazyka většinu Buddhových rozprav a zároveň se vzdal všech svých autorských práv tak, že svoje překlady publikoval za podmínek licence
-[CC 1.0 Univerzální.](https://creativecommons.org/publicdomain/zero/1.0/deed.cs). Informace o licenci k překladům Ajahna Sujata jsou k dispozici na stránkách australského projektu [Suttacentral.net.](https://suttacentral.net) <br><br>
+Australský mnich [Ajahn Sujato](https://www.pandita.cz/autori/ajahn-sujato.html) přeložil z páli do anglického jazyka většinu Buddhových rozprav. Zároveň se vzdal všech svých autorských práv tak, že svoje překlady publikoval za podmínek licence
+[CC 1.0 Univerzální](https://creativecommons.org/publicdomain/zero/1.0/deed.cs). Informace o licenci k překladům Ajahna Sujata jsou k dispozici na stránkách australského projektu [Suttacentral.net.](https://suttacentral.net) <br><br>
 
 Překlady Ajahna Sujata jsou volným dílem. To mimo jiné znamená, že kdokoli nyní může:
 
 <ul style="margin-top:5px">
 <li>vytvořit český překlad a tento svůj překlad může umístit na svoje stránky nebo ho jinak veřejně sdílet </li>
-<li>vytvořit český překlad a tento překlad může šířit komečním způsobem: je dovoleno tento překlad vytisknout a vytištěné knihy je doveleno prodávat</li>
+<li>vytvořit český překlad a tento překlad může šířit komerčním způsobem: je dovoleno tento překlad vytisknout a vytištěné knihy je doveleno prodávat</li>
 <li>vytvořit český překlad a z tohoto překladu může vytvořit audioknihu, kterou může dál šířit, například skrze YouTube</li>
 </ul>
 
@@ -38,13 +36,21 @@ Pokud byste chtěli, aby kdokoli další mohl vaše překlady používat, je dů
 
 Pomocí VS CODE a generátoru statických stránek HUGO lze snadno zformátovat jakýkoli text do podoby webové stránky. Více informací najdete na stránce <a href="hugo-generator-statickych-stranek">Hugo - generátor statických stránek.</a><br><br>
 
-Určitě je možné do podoby webové stránky zpracovat všechny knihy a texty, které dříve vyšly v rámci projektu Dharma zdarma. Všechny tyto knihy jsou k dispozici na [google disku Pandita.](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj)<br><br>
+Určitě je možné do podoby webové stránky zpracovat všechny knihy a texty, které jsou k dispozici na [google disku Pandita.](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) v těchto složkách:
 
-Následující dvě knihy ale patřily k nejoblíbenějším. Pokud nevíte, kterou knihu byste si pro svoji práci vybrali, určitě je vhodné začít s nimi:
+<ul>
+<li><a href="">dharmazdarma.cz</a></li>
+<li><a href="">dhammadesana.wz.cz</a></li>
+<li><a href="">dhamma.wz.cz</a></li>
+<li><a href="">Tipitaka - česky</a></li>
+</ul>
+
+Následující knihy patří ale k nejoblíbenějším. Pokud nevíte, který text byste si pro svoji práci vybrali, určitě je vhodné začít s nimi:
 
 <ul>
 <li>Meditace mettá, Teoh Visu</li>
 <li>O příčinnách štěstí, T.Y. Lee</li>
+<li>Dhammapada</li>
 </ul>
 
 ### Tvorba titulků

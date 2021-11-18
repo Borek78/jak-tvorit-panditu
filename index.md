@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jak tvořit Panditu - web věnovaný tvorbě youtube kanálu PANDITA CZ
+title: Úvod - web věnovaný tvorbě projektu Pandita
 ---
 
 <br>

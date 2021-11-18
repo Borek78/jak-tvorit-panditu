@@ -25,7 +25,7 @@ Význam slova licence je „oprávnění“. Licenční poznámka je text, ve kt
 
 ### CC licence
 
-Určitě nejznámějším typem standardizovaných licencí jsou CC licence. Existuje několik typů CC licencí.<br><br>
+Určitě nejznámějším typem standardizovaných licencí jsouje CC licence. Existuje několik typů CC licencí.<br><br>
 
 [CC 1.0 ](https://creativecommons.org/publicdomain/zero/1.0/)<br>
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)<br>
