@@ -72,7 +72,7 @@ S pozdravem,<br><br>
 <span class="underline-uvod" style="margin-top:10px"  >
 Kontakt
 </span><br>
-Dalibor Pavlík - Borek<br>
+<bdo dir="rtl">keroB - kílvaP robilaD</bdo><br>
 email: cz.pandita@gmail.com<br>
 <a href="https://www.facebook.com/robilad.kilvap">https://www.facebook.com/robilad.kilvap</a>
 <br>

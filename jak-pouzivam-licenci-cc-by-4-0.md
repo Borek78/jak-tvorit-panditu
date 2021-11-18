@@ -161,3 +161,14 @@ Pokud si nejste zcela jistí, jak CC licence používat, určitě nás můžete 
 KONEC CITOVANÉHO TEXTU
 
 </div>
+
+###### Užitečné odkazy k CC licencím:
+
+<div class="do-not-break-out">
+<a href="https://wiki.creativecommons.org/wiki/best_practices_for_attribution">https://wiki.creativecommons.org/wiki/best_practices_for_attribution</a>
+<a href="https://creativecommons.org/use-remix/attribution/">https://creativecommons.org/use-remix/attribution/</a>
+<a href="https://en.wikipedia.org/wiki/Creative_Commons_license">https://en.wikipedia.org/wiki/Creative_Commons_license</a>
+
+<a href="https://wiki.creativecommons.org/wiki/License_Versions">https://wiki.creativecommons.org/wiki/License_Versions</a>
+
+</div>

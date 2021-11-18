@@ -15,17 +15,17 @@ Od roku 1990 bylo do Českého jazyka přeloženo mnoho knih a textů. Jsou ulo�
 
 Uvedu jeden příklad za všechny.<br><br>
 
-Nedávno jsem objevil online pdf soubor s českým překladem eseje <i><b>Síla bdělé pozornosti</b></i>, který napsal Nyanaponika Théra. Přeložila ho Radka Kadeřábková. Její překlad je jeden z nejhezčích, který jsem v poslední době měl tu možnost číst. Možná bych z něj mohl někdy v budoucnu vytvořit audioknihu. Můžu to ale udělat?<br><br>
+Český indolog, profesor Karel Werner, přeložil z pálijštiny do češtiny Dhammapadu. Svůj překlad tvořil s důrazem na plynulost a čtivost text. Určitě bych ho rád nějakým způosbem použil pro projekt Pandita, třeba bych z něj mohl vytvořit audioknihu. Můžu to ale udělat?<br><br>
 
-Poznámku k autorským právů k anglicky psanému originálu bych asi dokázal najít na stránkách Buddhist Publication Society. Ale nevím, jestli se mi podaří kontaktovat překladatelku. V souboru s jejím překladem sice není poznámka „Všechna práva vyhrazena“ ani poznámka „© Radka Kadeřábková“ a mohl bych tedy předpokládat, že její práci můžu použít. Jistý si tím ale být nemůžu.<br><br>
+Profesor Werner je již smrti, a tak se ho nemůžu zeptat, jestli bych jeho překlad mohl použít. Možná by byl rád, aby kdokoli další mohl jeho práci použít.<br><br>
 
 Jak podobné situace řešit?<br><br>
 
-Ke každému dílu lze připojit licenční poznámku, ve které bude infomace o tom, za jakých podmínek může kdokoli další dílo použít.<br><br>
+Ke každému dílu lze připojit licenční poznámku, ve které bude infomace o tom, za jakých podmínek může kdokoli dílo použít.<br><br>
 
 Licenční poznámku si může každý autor vytvořit sám. Takové licenční poznámky lze nazvat neformálními licenčními poznámkami, protože nemají žádnou standardizovanou formu: je zcela na autorovi, jako poznámku si napíše. <br><br>
 
-Druhým typem lienčních poznámek jsou formální licenční poznámky, které mají nějakou osvědčenou, všeobecně známou formu. K nejznámějším formálním licenčním poznámkám patří tak zvané [Creative Commons licence.](https://cs.wikipedia.org/wiki/Creative_Commons) Za podmínek jedné z těchto Creative Commons licencí je publikována i celá Wikipedie. <br><br>
+Druhým typem licenčních poznámek jsou formální licenční poznámky, které mají nějakou osvědčenou, všeobecně známou formu. K nejznámějším formálním licenčním poznámkám patří tak zvané [Creative Commons licence.](https://cs.wikipedia.org/wiki/Creative_Commons) Za podmínek jedné z těchto Creative Commons licencí je publikována i celá Wikipedie. <br><br>
 
 V patičce Wikipedie je tato poznámka:
 
@@ -66,6 +66,6 @@ Existuje sedum typů CC licencí.<br><br>
 
 Pro projekt Pandita zatím používám CC licence těmito dvěma způsoby.<br><br>
 
-Ajahn Gavesako a Štěpán Chromovský používají pro svoje překlady Buddhových rozprav licenci [CC Uveďte původ - Neužívejte komerčně - Nezpracovávejte 4.0 Mezinárodní (CC-BY NC ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs). Tato licence je velmi restriktivní, oba ale můžou udělit dodatečná povolení. Jejich překlady i licenční poznámka k jejich překladům je na google disku Pandita ve složce DHAMMADESANA.WZ.CZ.<br><br>
+Ajahn Gavesako a Štěpán Chromovský používají pro svoje překlady Buddhových rozprav licenci [CC „Uveďte původ - Neužívejte komerčně - Nezpracovávejte“ 4.0 Mezinárodní (CC-BY NC ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs). Jejich překlady i celá licenční poznámka k jejich překladům je na google disku Pandita ve složce DHAMMADESANA.WZ.CZ.<br><br>
 
-Pro překlady Buddhových rozprav, které jsem přeložil z angličtiny, jsem použil licenci [CC Uveďte původ 4.0 Mezinárodní (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.cs). Více o mých překladech a licenci, kterou používám, najdete v článku [Jak používám licenci CC BY 4.0](jak-pouzivam-licenci-cc-by-4-0).<br><br>
+Pro překlady Buddhových rozprav, které jsem přeložil z angličtiny, jsem použil licenci [CC „Uveďte původ“ 4.0 Mezinárodní (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.cs). Více o mých překladech a licenci, kterou používám, najdete v článku [Jak používám licenci CC BY 4.0](jak-pouzivam-licenci-cc-by-4-0).<br><br>

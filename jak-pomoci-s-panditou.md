@@ -27,8 +27,11 @@ Překlady Ajahna Sujata jsou k dispozici na [google disku Pandita](https://drive
 Pokud byste chtěli, aby kdokoli další mohl vaše překlady používat, je důležité k překladu připojit nějakou licenční poznámku. Více informací o licenčních poznámkách najdete v těchto dvou článcích:
 
 <ul>
-<li>Jak používám CC licence</li>
-<li>Buddhismus a autorská práva</li>
+
+<li><a href="autorska-prava-a-licencni-poznamky">Autorská práva a licenční poznámky</a></li>
+
+<li><a href="jak-pouzivam-licenci-cc-by-4-0">Jak používám licenci CC BY 4.0 </a></li>
+
 </ul>
 
 ### Formátování knih
