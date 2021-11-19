@@ -15,7 +15,7 @@ Od roku 1990 bylo do Českého jazyka přeloženo mnoho knih a textů. Jsou ulo�
 
 Uvedu jeden příklad za všechny.<br><br>
 
-Český indolog, profesor Karel Werner, přeložil z pálijštiny do češtiny Dhammapadu. Svůj překlad tvořil s důrazem na plynulost a čtivost text. Určitě bych ho rád nějakým způosbem použil pro projekt Pandita, třeba bych z něj mohl vytvořit audioknihu. Můžu to ale udělat?<br><br>
+Český indolog, profesor Karel Werner, přeložil z pálijštiny do češtiny Dhammapadu. Svůj překlad tvořil s důrazem na plynulost a čtivost textu. Určitě bych ho rád nějakým způosbem použil pro projekt Pandita, třeba bych z něj mohl vytvořit audioknihu. Můžu to ale udělat?<br><br>
 
 Profesor Werner je již smrti, a tak se ho nemůžu zeptat, jestli bych jeho překlad mohl použít. Možná by byl rád, aby kdokoli další mohl jeho práci použít.<br><br>
 
@@ -23,7 +23,7 @@ Jak podobné situace řešit?<br><br>
 
 Ke každému dílu lze připojit licenční poznámku, ve které bude infomace o tom, za jakých podmínek může kdokoli dílo použít.<br><br>
 
-Licenční poznámku si může každý autor vytvořit sám. Takové licenční poznámky lze nazvat neformálními licenčními poznámkami, protože nemají žádnou standardizovanou formu: je zcela na autorovi, jako poznámku si napíše. <br><br>
+Licenční poznámku si může každý autor vytvořit sám. Takové licenční poznámky lze nazvat neformálními licenčními poznámkami, protože nemají žádnou standardizovanou formu: je zcela na autorovi, jakou poznámku si napíše. <br><br>
 
 Druhým typem licenčních poznámek jsou formální licenční poznámky, které mají nějakou osvědčenou, všeobecně známou formu. K nejznámějším formálním licenčním poznámkám patří tak zvané [Creative Commons licence.](https://cs.wikipedia.org/wiki/Creative_Commons) Za podmínek jedné z těchto Creative Commons licencí je publikována i celá Wikipedie. <br><br>
 
@@ -37,9 +37,9 @@ Text je dostupný pod licencí <a href="https://creativecommons.org/licenses/by-
 
 Pro projekt Pandita používáme dvě neformální licenční poznámky.<br><br>
 
-První z nich používám pro titulky, kterém jsem vytvořil k videím Ajahna Brahma. Najdete ji na stránce [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ](opravneni-k-uziti-obsahu-youtube-kanalu-pandita-cz.html).<br><br>
+První z nich používám pro titulky, které jsem vytvořil k videím Ajahna Brahma. Najdete ji na stránce [Oprávnění k užití obsahu YouTube kanálu PANDITA CZ](opravneni-k-uziti-obsahu-youtube-kanalu-pandita-cz.html).<br><br>
 
-Druhá z nich je na google disku Pandita ve složce DHAMMADESANA.WZ.CZ a je použita pro překlady esejí o velkých Buddhových žácích.
+Druhá z nich je na google disku Pandita ve složce DHAMMADESANA.WZ.CZ. Je použita pro překlady esejí o velkých Buddhových žácích, které vytvořil Štěpán Chromovský.
 
 <div class="citace" >
 
@@ -64,7 +64,7 @@ Existuje sedum typů CC licencí.<br><br>
 [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
 [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)<br><br>
 
-Pro projekt Pandita zatím používám CC licence těmito dvěma způsoby.<br><br>
+Pro projekt Pandita zatím používáme CC licence těmito dvěma způsoby.<br><br>
 
 Ajahn Gavesako a Štěpán Chromovský používají pro svoje překlady Buddhových rozprav licenci [CC „Uveďte původ - Neužívejte komerčně - Nezpracovávejte“ 4.0 Mezinárodní (CC-BY NC ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs). Jejich překlady i celá licenční poznámka k jejich překladům je na google disku Pandita ve složce DHAMMADESANA.WZ.CZ.<br><br>
 
