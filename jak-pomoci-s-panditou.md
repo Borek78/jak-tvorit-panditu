@@ -36,13 +36,18 @@ Pokud byste chtěli, aby kdokoli další mohl vaše překlady používat, je dů
 
 Pomocí VS CODE a generátoru statických stránek HUGO lze snadno zformátovat jakýkoli text do podoby webové stránky. Více informací najdete na stránce <a href="hugo-generator-statickych-stranek">Hugo - generátor statických stránek.</a><br><br>
 
-Určitě je možné do podoby webové stránky zpracovat všechny knihy a texty, které jsou k dispozici na [google disku Pandita.](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) v těchto složkách:
+Máme dovoleno zpracovat do podoby webové stránky všechny knihy a texty, které jsou na těchto webových adresách:
 
 <ul>
-<li><a href="">dharmazdarma.cz</a></li>
-<li><a href="">dhammadesana.wz.cz</a></li>
-<li><a href="">dhamma.wz.cz</a></li>
-<li><a href="">Tipitaka - česky</a></li>
+<li><a href="http://www.dhammadesana.wz.cz/">dhammadesana.wz.cz</a></li>
+<li><a href="http://dhamma.wz.cz/">dhamma.wz.cz</a> (až na výjimky)</li>
+</ul>
+
+Určitě je také možné zpracovat do podoby webové stránky texty a knihy, které jsou na [google disku Pandita](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) v těchto dvou složkách:
+
+<ul> 
+<li>dharmazdarma.cz</li>
+<li>Buddhovy rozpravy</li>
 </ul>
 
 Následující knihy patří ale k nejoblíbenějším. Pokud nevíte, který text byste si pro svoji práci vybrali, určitě je vhodné začít s nimi:

@@ -13,8 +13,7 @@ nechat tento vzkaz:
 
 <div class="citace">
 „Ahoj. Určitě neváhejte. Všechno, co jsem vytvořil, můžete použít, jak
-jen budete chtít. Nemusíte ani nikde uvádět moje jméno. Máte
-povolení moji práci použít.“
+jen budete chtít. Moje překlady můžete šířit a distribuovat jakýmkoli způsobem, a to komerčním.“
 </div>
 
 Jak to ale můžu udělat? <br><br>
@@ -61,12 +60,21 @@ LICENČNÍ POZNÁMKA K SOUBORŮM V TÉTO SLOŽCE</b>
 </div><br>
 
 pálijský originál: Buddhova rozprava <br>
-licence k pálijskému originálu: volné dílo<br>
-Anglický překlad: Ajahn Sujato, Suttacentral.net<br>
-Licence k anglickému překladu: <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.cs">CC 1.0 Univezální</a><br>
+licence k pálijskému originálu: volné dílo<br><br>
 
-Český překlad: <dbo>Dalibor Pavlík</dbo>, Pandita.cz<br>
-Licence k českému překladu: <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC „Uveďte původ" (CC BY 4.0 Mezinárodní)</a><br><br>
+Anglický překlad: Ajahn Sujato, Suttacentral.net<br>
+Licence k anglickému překladu: CC 1.0 Univezální<br>
+
+<div class="do-not-break-out">
+https://creativecommons.org/publicdomain/zero/1.0/deed.cs<br><br>
+</div>
+
+Český překlad: <dbo dir="rtl">Dalibor Pavlík</dbo>, Pandita.cz<br>
+Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)<br>
+
+<div class="do-not-break-out">
+https://creativecommons.org/licenses/by/4.0/deed.cs
+</div><br>
 
 Buddhovy rozpravy přeložil z páli do anglického jazyka Ajahn Sujato. Pálijský originál je volné dílo a anglický překlad je licencován za podmínek licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.cs">CC 1.0 Univezální</a> a je tedy také volným dílem. Z anglického překladu vytvořil český překlad Dalibor Pavlík a jeho český překlad je licencován za podmínek licence <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC „Uveďte původ“ (CC BY 4.0 Mezinárodní).</a> <br><br><br>
 
@@ -77,13 +85,14 @@ Chtěli bychom vás povzbudit, abyste překlady Buddhových rozprav, které najd
 
 Můžete si je umístit na svou webovou stránku, sdílet je na svém facebooku, vytvořit z nich audioknihu a vytvořenou audioknihu můžete umístit na váš YouTube. Můžete je jakkoli šířit, a to i komerčním způsobem: z těchto překladů můžete vytvořit knihu a tuto knihu můžete i prodávat.<br><br>
 
-Pouze byste měli uvést původ těchto překladů (viz. níže). Pokud to ale neuděláte, je velmi nepravděpodobné, že vám napíšeme email a poprosíme vás o nápravu.<br><br>
+Pouze byste měli uvést původ těchto překladů a licenci nim (viz. níže). Pokud to ale neuděláte, je velmi nepravděpodobné, že vám napíšeme email a poprosíme vás o nápravu.<br><br>
 
-Pokud ale původ překladů uvedete, bude to mít alespoň tyto dva blahodárné důsledky:
+Pokud ale původ překladů a licenci uvedete, bude to mít tyto tři blahodárné důsledky:
 
 <ul>
 <li>vaši čtenáři a vaše publikum se budou moci seznámit s projektem Pandita a dozvědět se o Buddhově učení více</li>
 <li>tvůrci projektu Pandita se možná seznámí s dalšími dobrovlníky, kteří s nimi budou projekt Pandita tvořit</li>
+<li>někdo další dostane informaci, že překlad může převzít a může ho dál distribuovat</li>
 </ul><br>
 
 <div style="text-align: left; color: #b7542d; ">
@@ -92,15 +101,19 @@ Pokud ale původ překladů uvedete, bude to mít alespoň tyto dva blahodárné
 
 Podmínka „Uveďte původ (BY)“ klade na všechny, kteří by chtěli překlady v této složce nějakým způsobem použít, minimální nároky: společně s dílem by měli uvést jméno autora, licenci, odkaz na licenci a původ díla.<br><br>
 
-Je pro nás daleko důležitější, abyste naši práci používali než abyste uváděli původ naší práce. Pokud se ale rozhodnete, že úvod překladů uvedete, použijete prosím následující poznámku.
+Je pro nás daleko důležitější, abyste naši práci používali, než abyste uváděli původ naší práce. Pokud se ale rozhodnete, že úvod překladů uvedete, použijete prosím následující poznámku.
 
 <div class="citace">
 Překlad do anličtiny: Ajahn Sujato, Suttacentral.net<br>
 Licence k anglickému překladu: CC 1.0 Univerzální<br>
+<div class="do-not-break-out">
 https://creativecommons.org/publicdomain/zero/1.0/deed.cs<br><br>
+</div>
 Český překlad: Dalibor Pavlík, Pandita.cz<br>
 Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)<br>
-https://creativecommons.org/licenses/by/4.0/deed.cs<br>
+<div class="do-not-break-out">
+https://creativecommons.org/licenses/by/4.0/deed.cs
+</div>
 </div>
 
 Pokud budete tyto překlady sdílet například někde na facebooku a výše uvedená licenční poznámka by se vám za daných okolností zdále příliš dlouhá (například v případě, kdy by byla delší než citovaný text), můžete použít tuto poznámku.
@@ -123,16 +136,25 @@ Tento text vytvořil Jiří Novák tak, že z Pandita.cz převzal český překl
 
 Toto je licenční poznámka k původnímu textu.
 
-<div class="citace-2" style="margin-top:">
+<div class="citace-2" style="padding-bottom:0px">
 Překlad do anličtiny: Ajahn Sujato, Suttacentral.net<br>
 Licence k anglickému překladu: CC 1.0 Univerzální<br>
+
+<div class="do-not-break-out">
 https://creativecommons.org/publicdomain/zero/1.0/deed.cs<br><br>
-Český překlad: Dalibor Pavlík, Pandita.cz
-Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)
-https://creativecommons.org/licenses/by/4.0/deed.cs<br>
 </div>
 
-Změny, které provedl Jiří Novák, jsou zveřejněný pod licení <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>. To znamená, že celý text této nové verze Buddhových rozprav je zveřejněn pod licencí <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>.
+Český překlad: Dalibor Pavlík, Pandita.cz
+Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)
+
+<div class="do-not-break-out">
+https://creativecommons.org/licenses/by/4.0/deed.cs
+</div>
+<br>
+
+</div>
+
+Změny, které provedl Jiří Novák, jsou zveřejněny pod licení <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>. To znamená, že celý text této nové verze Buddhových rozprav je zveřejněn pod licencí <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>.
 
 </div>
 
@@ -143,13 +165,21 @@ Tento text vytvořil Jiří Novák tak, že převzal z Pandita.cz český překl
 
 Toto je licenční poznámka k původnímu textu.<br>
 
-<div class="citace-2" style="margin-top:">
+<div class="citace-2" style="padding-bottom:0px">
 Překlad do anličtiny: Ajahn Sujato, Suttacentral.net<br>
 Licence k anglickému překladu: CC 1.0 Univerzální<br>
-https://creativecommons.org/publicdomain/zero/1.0/deed.cs<br><br>
+<div class="do-not-break-out">
+https://creativecommons.org/publicdomain/zero/1.0/deed.cs
+</div >
+
+<br><br>
 Český překlad: Dalibor Pavlík, Pandita.cz
 Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)
-https://creativecommons.org/licenses/by/4.0/deed.cs<br>
+
+<div class="do-not-break-out">
+https://creativecommons.org/licenses/by/4.0/deed.cs
+</div><br>
+
 </div>
 
 Změny, které provedl Jiří Novák jsou zveřejněny pod licencí <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>. To znamená, že celý text této nové verze Buddhových rozprav je zveřejněn pod licencí <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC BY 4.0 Mezinárodní</a>.
@@ -162,7 +192,7 @@ KONEC CITOVANÉHO TEXTU
 
 </div>
 
-###### Užitečné odkazy k CC licencím:
+### Užitečné odkazy k CC licencím
 
 <div class="do-not-break-out">
 <a href="https://wiki.creativecommons.org/wiki/best_practices_for_attribution">https://wiki.creativecommons.org/wiki/best_practices_for_attribution</a> <br><br>
@@ -172,8 +202,6 @@ KONEC CITOVANÉHO TEXTU
 <a href="https://en.wikipedia.org/wiki/Creative_Commons_license">https://en.wikipedia.org/wiki/Creative_Commons_license</a><br><br>
 
 <a href="https://wiki.creativecommons.org/wiki/License_Versions">https://wiki.creativecommons.org/wiki/License_Versions</a><br><br>
-
-<a href="https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license">https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license</a><br><br>
 
 <a href="https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license">https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license</a><br><br>
 
