@@ -17,7 +17,7 @@ Uvedu jeden příklad za všechny.<br><br>
 
 Český indolog, profesor Karel Werner, přeložil z pálijštiny do češtiny Dhammapadu. Svůj překlad tvořil s důrazem na plynulost a čtivost textu. Určitě bych ho rád nějakým způosbem použil pro projekt Pandita, třeba bych z něj mohl vytvořit audioknihu. Můžu to ale udělat?<br><br>
 
-Profesor Werner je již po smrti, a tak se ho nemůžu zeptat, jestli bych jeho překlad mohl použít. Možná by byl rád, kdyby na jeho práci navázal někdo další.<br><br>
+Profesor Werner je již po smrti, a tak se ho nemůžu zeptat, jestli bych jeho překlad mohl použít. Možná by byl rád, kdyby na jeho práci navázal někdo další. Jistý si tím ale být nemůžu.<br><br>
 
 Jak podobné situace řešit?<br><br>
 

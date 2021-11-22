@@ -9,7 +9,7 @@ Na této stránce určitě není kompletní seznam toho, co se dá dělat pro sd
 
 ### Překlady Buddhových rozprav
 
-Australský mnich [Ajahn Sujato](https://www.pandita.cz/autori/ajahn-sujato.html) přeložil z páli do anglického jazyka většinu Buddhových rozprav. Zároveň se vzdal všech svých autorských práv tak, že svoje překlady publikoval za podmínek licence
+Australský mnich [Ajahn Sujato](https://www.pandita.cz/autori/ajahn-sujato.html) přeložil z pálijštiny do anglického jazyka většinu Buddhových rozprav. Zároveň se vzdal všech svých autorských práv tak, že svoje překlady publikoval za podmínek licence
 [CC 1.0 Univerzální](https://creativecommons.org/publicdomain/zero/1.0/deed.cs). Informace o licenci k překladům Ajahna Sujata jsou k dispozici na stránkách australského projektu [Suttacentral.net.](https://suttacentral.net) <br><br>
 
 Překlady Ajahna Sujata jsou volným dílem. To mimo jiné znamená, že kdokoli nyní může:

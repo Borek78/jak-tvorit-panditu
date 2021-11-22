@@ -13,7 +13,7 @@ nechat tento vzkaz:
 
 <div class="citace">
 „Ahoj. Určitě neváhejte. Všechno, co jsem vytvořil, můžete použít, jak
-jen budete chtít. Moje překlady můžete šířit a distribuovat jakýmkoli způsobem, a to komerčním.“
+jen budete chtít. Moje překlady můžete šířit a distribuovat jakýmkoli způsobem.“
 </div>
 
 Jak to ale můžu udělat? <br><br>
@@ -76,7 +76,7 @@ Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)
 https://creativecommons.org/licenses/by/4.0/deed.cs
 </div><br>
 
-Buddhovy rozpravy přeložil z páli do anglického jazyka Ajahn Sujato. Pálijský originál je volné dílo a anglický překlad je licencován za podmínek licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.cs">CC 1.0 Univezální</a> a je tedy také volným dílem. Z anglického překladu vytvořil český překlad Dalibor Pavlík a jeho český překlad je licencován za podmínek licence <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC „Uveďte původ“ (CC BY 4.0 Mezinárodní).</a> <br><br><br>
+Buddhovy rozpravy přeložil z pálijštiny do anglického jazyka Ajahn Sujato. Pálijský originál je volné dílo a anglický překlad je licencován za podmínek licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.cs">CC 1.0 Univezální</a> a je tedy také volným dílem. Z anglického překladu vytvořil český překlad Dalibor Pavlík a jeho český překlad je licencován za podmínek licence <a href="https://creativecommons.org/licenses/by/4.0/deed.cs">CC „Uveďte původ“ (CC BY 4.0 Mezinárodní).</a> <br><br><br>
 
 <div style="text-align: left; color: #b7542d; ">
 <b>POVZBUZENÍ</b>
@@ -101,7 +101,7 @@ Pokud ale původ překladů a licenci uvedete, bude to mít tyto tři blahodárn
 
 Podmínka „Uveďte původ (BY)“ klade na všechny, kteří by chtěli překlady v této složce nějakým způsobem použít, minimální nároky: společně s dílem by měli uvést jméno autora, licenci, odkaz na licenci a původ díla.<br><br>
 
-Je pro nás daleko důležitější, abyste naši práci používali, než abyste uváděli původ naší práce. Pokud se ale rozhodnete, že úvod překladů uvedete, použijete prosím následující poznámku.
+Je pro nás daleko důležitější, abyste naši práci používali, než abyste uváděli původ naší práce. Pokud se ale rozhodnete, že původ překladů uvedete, použijete prosím následující poznámku.
 
 <div class="citace">
 Překlad do anličtiny: Ajahn Sujato, Suttacentral.net<br>
@@ -116,7 +116,7 @@ https://creativecommons.org/licenses/by/4.0/deed.cs
 </div>
 </div>
 
-Pokud budete tyto překlady sdílet například někde na facebooku a výše uvedená licenční poznámka by se vám za daných okolností zdále příliš dlouhá (například v případě, kdy by byla delší než citovaný text), můžete použít tuto poznámku.
+Pokud budete tyto překlady sdílet například někde na facebooku a výše uvedená licenční poznámka by se vám za daných okolností zdála příliš dlouhá (například v případě, kdy by byla delší než citovaný text), můžete použít tuto poznámku.
 
 <div class="citace">
 Zdroj: Pandita.cz<br>
@@ -173,8 +173,8 @@ https://creativecommons.org/publicdomain/zero/1.0/deed.cs
 </div >
 
 <br><br>
-Český překlad: Dalibor Pavlík, Pandita.cz
-Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)
+Český překlad: Dalibor Pavlík, Pandita.cz <br>
+Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)<br>
 
 <div class="do-not-break-out">
 https://creativecommons.org/licenses/by/4.0/deed.cs
