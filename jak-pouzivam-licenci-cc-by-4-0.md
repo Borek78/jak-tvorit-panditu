@@ -170,9 +170,8 @@ Překlad do anličtiny: Ajahn Sujato, Suttacentral.net<br>
 Licence k anglickému překladu: CC 1.0 Univerzální<br>
 <div class="do-not-break-out">
 https://creativecommons.org/publicdomain/zero/1.0/deed.cs
-</div >
+</div > <br>
 
-<br><br>
 Český překlad: Dalibor Pavlík, Pandita.cz <br>
 Licence k českému překladu: CC „Uveďte původ“ (CC BY 4.0 Mezinárodní)<br>
 
