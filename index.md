@@ -33,7 +33,7 @@ Web Pandita.cz si může kdokoli stáhnout a může ho jakýmkoli způsobem dist
 Podrobnosti najdete na stránce [Podmínky užití](https://www.pandita.cz/podminky-uziti.html), která je na webu [Pandita.cz](https://www.pandita.cz/) <br><br>
 
 <span class="underline-uvod"  >
-Obsah YouTube kanálu PANDITA CZ
+YouTube
 </span><br>
 Za určitých podmínek (viz. níže), smí kdokoli obsah YouTube kanálu PANDITA CZ šířit a distribuovat. Jinými slovy, pokud se někdo rozhodne zkopírovat veškerý obsah YouTube kanálu PANDITA CZ a díky tomu vytvoří identický nebo podobný YouTube kanál, je to dobrá věc.<br><br>
 
