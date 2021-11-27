@@ -55,7 +55,7 @@ h4 {
 #page a {
   color: black;
   text-decoration: none;
-  border-bottom: 2px dotted #499b00;
+  border-bottom: 2px dashed #499b00;
   border-radius: 2px;
   text-align: left;
   isplay: flex;
@@ -75,7 +75,7 @@ h4 {
   ox-shadow: 0px 0px 5px 0px #ccc;
   text-align: justify;
   font-family: arial;
-  line-height: 1.6;
+  line-height: 1.6em;
   font-weight: 400;
   background-color: white;
 }
@@ -84,4 +84,5 @@ h4 {
   padding-top: 40px;
   padding-bottom: 40px;
   background-color: #efefef;
+  padding-top: 40px;
 }

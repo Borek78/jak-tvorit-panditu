@@ -13,7 +13,7 @@ a.blue:hover {
 }
 
 .show-mobile-menu {
-  height: 110px;
+  height: 150px;
 }
 
 .hide-mobile-menu {
@@ -82,10 +82,6 @@ a.blue:hover {
 /*this what happens when screen width < 600*/
 
 @media only screen and (max-width: 600px) {
-  #napis {
-    width: 60vw;
-  }
-
   .show-icon-menu {
     display: block;
   }
@@ -120,16 +116,18 @@ a.blue:hover {
   #mobile-web-under-construction {
     display: block;
   }
-
-  #web-under-construction {
-    display: none;
-  }
 }
 
 @media only screen and (max-width: 520px) {
   #text-in-page {
     margin-right: 10px;
     margin-left: 10px;
+    width: auto;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  #div-pata {
     width: auto;
   }
 }
