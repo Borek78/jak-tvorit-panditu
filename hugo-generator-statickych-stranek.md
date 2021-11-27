@@ -6,11 +6,7 @@ title: Hugo - generátor statických stránek
 # Hugo - generátor statických stránek
 
 Když v prohlížeči, třeba na této stránce,
-kliknete myší pravým tlačítkem, pravděpodobně uvidíte tento obrázek: <br><br>
-
-<img src="/assets/zobrazit-zdrojovy-kod-stranky.png" class="zobrazit-zdrojovy-kod"><br><br>
-
-Klikněte na "Zobrazit zdrojový kód" a uvidíte zdrojový kód stránky, kterou si prohlížíte. Bude začínat asi tímto způsobem:
+kliknete na jakékoli místo pravým tlačítkem, objeví se menu, které začíná položkou "Zpět". Klikněte na položku "Zobrazit zdrojový kód stránky" a uvidíte zdrojový kód stránky, kterou si prohlížíte. Bude začínat asi tímto způsobem:
 
 ```
 
