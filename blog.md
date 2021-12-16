@@ -26,13 +26,13 @@ layout: default
 
 ### [Podmínky užití blogu Jak tvořit Panditu](podminky-uziti-blogu-jak-tvorit-panditu.html) <br>
 
-### [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html) <br>
-
-### [Tvorba českého znění k videím Ajahna Brahma](poznamky-k-tvorbe-ceskeho-zneni-videi-ajahna-brahma.html) <br><br>
+### [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html) <br><br>
 
 ## R
 
 ### [Redukce audio šumu u některých videí](redukce-sumu.html)<br>
+
+### [Tvorba českého znění k videím Ajahna Brahma](poznamky-k-tvorbe-ceskeho-zneni-videi-ajahna-brahma.html) <br>
 
 ### [Typy licencí na YouTube](typy-licenci-na-youtube.html)<br>
 
