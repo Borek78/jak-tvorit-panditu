@@ -13,7 +13,7 @@ Nikdy jsem nepracoval u filmu nebo jako zvukař. Pokusím se nyní ale svými sl
 
 Polští kolegové tvoří polské znění tak, že k anglickému znění vytvoří polský komentář. Říkají tomu LEKTOR. Příkladem může být například video [Spokój to najwyższe szczęście.]() Polský komentář je hlasitější než původní zvuk. Polský komentář je bez emocí (nebo s jejich minimem), všechny emoce jsou v anglickém originálu.<br><br>
 
-Videa s LEKTOREM mi velmi připomínají videa, která jsou simultánně tlumočena: je na nich slyšet původní hlas, ale hlas překladatele je hlasitější. Viz. například toto video, které bylo vytvořeno pro český pořad EUROPARK. Zdá se mi, že jediný rozdíl je, že verze s LEKTOREM je dopředu připravena, zatímco simultánní překlad je vytvořen naživo.<br><br>
+Videa s LEKTOREM mi velmi připomínají videa, která jsou simultánně tlumočena: je na nich slyšet původní hlas, ale hlas překladatele je hlasitější. Viz. například [tento díl pořadu HYDEPARK CIVILIZACE.](https://www.ceskatelevize.cz/porady/10441294653-hyde-park-civilizace/221411058090515/) Zdá se mi, že jediný rozdíl je, že verze s LEKTOREM je dopředu připravena, zatímco simultánní překlad je vytvořen naživo.<br><br>
 
 Můžeme podobným způsobem tvořit i česká videa? Určitě můžeme. Byl by to ale ten nejlepší způsob zpracování pro české publikum? Možná, nejsem si tím ale vůbec jistý, protože v Polsku má zpracování s LEKTOREM tradici. Lidé jsou na něj zvyklí. V Čechách se tradičně používal a používá DABING.<br><br>
 
