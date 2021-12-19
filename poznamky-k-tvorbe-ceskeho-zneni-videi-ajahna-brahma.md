@@ -54,4 +54,8 @@ Výše zmínený výčet tří vlastností, které by české znění mělo mít
 
 V ideální případě by měla být stopa s českou nahrávkou dobře „poslouchatelná“ a zároveň by měla být dobře synchronizovaná s videem. Pokud to ale z nějakého důvodu nejde, určitě je lepší při tvorbě českého znění zvolit tu verzi, která je lépe „poslouchatelná“ a o trochu hůře synchronizovaná.<br><br>
 
-Možná by se dalo říci, že jako ideální se mi zdá tvořit z videí Ajahna Brahma české audioknihy, které budou časově synchronizovány s videem.
+### Závěr
+
+Lidé poslouchají v Polsku přednášky Ajahna Brahma v telefonech, v práci a při usínání. Audio nahrávky jsou k dispozici i prostřednictvím aplikací pro sdílení audio souborů jako je Spotify, SoundCloud atd. Jinými slovy, důležitá je především audionahrávka. Video je do určité míry pouze přidaná hodnota.<br><br>
+
+Možná by se dalo říci, že jako ideální se mi zdá tvořit z videí Ajahna Brahma české audioknihy, které budou časově synchronizovány s videem. <br><br>
