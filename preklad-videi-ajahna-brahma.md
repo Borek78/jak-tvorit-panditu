@@ -5,7 +5,7 @@ layout: default
 
 # PŘEKLAD VIDEÍ AJAHNA BRAHMA
 
-Video [Peace is the Highest Happiness](), které bylo publikováno v roce 2008, má (k 26.12.2021) 205 tisíc zobrazení. Jeho polská verze, [Spokój to najwyższe szczęście,]() byla publikována v roce 2017 a ke stejnému datu má 1,4 milionu zobrazení.<br><br>
+Video [Peace is the Highest Happiness](https://www.youtube.com/watch?v=8jYrr952vbg), které bylo publikováno v roce 2008, má (k 26.12.2021) 205 tisíc zobrazení. Jeho polská verze, [Spokój to najwyższe szczęście,](https://www.youtube.com/watch?v=De5JtCeUbkA&t=283s) byla publikována v roce 2017 a ke stejnému datu má 1,4 milionu zobrazení.<br><br>
 
 Jak je možné, že polská verze má o tolik více shlédnutí?<br><br>
 
