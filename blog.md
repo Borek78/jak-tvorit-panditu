@@ -26,7 +26,9 @@ layout: default
 
 ### [Podmínky užití blogu Jak tvořit Panditu](podminky-uziti-blogu-jak-tvorit-panditu.html) <br>
 
-### [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html) <br><br>
+### [Povolení k užívání videí a nahrávek](povoleni-k-uzivani-videi-a-nahravek.html) <br>
+
+### [Překlad videí Ajahna Brahma](preklad-videi-ajahna-brahma.html) <br><br>
 
 ## R
 
